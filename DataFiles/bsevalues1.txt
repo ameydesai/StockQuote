@@ -1,0 +1,63 @@
+Index0ValueBsePlus#$#ESCORTS FINA
+Index1ValueESCORTS FINANCE LTD.
+Index2Value511716
+Index3ValueB 
+Index4Value10.00
+Index5ValueESCORTSF
+Index6Value
+Index7ValueFinance (including NBFCs)
+Index8ValueN#SECTION# 
+Index9ValueMktInd13
+Index10Value6.15
+Index11Value6.47
+Index12Value
+Index13Value
+Index14Value6.16
+Index15Value0.06
+Index16Value0.98
+Index17Value2
+Index18Value400
+Index19Value5.98#SECTION#6.16 / 5.98
+Index20Value6.10 / 5.98
+Index21Value6.09
+Index22Value(Lakh)
+Index23Value0.05
+Index24Value
+Index25Value825 / 1,491.00
+Index26Value6.71 / 5.50
+Index27Value24 / 8#SECTION#100
+Index28Value6.15
+Index29Value6.47
+Index30Value70
+Index31Value100
+Index32Value6.11
+Index33Value6.48
+Index34Value1,000
+Index35Value15
+Index36Value6.10
+Index37Value6.69
+Index38Value150
+Index39Value100
+Index40Value6.01
+Index41Value6.70
+Index42Value100
+Index43Value1,000
+Index44Value6.00
+Index45Value6.71
+Index46Value100
+Index47Value7,365
+Index48Value1,420#SECTION#6.78
+Index49Value5.98
+Index50Value6.78
+Index51Value5.81
+Index52Value13.39
+Index53Value5.80
+Index54Value21 Oct 10
+Index55Value05 Sep 11
+Index56Value31.44
+Index57Value63.64
+Index58Value07 Jul 2011
+Index59Value
+Index60Value11/2/2011 3:42:37 PM
+Index61Value0
+Index62Value0#SECTION#

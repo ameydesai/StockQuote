@@ -1,0 +1,1472 @@
+CompanyName                                                            |NSE Code                                      |
+20 Microns Limited                                                     |20MICRONS                                     |
+3i Infotech Limited                                                    |3IINFOTECH                                    |
+3M India Limited                                                       |3MINDIA                                       |
+A2Z Maintenance & Engineering Services Limited                         |A2ZMES                                        |
+Aanjaneya Lifecare Limited                                             |AANJANEYA                                     |
+Aarti Drugs Limited                                                    |AARTIDRUGS                                    |
+Aarti Industries Limited                                               |AARTIIND                                      |
+Aarvee Denims & Exports Limited                                        |AARVEEDEN                                     |
+Aban Offshore Limited                                                  |ABAN                                          |
+ABB Limited                                                            |ABB                                           |
+Abbott India Limited                                                   |ABBOTINDIA                                    |
+Aditya Birla Chemicals (India) Limited                                 |ABCIL                                         |
+ABG Shipyard Limited                                                   |ABGSHIP                                       |
+Abhishek Corporation Limited                                           |ABHISHEK                                      |
+Aditya Birla Nuvo Limited                                              |ABIRLANUVO                                    |
+ACC Limited                                                            |ACC                                           |
+Action Construction Equipment Limited                                  |ACE                                           |
+Ackruti City Limited                                                   |ACKRUTI                                       |
+Acropetal Technologies Limited                                         |ACROPETAL                                     |
+Adani Enterprises Limited                                              |ADANIENT                                      |
+Adani Power Limited                                                    |ADANIPOWER                                    |
+ADF Foods Limited                                                      |ADFFOODS                                      |
+Adhunik Metaliks Limited                                               |ADHUNIK                                       |
+Ador Welding Limited                                                   |ADORWELD                                      |
+Allied Digital Services Limited                                        |ADSL                                          |
+Advani Hotels & Resorts (India) Limited                                |ADVANIHOTR                                    |
+Advanta India Limited                                                  |ADVANTA                                       |
+Aegis Logistics Limited                                                |AEGISCHEM                                     |
+Accel Frontline Limited                                                |AFL                                           |
+Aftek Limited                                                          |AFTEK                                         |
+AGC Networks Limited                                                   |AGCNET                                        |
+Agre Developers Limited                                                |AGRE                                          |
+Agro Dutch Industries Limited                                          |AGRODUTCH                                     |
+Asian Hotels (East) Limited                                            |AHLEAST                                       |
+Ahluwalia Contracts (India) Limited                                    |AHLUCONT                                      |
+Asian Hotels (West) Limited                                            |AHLWEST                                       |
+Ahmednagar Forgings Limited                                            |AHMEDFORGE                                    |
+AIA Engineering Limited                                                |AIAENG                                        |
+Ajanta Pharma Limited                                                  |AJANTPHARM                                    |
+Ajmera Realty & Infra India Limited                                    |AJMERA                                        |
+Aksh Optifibre Limited                                                 |AKSHOPTFBR                                    |
+Akzo Nobel India Limited                                               |AKZOINDIA                                     |
+Allahabad Bank                                                         |ALBK                                          |
+Alchemist Limited                                                      |ALCHEM                                        |
+Alembic Limited                                                        |ALEMBICLTD                                    |
+Alfa Laval (India) Limited                                             |ALFALAVAL                                     |
+Alkali Metals Limited                                                  |ALKALI                                        |
+Alkyl Amines Chemicals Limited                                         |ALKYLAMINE                                    |
+Allcargo Logistics Limited                                             |ALLCARGO                                      |
+Allsec Technologies Limited                                            |ALLSEC                                        |
+Almondz Global Securities Limited                                      |ALMONDZ                                       |
+Alok Industries Limited                                                |ALOKTEXT                                      |
+Alpa Laboratories Limited                                              |ALPA                                          |
+Alphageo (India) Limited                                               |ALPHAGEO                                      |
+Amar Remedies Limited                                                  |AMAR                                          |
+Amara Raja Batteries Limited                                           |AMARAJABAT                                    |
+Amarjothi Spinning Mills Limited                                       |AMARJOTHI                                     |
+Ambika Cotton Mills Limited                                            |AMBIKCO                                       |
+Ambuja Cements Limited                                                 |AMBUJACEM                                     |
+AMD Industries Limited                                                 |AMDIND                                        |
+AML Steel Limited                                                      |AMLSTEEL                                      |
+Amrutanjan Health Care Limited                                         |AMRUTANJAN                                    |
+Amtek Auto Limited                                                     |AMTEKAUTO                                     |
+Amtek India Limited                                                    |AMTEKINDIA                                    |
+Anant Raj Industries Limited                                           |ANANTRAJ                                      |
+Andhra Bank                                                            |ANDHRABANK                                    |
+The Andhra Sugars Limited                                              |ANDHRSUGAR                                    |
+ANG Industries Limited                                                 |ANGIND                                        |
+Anik Industries Limited                                                |ANIKINDS                                      |
+Ansal Properties & Infrastructure Limited                              |ANSALAPI                                      |
+Ansal Housing and Construction Limited                                 |ANSALHSG                                      |
+Apar Industries Limited                                                |APARINDS                                      |
+Apcotex Industries Limited                                             |APCOTEXIND                                    |
+Alstom Projects India Limited                                          |APIL                                          |
+Aplab Limited                                                          |APLAB                                         |
+Alembic Pharmaceuticals Limited                                        |APLLTD                                        |
+Apollo Hospitals Enterprise Limited                                    |APOLLOHOSP                                    |
+Apollo Tyres Limited                                                   |APOLLOTYRE                                    |
+The Andhra Pradesh Paper Mills Limited                                 |APPAPER                                       |
+Aptech Limited                                                         |APTECHT                                       |
+Aqua Logistics Limited                                                 |AQUA                                          |
+Archies Limited                                                        |ARCHIES                                       |
+Areva T&D India Limited                                                |AREVAT&D                                      |
+Aries Agro Limited                                                     |ARIES                                         |
+Arihant Foundations & Housing Limited                                  |ARIHANT                                       |
+Arvind Remedies Limited                                                |ARL                                           |
+Aro Granite Industries Limited                                         |AROGRANITE                                    |
+Arrow Textiles Limited                                                 |ARROWTEX                                      |
+Arshiya International Limited                                          |ARSHIYA                                       |
+ARSS Infrastructure Projects Limited                                   |ARSSINFRA                                     |
+Arvind Limited                                                         |ARVIND                                        |
+Asahi India Glass Limited                                              |ASAHIINDIA                                    |
+Asahi Songwon Colors Limited                                           |ASAHISONG                                     |
+Automotive Stampings and Assemblies Limited                            |ASAL                                          |
+Ashapura Minechem Limited                                              |ASHAPURMIN                                    |
+Ashco Niulab Industries Limited                                        |ASHCONIUL                                     |
+Ashiana Housing Limited                                                |ASHIANA                                       |
+Ashima Limited                                                         |ASHIMASYN                                     |
+Ashoka Buildcon Limited                                                |ASHOKA                                        |
+Ashok Leyland Limited                                                  |ASHOKLEY                                      |
+Asian Hotels (North) Limited                                           |ASIANHOTNR                                    |
+Asian Paints Limited                                                   |ASIANPAINT                                    |
+Asian Granito India Limited                                            |ASIANTILES                                    |
+Amit Spinning Industries Limited                                       |ASIL                                          |
+Assam Company India Limited                                            |ASSAMCO                                       |
+Astec LifeSciences Limited                                             |ASTEC                                         |
+Aster Silicates Limited                                                |ASTERSILI                                     |
+Astral Poly Technik Limited                                            |ASTRAL                                        |
+Astra Microwave Products Limited                                       |ASTRAMICRO                                    |
+AstraZeneca Pharma India Limited                                       |ASTRAZEN                                      |
+Agro Tech Foods Limited                                                |ATFL                                          |
+Atlanta  Limited                                                       |ATLANTA                                       |
+Atlas Cycles (Haryana) Limited                                         |ATLASCYCLE                                    |
+ATN International Limited                                              |ATNINTER                                      |
+Atul Limited                                                           |ATUL                                          |
+Aurionpro Solutions Limited                                            |AURIONPRO                                     |
+Aurobindo Pharma Limited                                               |AUROPHARMA                                    |
+Ausom Enterprise Limited                                               |AUSOMENT                                      |
+Automotive Axles Limited                                               |AUTOAXLES                                     |
+Autoline Industries Limited                                            |AUTOIND                                       |
+Autolite (India) Limited                                               |AUTOLITIND                                    |
+Aventis Pharma Limited                                                 |AVENTIS                                       |
+AVT Natural Products Limited                                           |AVTNPL                                        |
+Axis-IT&T Limited                                                      |AXIS-IT&T                                     |
+Axis Bank Limited                                                      |AXISBANK                                      |
+B.A.G Films and Media Limited                                          |BAGFILMS                                      |
+Bajaj Auto Limited                                                     |BAJAJ-AUTO                                    |
+Bajaj Corp Limited                                                     |BAJAJCORP                                     |
+Bajaj Electricals Limited                                              |BAJAJELEC                                     |
+Bajaj Finserv Limited                                                  |BAJAJFINSV                                    |
+Bajaj Hindusthan Limited                                               |BAJAJHIND                                     |
+Bajaj Holdings & Investment Limited                                    |BAJAJHLDNG                                    |
+Bajaj Finance Limited                                                  |BAJFINANCE                                    |
+Balaji Telefilms Limited                                               |BALAJITELE                                    |
+Balaji Amines Limited                                                  |BALAMINES                                     |
+Balkrishna Industries Limited                                          |BALKRISIND                                    |
+Ballarpur Industries Limited                                           |BALLARPUR                                     |
+Balmer Lawrie & Company Limited                                        |BALMLAWRIE                                    |
+Bal Pharma Limited                                                     |BALPHARMA                                     |
+Balrampur Chini Mills Limited                                          |BALRAMCHIN                                    |
+Bannari Amman Sugars Limited                                           |BANARISUG                                     |
+Banco Products (I) Limited                                             |BANCOINDIA                                    |
+Bang Overseas Limited                                                  |BANG                                          |
+Bank of Baroda                                                         |BANKBARODA                                    |
+Bank of Baroda                                                         |BANKBARODA                                    |
+Bank of India                                                          |BANKINDIA                                     |
+Bank of India                                                          |BANKINDIA                                     |
+Banswara Syntex Limited                                                |BANSWRAS                                      |
+Bartronics India Limited                                               |BARTRONICS                                    |
+BASF India Limited                                                     |BASF                                          |
+Bannari Amman Spinning Mills Limited                                   |BASML                                         |
+Bata India Limited                                                     |BATAINDIA                                     |
+Batliboi Limited                                                       |BATLIBOI                                      |
+Bayer Cropscience Limited                                              |BAYERCROP                                     |
+Bharat Bijlee Limited                                                  |BBL                                           |
+Bombay Burmah Trading Corporation Limited                              |BBTC                                          |
+Beardsell Limited                                                      |BEARDSELL                                     |
+Bedmutha Industries Limited                                            |BEDMUTHA                                      |
+Bharat Electronics Limited                                             |BEL                                           |
+Bell Ceramics Limited                                                  |BELLCERATL                                    |
+BEML Limited                                                           |BEML                                          |
+Bhansali Engineering Polymers Limited                                  |BEPL                                          |
+Berger Paints (I) Limited                                              |BERGEPAINT                                    |
+BF Investment Limited                                                  |BFINVEST                                      |
+BF Utilities Limited                                                   |BFUTILITIE                                    |
+Bharatiya Global Infomedia Limited                                     |BGLOBAL                                       |
+BGR Energy Systems Limited                                             |BGRENERGY                                     |
+Bhagwati Banquets and Hotels Limited                                   |BHAGWATIHO                                    |
+Bhagyanagar India Limited                                              |BHAGYNAGAR                                    |
+Bharat Forge Limited                                                   |BHARATFORG                                    |
+Bharat Gears Limited                                                   |BHARATGEAR                                    |
+Bharat Rasayan Limited                                                 |BHARATRAS                                     |
+Bharti Airtel Limited                                                  |BHARTIARTL                                    |
+Bharati Shipyard Limited                                               |BHARTISHIP                                    |
+Bharat Heavy Electricals Limited                                       |BHEL                                          |
+Bhushan Steel Limited                                                  |BHUSANSTL                                     |
+Bhartiya International Limited                                         |BIL                                           |
+Bilpower  Limited                                                      |BILPOWER                                      |
+Bimetal Bearings Limited                                               |BIMETAL                                       |
+Binani Industries Limited                                              |BINANIIND                                     |
+Oswal Chemicals & Fertilizers Limited                                  |BINDALAGRO                                    |
+Biocon Limited                                                         |BIOCON                                        |
+Birla Corporation Limited                                              |BIRLACORPN                                    |
+Birla Cotsyn (India) Limited                                           |BIRLACOT                                      |
+Birla Ericsson Optical Limited                                         |BIRLAERIC                                     |
+Birla Power Solutions Limited                                          |BIRLAPOWER                                    |
+BLB Limited                                                            |BLBLIMITED                                    |
+Bliss GVS Pharma Limited                                               |BLISSGVS                                      |
+B. L. Kashyap and Sons Limited                                         |BLKASHYAP                                     |
+Blue Chip India Limited                                                |BLUECHIP                                      |
+Blue Coast Hotels and Resorts Limited                                  |BLUECOAST                                     |
+Blue Dart Express Limited                                              |BLUEDART                                      |
+Blue Star Limited                                                      |BLUESTARCO                                    |
+Blue Star Infotech Limited                                             |BLUESTINFO                                    |
+BOC India Limited                                                      |BOC                                           |
+Bodal Chemicals Limited                                                |BODALCHEM                                     |
+Bombay Dyeing & Mfg Company Limited                                    |BOMDYEING                                     |
+Bosch Limited                                                          |BOSCHLTD                                      |
+Bharat Petroleum Corporation Limited                                   |BPCL                                          |
+BPL Limited                                                            |BPL                                           |
+Brandhouse Retails Limited                                             |BRANDHOUSE                                    |
+Bombay Rayon Fashions Limited                                          |BRFL                                          |
+Brigade Enterprises Limited                                            |BRIGADE                                       |
+Britannia Industries Limited                                           |BRITANNIA                                     |
+Broadcast Initiatives Limited                                          |BROADCAST                                     |
+Brooks Laboratories Limited                                            |BROOKS                                        |
+BSEL Infrastructure Realty Limited                                     |BSELINFRA                                     |
+BSL Limited                                                            |BSL                                           |
+BS TransComm Limited                                                   |BSTRANSCOM                                    |
+Barak Valley Cements Limited                                           |BVCL                                          |
+Cadila Healthcare Limited                                              |CADILAHC                                      |
+Cairn India Limited                                                    |CAIRN                                         |
+California Software Company Limited                                    |CALSOFT                                       |
+Cambridge Solutions Limited                                            |CAMBRIDGE                                     |
+Camlin Limited                                                         |CAMLIN                                        |
+Canara Bank                                                            |CANBK                                         |
+C & C Constructions Limited                                            |CANDC                                         |
+Can Fin Homes Limited                                                  |CANFINHOME                                    |
+Cantabil Retail India Limited                                          |CANTABIL                                      |
+Carborundum Universal Limited                                          |CARBORUNIV                                    |
+Carol Info Services Limited                                            |CAROLINFO                                     |
+Castrol India Limited                                                  |CASTROL                                       |
+Consolidated Construction Consortium Limited                           |CCCL                                          |
+CCL Products (India) Limited                                           |CCL                                           |
+CEAT Limited                                                           |CEATLTD                                       |
+Commercial Engineers & Body Builders Co Limited                        |CEBBCO                                        |
+Celebrity Fashions Limited                                             |CELEBRITY                                     |
+Celestial Biolabs Limited                                              |CELESTIAL                                     |
+Century Enka Limited                                                   |CENTENKA                                      |
+Century Extrusions Limited                                             |CENTEXT                                       |
+Central Bank of India                                                  |CENTRALBK                                     |
+Centum Electronics Limited                                             |CENTUM                                        |
+Century Plyboards (India) Limited                                      |CENTURYPLY                                    |
+Century Textiles & Industries Limited                                  |CENTURYTEX                                    |
+Cera Sanitaryware Limited                                              |CERA                                          |
+CESC Limited                                                           |CESC                                          |
+Chambal Fertilizers & Chemicals Limited                                |CHAMBLFERT                                    |
+Chemfab Alkalis Limited                                                |CHEMFALKAL                                    |
+Chemplast Sanmar Limited                                               |CHEMPLAST                                     |
+Chennai Petroleum Corporation Limited                                  |CHENNPETRO                                    |
+Cheslind Textiles Limited                                              |CHESLINTEX                                    |
+Chettinad Cement Corporation Limited                                   |CHETTINAD                                     |
+Cholamandalam Investment and Finance Company Limited                   |CHOLAFIN                                      |
+CIL Nova Petrochemicals Limited                                        |CILNOVA                                       |
+Cimmco Birla Limited                                                   |CIMMCO                                        |
+Cinemax India Limited                                                  |CINEMAX                                       |
+Cinevistaas Limited                                                    |CINEVISTA                                     |
+Cipla Limited                                                          |CIPLA                                         |
+Classic Diamonds (India) Limited                                       |CLASSIC                                       |
+Clariant Chemicals (India) Limited                                     |CLNINDIA                                      |
+Clutch Auto Limited                                                    |CLUTCHAUTO                                    |
+C. Mahendra Exports Limited                                            |CMAHENDRA                                     |
+CMC Limited                                                            |CMC                                           |
+Coal India Limited                                                     |COALINDIA                                     |
+Colgate Palmolive (India) Limited                                      |COLPAL                                        |
+Compuage Infocom Limted                                                |COMPUAGE                                      |
+Container Corporation of India Limited                                 |CONCOR                                        |
+Consolidated Finvest & Holdings Limited                                |CONSOFINVT                                    |
+Coral Hub Limited                                                      |CORAL-HUB                                     |
+Cords Cable Industries Limited                                         |CORDSCABLE                                    |
+CORE Education & Technologies Limited                                  |COREEDUTEC                                    |
+Coromandel Engineering Company Limited                                 |COROENGG                                      |
+Coromandel International Limited                                       |COROMANDEL                                    |
+Corporation Bank                                                       |CORPBANK                                      |
+Cosmo Films Limited                                                    |COSMOFILMS                                    |
+Cox & Kings Limited                                                    |COX&KINGS                                     |
+Career Point Infosystems Limited                                       |CPIL                                          |
+Creative Eye Limited                                                   |CREATIVEYE                                    |
+Crest Animation Studios Limited                                        |CRESTANI                                      |
+Crew B.O.S. Products Limited                                           |CREWBOS                                       |
+CRISIL Limited                                                         |CRISIL                                        |
+Crompton  Greaves Limited                                              |CROMPGREAV                                    |
+Cronimet Alloys India Limited                                          |CRONIMET                                      |
+Cambridge Technology Enterprises Limited                               |CTE                                           |
+City Union Bank Limited                                                |CUB                                           |
+Cubex Tubings Limited                                                  |CUBEXTUB                                      |
+Cummins India Limited                                                  |CUMMINSIND                                    |
+Cura Technologies Limited                                              |CURATECH                                      |
+Cyber Media (India) Limited                                            |CYBERMEDIA                                    |
+Cybertech Systems And Software Limited                                 |CYBERTECH                                     |
+LT Foods Limited                                                       |DAAWAT                                        |
+Dabur India Limited                                                    |DABUR                                         |
+Dalmia Bharat Enterprises Limited                                      |DALMIABEL                                     |
+Dalmia Bharat Sugar and Industries Limited                             |DALMIASUG                                     |
+Datamatics Global Services Limited                                     |DATAMATICS                                    |
+D.B.Corp Limited                                                       |DBCORP                                        |
+D B Realty Limited                                                     |DBREALTY                                      |
+Development Credit Bank Limited                                        |DCB                                           |
+Deccan Chronicle Holdings Limited                                      |DCHL                                          |
+DCM  Limited                                                           |DCM                                           |
+DCM Shriram Consolidated Limited                                       |DCMSRMCONS                                    |
+DCW Limited                                                            |DCW                                           |
+Deccan Cements Limited                                                 |DECCANCE                                      |
+Decolight Ceramics Limited                                             |DECOLIGHT                                     |
+Deepak Fertilizers and Petrochemicals Corporation Limited              |DEEPAKFERT                                    |
+Deepak Nitrite Limited                                                 |DEEPAKNTR                                     |
+Deep Industries Limited                                                |DEEPIND                                       |
+Delta Corp Limited                                                     |DELTACORP                                     |
+Delta Magnets Limited                                                  |DELTAMAGNT                                    |
+Den Networks Limited                                                   |DEN                                           |
+Dena Bank                                                              |DENABANK                                      |
+De Nora India Limited                                                  |DENORA                                        |
+Denso India Limited                                                    |DENSO                                         |
+Dewan Housing Finance Corporation Limited                              |DEWANHOUS                                     |
+The Dhampur Sugar Mills Limited                                        |DHAMPURSUG                                    |
+Dhanlaxmi Bank Limited                                                 |DHANBANK                                      |
+Dhanuka Agritech Limited                                               |DHANUKA                                       |
+Dharani Sugars & Chemicals Limited                                     |DHARSUGAR                                     |
+Diamond Power Infra Ltd                                                |DIAPOWER                                      |
+DIC India Limited                                                      |DICIND                                        |
+Digjam Limited                                                         |DIGJAM                                        |
+Dishman Pharmaceuticals and Chemicals Limited                          |DISHMAN                                       |
+Dish TV India Limited                                                  |DISHTV                                        |
+Divi's Laboratories Limited                                            |DIVISLAB                                      |
+DLF Limited                                                            |DLF                                           |
+D-Link (India) Limited                                                 |DLINKINDIA                                    |
+Dolphin Offshore Enterprises (India) Limited                           |DOLPHINOFF                                    |
+Donear Industries Limited                                              |DONEAR                                        |
+DPSC Limited                                                           |DPSCLTD                                       |
+Dhunseri Petrochem & Tea Limited                                       |DPTL                                          |
+DQ Entertainment (International) Limited                               |DQE                                           |
+Dredging Corporation of India Limited                                  |DREDGECORP                                    |
+Dr. Reddy's Laboratories Limited                                       |DRREDDY                                       |
+DS Kulkarni Developers Limited                                         |DSKULKARNI                                    |
+Dwarikesh Sugar Industries Limited                                     |DWARKESH                                      |
+Dynamatic Technologies Limited                                         |DYNAMATECH                                    |
+Dynacons Systems & Solutions Limited                                   |DYNASYS                                       |
+Eastern Silk Industries Limited                                        |EASTSILK                                      |
+ECE Industries Limited                                                 |ECEIND                                        |
+eClerx Services Limited                                                |ECLERX                                        |
+eClerx Services Limited                                                |ECLERX                                        |
+Edelweiss Financial Services Limited                                   |EDELWEISS                                     |
+Empee Distilleries Limited                                             |EDL                                           |
+Edserv Softsystems Limited                                             |EDSERV                                        |
+Educomp Solutions Limited                                              |EDUCOMP                                       |
+Eicher Motors Limited                                                  |EICHERMOT                                     |
+EID Parry India Limited                                                |EIDPARRY                                      |
+EIH Associated Hotels Limited                                          |EIHAHOTELS                                    |
+EIH Limited                                                            |EIHOTEL                                       |
+Eimco Elecon (India) Limited                                           |EIMCOELECO                                    |
+Everest Kanto Cylinder Limited                                         |EKC                                           |
+Elder Pharmaceuticals Limited                                          |ELDERPHARM                                    |
+Elecon Engineering Company Limited                                     |ELECON                                        |
+Electrosteel Castings Limited                                          |ELECTCAST                                     |
+EL Forge Limited                                                       |ELFORGE                                       |
+Elgi Equipments Limited                                                |ELGIEQUIP                                     |
+Elnet Technologies Limited                                             |ELNET                                         |
+Emami Infrastructure Limited                                           |EMAMIINFRA                                    |
+Emami Limited                                                          |EMAMILTD                                      |
+Emco Limited                                                           |EMCO                                          |
+Emkay Global Financial Services Limited                                |EMKAY                                         |
+Emmbi Polyarns Limited                                                 |EMMBI                                         |
+Empee Sugars and Chemicals Limited                                     |EMPEESUG                                      |
+Energy Development Company Limited                                     |ENERGYDEV                                     |
+Engineers India Limited                                                |ENGINERSIN                                    |
+Entertainment Network (India) Limited                                  |ENIL                                          |
+Eon Electric Limited                                                   |EONELECT                                      |
+Era Infra Engineering Limited                                          |ERAINFRA                                      |
+Eros International Media Limited                                       |EROSMEDIA                                     |
+Esab India Limited                                                     |ESABINDIA                                     |
+Escorts Limited                                                        |ESCORTS                                       |
+Electrosteel Steels Limited                                            |ESL                                           |
+Essar Oil Limited                                                      |ESSAROIL                                      |
+Essar Ports Limited                                                    |ESSARPORTS                                    |
+Ess Dee Aluminium Limited                                              |ESSDEE                                        |
+Essel Propack Limited                                                  |ESSELPACK                                     |
+Ester Industries Limited                                               |ESTER                                         |
+Euro Multivision Limited                                               |EUROMULTI                                     |
+Eurotex Industries and Exports Limited                                 |EUROTEXIND                                    |
+Eveready Industries India Limited                                      |EVEREADY                                      |
+Everest Industries Limited                                             |EVERESTIND                                    |
+Everonn Education Limited                                              |EVERONN                                       |
+Excel Crop Care Limited                                                |EXCELCROP                                     |
+Excel Industries Limited                                               |EXCELINDUS                                    |
+Excel Infoways Limited                                                 |EXCELINFO                                     |
+Exide Industries Limited                                               |EXIDEIND                                      |
+Fertilizers and Chemicals Travancore Limited                           |FACT                                          |
+FAG Bearings India Limited                                             |FAGBEARING                                    |
+Fame India Limited                                                     |FAME                                          |
+Farmax India Limited                                                   |FARMAXIND                                     |
+Future Capital Holdings Limited                                        |FCH                                           |
+FCS Software Solutions Limited                                         |FCSSOFT                                       |
+FDC Limited                                                            |FDC                                           |
+Fedders Lloyd Corporation Limited                                      |FEDDERLOYD                                    |
+The Federal Bank  Limited                                              |FEDERALBNK                                    |
+Fiem Industries Limited                                                |FIEMIND                                       |
+Filatex India Limited                                                  |FILATEX                                       |
+Financial Technologies (India) Limited                                 |FINANTECH                                     |
+Finolex Cables Limited                                                 |FINCABLES                                     |
+Finolex Industries Limited                                             |FINPIPE                                       |
+First Leasing Company of India Limited                                 |FIRSTLEASE                                    |
+First Winner Industries Limited                                        |FIRSTWIN                                      |
+Fresenius Kabi Oncology Limited                                        |FKONCO                                        |
+Flexituff International Limited                                        |FLEXITUFF                                     |
+Federal-Mogul Goetze (India) Limited.                                  |FMGOETZE                                      |
+Fortis Healthcare (India) Limited                                      |FORTIS                                        |
+Foseco India Limited                                                   |FOSECOIND                                     |
+Firstsource Solutions Limited                                          |FSL                                           |
+Franklin Templeton Capital Protection Oriented Fund                    |FTCPOF5YDV                                    |
+Franklin Templeton Capital Protection Oriented Fund                    |FTCPOF5YGR                                    |
+Franklin Templeton Mutual Fund-Capital Safety Fund-5Y Dividend Option  |FTCSF5YDIV                                    |
+Franklin Templeton Mutual Fund-Capital Safety Fund-5Y (Growth Option)  |FTCSF5YGRO                                    |
+Future Ventures India Limited                                          |FUTUREVENT                                    |
+Gabriel India Limited                                                  |GABRIEL                                       |
+Gujarat Ambuja Exports Limited                                         |GAEL                                          |
+GAIL (India) Limited                                                   |GAIL                                          |
+Gyscoal Alloys Limited                                                 |GAL                                           |
+Gallantt Metal Limited                                                 |GALLANTT                                      |
+Gammon Infrastructure Projects Limited                                 |GAMMNINFRA                                    |
+Gammon India Limited                                                   |GAMMONIND                                     |
+Gandhi Special Tubes Limited                                           |GANDHITUBE                                    |
+Ganesh Housing Corporation Limited                                     |GANESHHOUC                                    |
+Gangotri Textiles Limited                                              |GANGOTRI                                      |
+Garden Silk Mills Limited                                              |GARDENSILK                                    |
+Garware  Wall Ropes Limited                                            |GARWALLROP                                    |
+GATI Limited                                                           |GATI                                          |
+Gayatri Projects Limited                                               |GAYAPROJ                                      |
+Gateway Distriparks Limited                                            |GDL                                           |
+GeeCee Ventures Limited                                                |GEECEE                                        |
+GEI Industrial Systems Limited                                         |GEINDSYS                                      |
+Gemini Communication Limited                                           |GEMINI                                        |
+Genesys International Corporation Limited                              |GENESYS                                       |
+Genus Power Infrastructures Limited                                    |GENUSPOWER                                    |
+Geodesic Limited                                                       |GEODESIC                                      |
+Geojit BNP Paribas Financial Services Limited                          |GEOJITBNPP                                    |
+Geometric Limited                                                      |GEOMETRIC                                     |
+The Great Eastern Shipping Company Limited                             |GESHIP                                        |
+GHCL Limited                                                           |GHCL                                          |
+GIC Housing Finance Limited                                            |GICHSGFIN                                     |
+Gillanders Arbuthnot & Company Limited                                 |GILLANDERS                                    |
+Gillette India Limited                                                 |GILLETTE                                      |
+Ginni Filaments Limited                                                |GINNIFILA                                     |
+Gujarat Industries Power Company Limited                               |GIPCL                                         |
+GI Engineering Solutions Limited                                       |GISOLUTION                                    |
+Gitanjali Gems Limited                                                 |GITANJALI                                     |
+GKB Ophthalmics Limited                                                |GKB                                           |
+GKW Limited                                                            |GKWLIMITED                                    |
+GlaxoSmithKline Pharmaceuticals Limited                                |GLAXO                                         |
+Glenmark Pharmaceuticals Limited                                       |GLENMARK                                      |
+Gujarat Lease Financing Limited                                        |GLFL                                          |
+Global Vectra Helicorp Limited                                         |GLOBALVECT                                    |
+Global Offshore Services Limited                                       |GLOBOFFS                                      |
+Globus Spirits Limited                                                 |GLOBUSSPR                                     |
+Glodyne Technoserve Limited                                            |GLODYNE                                       |
+Glory Polyfilms Limited                                                |GLORY                                         |
+GM Breweries Limited                                                   |GMBREW                                        |
+Gujarat Mineral Development Corporation Limited                        |GMDCLTD                                       |
+GMR Infrastructure Limited                                             |GMRINFRA                                      |
+Gujarat Narmada Valley Fertilizer Company Limited                      |GNFC                                          |
+Goa Carbon Limited                                                     |GOACARBON                                     |
+Godfrey Phillips India Limited                                         |GODFRYPHLP                                    |
+Godrej Consumer Products Limited                                       |GODREJCP                                      |
+Godrej Industries Limited                                              |GODREJIND                                     |
+Godrej Properties Limited                                              |GODREJPROP                                    |
+Goenka Diamond and Jewels Limited                                      |GOENKA                                        |
+Gokaldas Exports Limited                                               |GOKEX                                         |
+Gokul Refoils and Solvent Limited                                      |GOKUL                                         |
+Golden Tobacco Limited                                                 |GOLDENTOBC                                    |
+Goldiam International Limited                                          |GOLDIAM                                       |
+Goldstone Infratech Limited                                            |GOLDINFRA                                     |
+Goldstone Technologies Limited                                         |GOLDTECH                                      |
+Godawari Power And Ispat limited                                       |GPIL                                          |
+Gujarat Pipavav Port Limited                                           |GPPL                                          |
+Grabal Alok Impex Limited                                              |GRABALALK                                     |
+Granules India Limited                                                 |GRANULES                                      |
+Graphite India Limited                                                 |GRAPHITE                                      |
+Grasim Industries Limited                                              |GRASIM                                        |
+Grasim Industries Limited                                              |GRASIM                                        |
+Gravita India Limited                                                  |GRAVITA                                       |
+Greaves Cotton Limited                                                 |GREAVESCOT                                    |
+Greenply Industries Limited                                            |GREENPLY                                      |
+Orient Green Power Company Limited                                     |GREENPOWER                                    |
+Grindwell Norton Limited                                               |GRINDWELL                                     |
+Gruh Finance Limited                                                   |GRUH                                          |
+Gujarat State Fertilizers & Chemicals Limited                          |GSFC                                          |
+GlaxoSmithKline Consumer Healthcare Limited                            |GSKCONS                                       |
+GSL Nova Petrochemicals Limited                                        |GSLNOVA                                       |
+Gujarat State Petronet Limited                                         |GSPL                                          |
+GSS Infotech Limited                                                   |GSS                                           |
+GTL Limited                                                            |GTL                                           |
+GTL Infrastructure Limited                                             |GTLINFRA                                      |
+GTN Industries Limited                                                 |GTNIND                                        |
+GTN Textiles Limited                                                   |GTNTEX                                        |
+Great Offshore Limited                                                 |GTOFFSHORE                                    |
+Gufic Biosciences Limited                                              |GUFICBIO                                      |
+Gujarat Alkalies and Chemicals Limited                                 |GUJALKALI                                     |
+Gujarat Apollo Industries Limited                                      |GUJAPOLLO                                     |
+Gujarat Fluorochemicals Limited                                        |GUJFLUORO                                     |
+Gujarat NRE Coke Limited                                               |GUJNRECOKE                                    |
+Gujarat NRE Coke Limited                                               |GUJNREDVR                                     |
+Gujarat Gas Company Limited                                            |GUJRATGAS                                     |
+Gujarat Sidhee Cements Limited                                         |GUJSIDHCEM                                    |
+Gujarat State Financial Corporation                                    |GUJSTATFIN                                    |
+Gulf Oil Corporation Limited                                           |GULFOILCOR                                    |
+GVK Power & Infrastructure Limited                                     |GVKPIL                                        |
+Halonix Limited                                                        |HALONIX                                       |
+Hanung Toys and Textiles Limited                                       |HANUNG                                        |
+Harita Seating Systems Limited                                         |HARITASEAT                                    |
+Harrisons  Malayalam Limited                                           |HARRMALAYA                                    |
+Hathway Cable & Datacom Limited                                        |HATHWAY                                       |
+Havells India Limited                                                  |HAVELLS                                       |
+HBL Power Systems Limited                                              |HBLPOWER                                      |
+HB Stockholdings Limited                                               |HBSTOCK                                       |
+Hindustan Construction Company Limited                                 |HCC                                           |
+Himadri Chemicals and Industries Limited                               |HCIL                                          |
+HCL Infosystems Limited                                                |HCL-INSYS                                     |
+HCL Technologies Limited                                               |HCLTECH                                       |
+Housing Development Finance Corporation Limited                        |HDFC                                          |
+HDFC Bank Limited                                                      |HDFCBANK                                      |
+Housing Development and Infrastructure Limited                         |HDIL                                          |
+HEG Limited                                                            |HEG                                           |
+HeidelbergCement India Limited                                         |HEIDELBERG                                    |
+Helios And Matheson Information Technology Limited                     |HELIOSMATH                                    |
+Hercules Hoists Limited                                                |HERCULES                                      |
+Heritage Foods (India) Limited                                         |HERITGFOOD                                    |
+Hero MotoCorp Limited                                                  |HEROMOTOCO                                    |
+Hexaware Technologies Limited                                          |HEXAWARE                                      |
+Himachal Futuristic Communications Limited                             |HFCL                                          |
+Hinduja Global Solutions Limited                                       |HGSL                                          |
+Hikal Limited                                                          |HIKAL                                         |
+Hilton Metal Forging Limited                                           |HILTON                                        |
+Himatsingka Seide Limited                                              |HIMATSEIDE                                    |
+Hindalco Industries Limited                                            |HINDALCO                                      |
+Hindustan Composites Limited                                           |HINDCOMPOS                                    |
+Hindustan Copper Limited                                               |HINDCOPPER                                    |
+Hindustan Dorr-Oliver Limited                                          |HINDDORROL                                    |
+Hindustan Motors Limited                                               |HINDMOTORS                                    |
+Hindusthan National Glass & Industries Limited                         |HINDNATGLS                                    |
+Hindustan Oil Exploration Company Limited                              |HINDOILEXP                                    |
+Hindustan Petroleum Corporation Limited                                |HINDPETRO                                     |
+Hind Syntex Limited                                                    |HINDSYNTEX                                    |
+Hinduja Foundries Limited                                              |HINDUJAFO                                     |
+Hinduja Ventures Limited                                               |HINDUJAVEN                                    |
+Hindustan Unilever Limited                                             |HINDUNILVR                                    |
+Hindustan Zinc Limited                                                 |HINDZINC                                      |
+Hira Ferro Alloys Limited                                              |HIRAFERRO                                     |
+Hind Rectifiers Limited                                                |HIRECT                                        |
+Hitachi Home and Life Solutions (India) Limited                        |HITACHIHOM                                    |
+Hi-Tech Gears Limited                                                  |HITECHGEAR                                    |
+Hitech Plast Limited                                                   |HITECHPLAS                                    |
+HMT Limited                                                            |HMT                                           |
+Hindustan Media Ventures Limited                                       |HMVL                                          |
+Hindustan Organic Chemicals Limited                                    |HOCL                                          |
+Honeywell Automation India Limited                                     |HONAUT                                        |
+Honda Siel Power Products Limited                                      |HONDAPOWER                                    |
+House of Pearl Fashions Limited                                        |HOPFL                                         |
+Horizon Infrastructure Limited                                         |HORIZONINF                                    |
+Hotel Leela Venture Limited                                            |HOTELEELA                                     |
+Hotel Rugby Limited                                                    |HOTELRUGBY                                    |
+HOV Services Limited                                                   |HOVS                                          |
+HSIL Limited                                                           |HSIL                                          |
+HT Media Limited                                                       |HTMEDIA                                       |
+Hyderabad Industries Limited                                           |HYDRBADIND                                    |
+Hydro S & S Industries Limited                                         |HYDROS&S                                      |
+Indiabulls Power Limited                                               |IBPOW                                         |
+Indiabulls Real Estate Limited                                         |IBREALEST                                     |
+Indiabulls Securities Limited                                          |IBSEC                                         |
+Indiabulls Wholesale Services Limited                                  |IBWSL                                         |
+ICICI Bank Limited                                                     |ICICIBANK                                     |
+Indo Count Industries Limited                                          |ICIL                                          |
+ICRA Limited                                                           |ICRA                                          |
+ICSA (India) Limited                                                   |ICSA                                          |
+IDBI Bank Limited                                                      |IDBI                                          |
+Idea Cellular Limited                                                  |IDEA                                          |
+Infrastructure Development Finance Company Limited                     |IDFC                                          |
+IFB Industries Limited                                                 |IFBIND                                        |
+IFCI Limited                                                           |IFCI                                          |
+IFGL Refractories Limited                                              |IFGLREFRAC                                    |
+Igarashi Motors India Limited                                          |IGARASHI                                      |
+Indraprastha Gas Limited                                               |IGL                                           |
+IG Petrochemicals Limited                                              |IGPL                                          |
+Industrial Investment Trust Limited                                    |IITL                                          |
+IL&FS Engineering and Construction Company Limited                     |IL&FSENGG                                     |
+IL&FS Transportation Networks Limited                                  |IL&FSTRANS                                    |
+Indian Metals & Ferro Alloys Limited                                   |IMFA                                          |
+India Motor Parts and Accessories Limited                              |IMPAL                                         |
+Impex Ferro Tech Limited                                               |IMPEXFERRO                                    |
+Indbank Merchant Banking Services Limited                              |INDBANK                                       |
+The Indian Hotels Company Limited                                      |INDHOTEL                                      |
+Indiabulls Financial Services Limited                                  |INDIABULLS                                    |
+The India Cements Limited                                              |INDIACEM                                      |
+India Glycols Limited                                                  |INDIAGLYCO                                    |
+India Infoline Limited                                                 |INDIAINFO                                     |
+Indian Bank                                                            |INDIANB                                       |
+Indian Card Clothing Company Limited                                   |INDIANCARD                                    |
+Indian Hume Pipe Company Limited                                       |INDIANHUME                                    |
+IMP Powers Limited                                                     |INDLMETER                                     |
+India Nippon Electricals Limited                                       |INDNIPPON                                     |
+Indoco Remedies Limited                                                |INDOCO                                        |
+Indo Rama Synthetics (India) Limited                                   |INDORAMA                                      |
+Indosolar Limited                                                      |INDOSOLAR                                     |
+Indo Tech Transformers Limited                                         |INDOTECH                                      |
+Indowind Energy Limited                                                |INDOWIND                                      |
+Indraprastha Medical Corporation Limited                               |INDRAMEDCO                                    |
+Ind-Swift Laboratories Limited                                         |INDSWFTLAB                                    |
+Ind-Swift Limited                                                      |INDSWFTLTD                                    |
+Indian Terrain Fashions Limited                                        |INDTERRAIN                                    |
+Indus Fila Limited                                                     |INDUSFILA                                     |
+IndusInd Bank Limited                                                  |INDUSINDBK                                    |
+IndusInd Bank Limited                                                  |INDUSINDBK                                    |
+INEOS ABS (India) Limited                                              |INEABS                                        |
+Infinite Computer Solutions (India) Limited                            |INFINITE                                      |
+Info-Drive Software Limited                                            |INFODRIVE                                     |
+Infomedia 18 Limited                                                   |INFOMEDIA                                     |
+Infotech Enterprises Limited                                           |INFOTECENT                                    |
+Infosys Limited                                                        |INFY                                          |
+Ingersoll Rand (India) Limited                                         |INGERRAND                                     |
+ING Vysya Bank Limited                                                 |INGVYSYABK                                    |
+ING Vysya Bank Limited                                                 |INGVYSYABK                                    |
+Innoventive Industries Limited                                         |INNOIND                                       |
+INOX Leisure Limited                                                   |INOXLEISUR                                    |
+Insecticides (India) Limited                                           |INSECTICID                                    |
+Inventure Growth & Securities Limited                                  |INVENTURE                                     |
+Indian Overseas Bank                                                   |IOB                                           |
+Indian Oil Corporation Limited                                         |IOC                                           |
+IOL Chemicals and Pharmaceuticals Limited                              |IOLCP                                         |
+IOL Netcom Limited                                                     |IOLN                                          |
+IPCA Laboratories Limited                                              |IPCALAB                                       |
+IP Rings Limited                                                       |IPRINGLTD                                     |
+IRB Infrastructure Developers Limited                                  |IRB                                           |
+Intrasoft Technologies Limited                                         |ISFT                                          |
+ISMT Limited                                                           |ISMTLTD                                       |
+ITC Limited                                                            |ITC                                           |
+ITD Cementation India Limited                                          |ITDCEM                                        |
+ITI Limited                                                            |ITI                                           |
+IL&FS Investment Managers Limited                                      |IVC                                           |
+IVP Limited                                                            |IVP                                           |
+IVRCL Assets & Holdings Limited                                        |IVRCLAH                                       |
+IVRCL Limited                                                          |IVRCLINFRA                                    |
+The Jammu & Kashmir Bank Limited                                       |J&KBANK                                       |
+Jagran Prakashan Limited                                               |JAGRAN                                        |
+Jagsonpal Pharmaceuticals Limited                                      |JAGSNPHARM                                    |
+Jai Balaji Industries Limited                                          |JAIBALAJI                                     |
+Jai Corp Limited                                                       |JAICORPLTD                                    |
+Jain Studios Limited                                                   |JAINSTUDIO                                    |
+Jamna Auto Industries Limited                                          |JAMNAAUTO                                     |
+Jayant Agro Organics Limited                                           |JAYAGROGN                                     |
+Jay Bharat Maruti Limited                                              |JAYBARMARU                                    |
+Jayaswal Neco Industries Limited                                       |JAYNECOIND                                    |
+Jayshree Tea & Industries Limited                                      |JAYSREETEA                                    |
+JB Chemicals & Pharmaceuticals Limited                                 |JBCHEPHARM                                    |
+JBF Industries Limited                                                 |JBFIND                                        |
+JBM Auto Limited                                                       |JBMA                                          |
+JCT Electronics Limited                                                |JCTEL                                         |
+Jenson & Nicholson (India) Limited                                     |JENSONICOL                                    |
+Jet Airways (India) Limited                                            |JETAIRWAYS                                    |
+JHS Svendgaard Laboratories Limited                                    |JHS                                           |
+JIK Industries Limited                                                 |JIKIND                                        |
+Jindal Photo Limited                                                   |JINDALPHOT                                    |
+Jindal Poly Films Limited                                              |JINDALPOLY                                    |
+Jindal Saw Limited                                                     |JINDALSAW                                     |
+Jindal Steel & Power Limited                                           |JINDALSTEL                                    |
+Jindal South West Holdings Limited                                     |JINDALSWHL                                    |
+Jindal Cotex Limited                                                   |JINDCOT                                       |
+Jindal Drilling And Industries Limited                                 |JINDRILL                                      |
+Jindal Worldwide Limited                                               |JINDWORLD                                     |
+Jain Irrigation Systems Limited                                        |JISLJALEQS                                    |
+JK Cement Limited                                                      |JKCEMENT                                      |
+J.Kumar Infraprojects Limited                                          |JKIL                                          |
+JK Lakshmi Cement Limited                                              |JKLAKSHMI                                     |
+JK Paper Limited                                                       |JKPAPER                                       |
+JK Tyre & Industries Limited                                           |JKTYRE                                        |
+JMC Projects (India)  Limited                                          |JMCPROJECT                                    |
+JM Financial Limited                                                   |JMFINANCIL                                    |
+JMT Auto Limited                                                       |JMTAUTOLTD                                    |
+Jocil Limited                                                          |JOCIL                                         |
+Jaiprakash Associates Limited                                          |JPASSOCIAT                                    |
+Jaypee Infratech Limited                                               |JPINFRATEC                                    |
+Jaiprakash Power Ventures Limited                                      |JPPOWER                                       |
+JSL Stainless Limited                                                  |JSL                                           |
+JSW Energy Limited                                                     |JSWENERGY                                     |
+JSW ISPAT Steel Limited                                                |JSWISPAT                                      |
+JSW Steel Limited                                                      |JSWSTEEL                                      |
+Jubilant Life Sciences Limited                                         |JUBILANT                                      |
+Jubilant Foodworks Limited                                             |JUBLFOOD                                      |
+Jubilant Industries Limited                                            |JUBLINDS                                      |
+Jumbo Bag Limited                                                      |JUMBO                                         |
+Jupiter Bioscience Limited                                             |JUPITER                                       |
+JVL Agro Industries Limited                                            |JVLAGRO                                       |
+Jyothy Laboratories Limited                                            |JYOTHYLAB                                     |
+Jyoti Structures Limited                                               |JYOTISTRUC                                    |
+Kabra Extrusion Technik Limited                                        |KABRAEXTRU                                    |
+Kajaria Ceramics Limited                                               |KAJARIACER                                    |
+Kakatiya Cement Sugar & Industries Limited                             |KAKATCEM                                      |
+Kale Consultants Limited                                               |KALECONSUL                                    |
+Kalindee Rail Nirman (Engineers) Limited                               |KALINDEE                                      |
+Kalpataru Power Transmission Limited                                   |KALPATPOWR                                    |
+Kamat Hotels (I) Limited                                               |KAMATHOTEL                                    |
+Kandagiri Spinning Mills Limited                                       |KANDAGIRI                                     |
+Kanoria Chemicals & Industries Limited                                 |KANORICHEM                                    |
+Kansai Nerolac Paints Limited                                          |KANSAINER                                     |
+Karma Energy Limited                                                   |KARMAENG                                      |
+Karur K.C.P. Packkagings Limited                                       |KARURKCP                                      |
+Karur Vysya Bank Limited                                               |KARURVYSYA                                    |
+Kaushalya Infrastructure Development Corporation Limited               |KAUSHALYA                                     |
+Kavveri Telecom Products Limited                                       |KAVVERITEL                                    |
+Kirloskar Brothers Investments Limited                                 |KBIL                                          |
+KCP Limited                                                            |KCP                                           |
+KCP Sugar and Industries Corporation Limited                           |KCPSUGIND                                     |
+KEC International Limited                                              |KEC                                           |
+Kirloskar Electric Company Limited                                     |KECL                                          |
+KEI Industries Limited                                                 |KEI                                           |
+Kemrock Industries and Exports Limited                                 |KEMROCK                                       |
+Kernex Microsystems (India) Limited                                    |KERNEX                                        |
+Kesar Enterprises Limited                                              |KESARENT                                      |
+Kesoram Industries Limited                                             |KESORAMIND                                    |
+Keynote Corporate Services Limited                                     |KEYCORPSER                                    |
+Kingfisher Airlines Limited                                            |KFA                                           |
+Karuturi Global Limited                                                |KGL                                           |
+Khaitan Electricals Limited                                            |KHAITANELE                                    |
+Khaitan (India) Limited                                                |KHAITANLTD                                    |
+Khandwala Securities Limited                                           |KHANDSE                                       |
+Kalyani Investment Company Limited                                     |KICL                                          |
+Kamdhenu Ispat Limited                                                 |KIL                                           |
+Kilitch Drugs (India) Limited                                          |KILITCH                                       |
+Kinetic Motor Company Limited                                          |KINETICMOT                                    |
+Kiri Industries Limited                                                |KIRIINDUS                                     |
+Kirloskar Brothers Limited                                             |KIRLOSBROS                                    |
+Kirloskar Oil Engines Limited                                          |KIRLOSENG                                     |
+Kirloskar Industries Limited                                           |KIRLOSIND                                     |
+Kitply Industries Limited                                              |KITPLYIND                                     |
+Kewal Kiran Clothing Limited                                           |KKCL                                          |
+KLG Systel Limited                                                     |KLGSYSTEL                                     |
+KLRF Limited                                                           |KLRF                                          |
+K.M.Sugar Mills Limited                                                |KMSUGAR                                       |
+KNR Constructions Limited                                              |KNRCON                                        |
+Kohinoor Foods Limited                                                 |KOHINOOR                                      |
+Kolte - Patil Developers Limited                                       |KOLTEPATIL                                    |
+KDL Biotech Limited                                                    |KOPDRUGS                                      |
+Kopran Limited                                                         |KOPRAN                                        |
+Kotak Mahindra Bank Limited                                            |KOTAKBANK                                     |
+Kothari Sugars And Chemicals Limited                                   |KOTARISUG                                     |
+Kothari Petrochemicals Limited                                         |KOTHARIPET                                    |
+Kothari Products Limited                                               |KOTHARIPRO                                    |
+Koutons Retail India Limited                                           |KOUTONS                                       |
+KPIT Cummins Infosystems Limited                                       |KPIT                                          |
+K.P.R. Mill Limited                                                    |KPRMILL                                       |
+KRBL Limited                                                           |KRBL                                          |
+KRBL Limited                                                           |KRBL                                          |
+Krishna Engineering Works Limited                                      |KRISHNAENG                                    |
+Kriti Industries (India) Limited                                       |KRITIIND                                      |
+KSB Pumps Limited                                                      |KSBPUMPS                                      |
+Kaveri Seed Company Limited                                            |KSCL                                          |
+KSE Limited                                                            |KSE                                           |
+KSK Energy Ventures Limited                                            |KSK                                           |
+Kalyani Steels Limited                                                 |KSL                                           |
+K S Oils Limited                                                       |KSOILS                                        |
+Kesar Terminals & Infrastructure Limited                               |KTIL                                          |
+The Karnataka Bank Limited                                             |KTKBANK                                       |
+Kwality Dairy (India) Limited                                          |KWALITY                                       |
+L&T Finance Holdings Limited                                           |L&TFH                                         |
+Lakshmi Precision Screws Limited                                       |LAKPRE                                        |
+Lakshmi Energy and Foods Limited                                       |LAKSHMIEFL                                    |
+The Lakshmi Mills Company Limited                                      |LAKSHMIMIL                                    |
+Lakshmi Vilas Bank Limited                                             |LAKSHVILAS                                    |
+Lanco Industries Limited                                               |LANCOIN                                       |
+La Opala RG Limited                                                    |LAOPALA                                       |
+Lakshmi Machine Works Limited                                          |LAXMIMACH                                     |
+LCC Infotech Limited                                                   |LCCINFOTEC                                    |
+LG Balakrishnan & Bros Limited                                         |LGBBROSLTD                                    |
+Liberty Shoes Limited                                                  |LIBERTSHOE                                    |
+LIC Housing Finance Limited                                            |LICHSGFIN                                     |
+Lanco Infratech Limited                                                |LITL                                          |
+Lloyd Electric & Engineering Limited                                   |LLOYDELENG                                    |
+Lloyds Finance Limited                                                 |LLOYDFIN                                      |
+Lloyds Steel Industries Limited                                        |LLOYDSTEEL                                    |
+LML Limited                                                            |LML                                           |
+Logix Microsystems Limited                                             |LOGIXMICRO                                    |
+Lokesh Machines Limited                                                |LOKESHMACH                                    |
+Lotus Eye Care Hospital Limited                                        |LOTUSEYE                                      |
+Lovable Lingerie Limited                                               |LOVABLE                                       |
+Landmark Property Development Company Limited                          |LPDC                                          |
+Larsen & Toubro Limited                                                |LT                                            |
+Lumax Automotive Systems Limited                                       |LUMAXAUTO                                     |
+Lumax Industries Limited                                               |LUMAXIND                                      |
+Lumax Auto Technologies Limited                                        |LUMAXTECH                                     |
+Lupin Limited                                                          |LUPIN                                         |
+Lyka Labs Limited                                                      |LYKALABS                                      |
+Mahindra & Mahindra Limited                                            |M&M                                           |
+Mahindra & Mahindra Financial Services Limited                         |M&MFIN                                        |
+Maan Aluminium Limited                                                 |MAANALU                                       |
+Madhav Marbles and Granites Limited                                    |MADHAV                                        |
+Madhucon Projects Limited                                              |MADHUCON                                      |
+Madras Cements Limited                                                 |MADRASCEM                                     |
+Madras Fertilizers Limited                                             |MADRASFERT                                    |
+Magma Fincorp Limited                                                  |MAGMA                                         |
+Magnum Ventures Limited                                                |MAGNUM                                        |
+Bank of Maharashtra                                                    |MAHABANK                                      |
+Mahindra Forgings Limited                                              |MAHINDFORG                                    |
+Mahindra Ugine Steel Company Limited                                   |MAHINDUGIN                                    |
+Mahindra Lifespace Developers Limited                                  |MAHLIFE                                       |
+Maharashtra Scooters Limited                                           |MAHSCOOTER                                    |
+Maharashtra Seamless Limited                                           |MAHSEAMLES                                    |
+Maithan Alloys Limited                                                 |MAITHANALL                                    |
+Malu Paper Mills Limited                                               |MALUPAPER                                     |
+Malwa Cotton Spg. Mills Limited                                        |MALWACOTT                                     |
+Manaksia Limited                                                       |MANAKSIA                                      |
+Manali Petrochemical Limited                                           |MANALIPETC                                    |
+Manappuram Finance Limited                                             |MANAPPURAM                                    |
+Mandhana Industries Limited                                            |MANDHANA                                      |
+Mangalam Drugs And Organics Limited                                    |MANGALAM                                      |
+Mangalore Chemicals & Fertilizers Limited                              |MANGCHEFER                                    |
+Mangalam Cement Limited                                                |MANGLMCEM                                     |
+Mangalam Timber Products Limited                                       |MANGTIMBER                                    |
+Man Industries (India) Limited                                         |MANINDS                                       |
+Man Infraconstruction Limited                                          |MANINFRA                                      |
+Manjeera Constructions Limited                                         |MANJEERA                                      |
+Manjushree Technopack Limited                                          |MANJUSHREE                                    |
+Manugraph India Limited                                                |MANUGRAPH                                     |
+Maral Overseas Limited                                                 |MARALOVER                                     |
+Marg Limited                                                           |MARG                                          |
+Marico Limited                                                         |MARICO                                        |
+Marksans Pharma Limited                                                |MARKSANS                                      |
+Maruti Suzuki India Limited                                            |MARUTI                                        |
+Mastek Limited                                                         |MASTEK                                        |
+Mawana Sugars Limited                                                  |MAWANASUG                                     |
+Max India Limited                                                      |MAX                                           |
+Maxwell Industries Limited                                             |MAXWELL                                       |
+Mcnally Bharat Engineering Company Limited                             |MBECL                                         |
+MBL Infrastructures Limited                                            |MBLINFRA                                      |
+M AND B Switchgears Limited                                            |MBSWITCH                                      |
+McDowell Holdings Limited                                              |MCDHOLDING                                    |
+United Spirits Limited                                                 |MCDOWELL-N                                    |
+Mcleod Russel India Limited                                            |MCLEODRUSS                                    |
+Megasoft Limited                                                       |MEGASOFT                                      |
+Meghmani Organics Limited                                              |MEGH                                          |
+Melstar Information Technologies Limited                               |MELSTAR                                       |
+Merck Limited                                                          |MERCK                                         |
+Mahindra Holidays & Resorts India Limited                              |MHRIL                                         |
+MIC Electronics Limited                                                |MIC                                           |
+Microsec Financial Services Limited                                    |MICROSEC                                      |
+Micro Technologies (India) Limited                                     |MICROTECH                                     |
+Minda Industries Limited                                               |MINDAIND                                      |
+MindTree Limited                                                       |MINDTREE                                      |
+MIRC Electronics Limited                                               |MIRCELECTR                                    |
+Mirza International Limited                                            |MIRZAINT                                      |
+Mercator Lines Limited                                                 |MLL                                           |
+MM Forgings Limited                                                    |MMFL                                          |
+Money Matters Financial Services Limited                               |MMFSL                                         |
+MMTC Limited                                                           |MMTC                                          |
+MOIL Limited                                                           |MOIL                                          |
+Monnet Ispat Limited                                                   |MONNETISPA                                    |
+Monsanto India Limited                                                 |MONSANTO                                      |
+Morarjee Textiles Limited                                              |MORARJETEX                                    |
+Morepen Laboratories Limited                                           |MOREPENLAB                                    |
+Moser-Baer (I) Limited                                                 |MOSERBAER                                     |
+Motherson Sumi Systems Limited                                         |MOTHERSUMI                                    |
+Motilal Oswal Financial Services Limited                               |MOTILALOFS                                    |
+The Motor & General Finance Limited                                    |MOTOGENFIN                                    |
+MphasiS Limited                                                        |MPHASIS                                       |
+MPS Limited                                                            |MPSLTD                                        |
+MRF Limited                                                            |MRF                                           |
+MRO-TEK Limited                                                        |MRO-TEK                                       |
+Mangalore Refinery and Petrochemicals Limited                          |MRPL                                          |
+MSP Steel & Power Limited                                              |MSPL                                          |
+Mahanagar Telephone Nigam Limited                                      |MTNL                                          |
+Mudra Lifestyle Limited                                                |MUDRA                                         |
+Mukand Engineers Limited                                               |MUKANDENGG                                    |
+Mukand Limited                                                         |MUKANDLTD                                     |
+Mukta Arts Limited                                                     |MUKTAARTS                                     |
+Mundra Port and Special Economic Zone Limited                          |MUNDRAPORT                                    |
+Munjal Auto Industries Limited                                         |MUNJALAU                                      |
+Munjal Showa Limited                                                   |MUNJALSHOW                                    |
+Murli Industries Limited                                               |MURLIIND                                      |
+Murudeshwar Ceramics Limited                                           |MURUDCERA                                     |
+Muthoot Finance Limited                                                |MUTHOOTFIN                                    |
+MVL Limited                                                            |MVL                                           |
+MVL Industries Limited                                                 |MVLIND                                        |
+State Bank of Mysore                                                   |MYSOREBANK                                    |
+Nagreeka Capital & Infrastructure Limited                              |NAGREEKCAP                                    |
+Nagreeka Exports Limited                                               |NAGREEKEXP                                    |
+Nahar Capital and Financial Services Limited                           |NAHARCAP                                      |
+Nahar Industrial Enterprises Limited                                   |NAHARINDUS                                    |
+Nahar Poly Films Limited                                               |NAHARPOLY                                     |
+Nahar Spinning Mills Limited                                           |NAHARSPING                                    |
+Nandan Exim Limited                                                    |NANDAN                                        |
+Natco Pharma Limited                                                   |NATCOPHARM                                    |
+Nath Seeds  Limited                                                    |NATHSEED                                      |
+National Aluminium Company Limited                                     |NATIONALUM                                    |
+National Steel And Agro Industries Limited                             |NATNLSTEEL                                    |
+Info Edge (India) Limited                                              |NAUKRI                                        |
+Navin Fluorine International Limited                                   |NAVINFLUOR                                    |
+Navneet Publications India Limited                                     |NAVNETPUBL                                    |
+Nava Bharat Ventures Limited                                           |NBVENTURES                                    |
+NCC Limited                                                            |NCC                                           |
+NCL Industries Limited                                                 |NCLIND                                        |
+Nissan Copper Limited                                                  |NCOPPER                                       |
+New Delhi Television Limited                                           |NDTV                                          |
+Nectar Lifesciences Limited                                            |NECLIFE                                       |
+Nelcast Limited                                                        |NELCAST                                       |
+NELCO Limited                                                          |NELCO                                         |
+Neocure Therapeutics Limited                                           |NEOCURE                                       |
+NEPC India Limited                                                     |NEPCMICON                                     |
+Nesco Limited                                                          |NESCO                                         |
+Nestle India Limited                                                   |NESTLEIND                                     |
+Net 4 India Limited                                                    |NET4                                          |
+Network18 Media & Investments Limited                                  |NETWORK18                                     |
+Neuland Laboratories Limited                                           |NEULANDLAB                                    |
+Next Mediaworks Limited                                                |NEXTMEDIA                                     |
+Next Mediaworks Limited                                                |NEXTMEDIA                                     |
+Neyveli Lignite Corporation Limited                                    |NEYVELILIG                                    |
+National Fertilizers Limited                                           |NFL                                           |
+NHPC Limited                                                           |NHPC                                          |
+Nicco Corporation Limited                                              |NICCO                                         |
+NIIT Limited                                                           |NIITLTD                                       |
+NIIT Technologies Limited                                              |NIITTECH                                      |
+Nilkamal Limited                                                       |NILKAMAL                                      |
+Nippo Batteries Company Limited                                        |NIPPOBATRY                                    |
+Nitco Limited                                                          |NITCO                                         |
+Nitesh Estates Limited                                                 |NITESHEST                                     |
+Nitin Fire Protection Industries Limited                               |NITINFIRE                                     |
+Nitin Spinners Limited                                                 |NITINSPIN                                     |
+NMDC Limited                                                           |NMDC                                          |
+NOCIL Limited                                                          |NOCIL                                         |
+Noida Toll Bridge Company Limited                                      |NOIDATOLL                                     |
+National Oxygen Limited                                                |NOL                                           |
+Norben Tea & Exports Limited                                           |NORBTEAEXP                                    |
+Northgate Technologies Limited                                         |NORTHGATE                                     |
+Novopan Industries Limited                                             |NOVOPANIND                                    |
+NRB Bearing Limited                                                    |NRBBEARING                                    |
+NRC Limited                                                            |NRC                                           |
+Nalwa Sons Investments Limited                                         |NSIL                                          |
+NTPC Limited                                                           |NTPC                                          |
+Nucent Finance Limited                                                 |NUCENT                                        |
+Nuchem Limited                                                         |NUCHEM                                        |
+Nucleus Software Exports Limited                                       |NUCLEUS                                       |
+Numeric Power Systems Limited                                          |NUMERICPW                                     |
+Nu Tek India Limited                                                   |NUTEK                                         |
+Oberoi Realty Limited                                                  |OBEROIRLTY                                    |
+OCL India Limited                                                      |OCL                                           |
+Oracle Financial Services Software Limited                             |OFSS                                          |
+Oil India Limited                                                      |OIL                                           |
+Oil Country Tubular Limited                                            |OILCOUNTUB                                    |
+OCL Iron and Steel Limited                                             |OISL                                          |
+Omax Autos Limited                                                     |OMAXAUTO                                      |
+Omaxe Limited                                                          |OMAXE                                         |
+Omkar Speciality Chemicals Limited                                     |OMKARCHEM                                     |
+OM Metals Infraprojects Limited                                        |OMMETALS                                      |
+Omnitech Infosolutions Limited                                         |OMNITECH                                      |
+Onelife Capital Advisors Limited                                       |ONELIFECAP                                    |
+Oil & Natural Gas Corporation Limited                                  |ONGC                                          |
+OnMobile Global Limited                                                |ONMOBILE                                      |
+Onward Technologies Limited                                            |ONWARDTEC                                     |
+Opto Circuits (India) Limited                                          |OPTOCIRCUI                                    |
+Orbit Corporation Limited                                              |ORBITCORP                                     |
+Orchid Chemicals & Pharmaceuticals Limited                             |ORCHIDCHEM                                    |
+Orient Abrasives Limited                                               |ORIENTABRA                                    |
+Oriental Trimex Limited                                                |ORIENTALTL                                    |
+Oriental Bank of Commerce                                              |ORIENTBANK                                    |
+Orient Ceramics and Industries Limited                                 |ORIENTCERA                                    |
+Oriental Hotels Limited                                                |ORIENTHOT                                     |
+Orient Press Limited                                                   |ORIENTLTD                                     |
+Orient Paper & Industries Limited                                      |ORIENTPPR                                     |
+The Orissa Minerals Development Company Limited                        |ORISSAMINE                                    |
+Oswal Minerals Limited                                                 |OSWALMIN                                      |
+The Oudh Sugar Mills Limited                                           |OUDHSUG                                       |
+PAE Limited                                                            |PAEL                                          |
+Page Industries Limited                                                |PAGEIND                                       |
+Panacea Biotec Limited                                                 |PANACEABIO                                    |
+Panama Petrochem Limited                                               |PANAMAPET                                     |
+Panasonic Home Appliances India Company Limited                        |PANASONIC                                     |
+Panasonic Carbon India Company Limited                                 |PANCARBON                                     |
+Panchsheel Organics Limited                                            |PANCHSHEEL                                    |
+Panoramic Universal Limited                                            |PANORAMUNI                                    |
+Pantaloon Retail (India) Limited                                       |PANTALOONR                                    |
+Pantaloon Retail (India) Limited                                       |PANTALOONR                                    |
+The Paper Products Limited                                             |PAPERPROD                                     |
+Parabolic Drugs Limited                                                |PARABDRUGS                                    |
+Paramount Communications Limited                                       |PARACABLES                                    |
+Parekh Aluminex Limited                                                |PARAL                                         |
+Paramount Printpackaging Limited                                       |PARAPRINT                                     |
+Paras Petrofils Limited                                                |PARASPETRO                                    |
+Parrys Sugar Industries Limited                                        |PARRYSUGAR                                    |
+Parsvnath Developers Limited                                           |PARSVNATH                                     |
+Patel Engineering Limited                                              |PATELENG                                      |
+Patel Integrated Logistics Limited                                     |PATINTLOG                                     |
+Patni Computer Systems Limited                                         |PATNI                                         |
+Patspin India Limited                                                  |PATSPINLTD                                    |
+PBA Infrastructure Limited                                             |PBAINFRA                                      |
+Parenteral Drugs (India) Limited                                       |PDPL                                          |
+Pudumjee Industries Limited                                            |PDUMJEIND                                     |
+Pudumjee Pulp & Paper Mills Limited                                    |PDUMJEPULP                                    |
+Peacock Industries Limited                                             |PEACOCKIND                                    |
+Pearl Polymers Limited                                                 |PEARLPOLY                                     |
+Pennar Industries Limited                                              |PENIND                                        |
+Peninsula Land Limited                                                 |PENINLAND                                     |
+Pearl Engineering Polymers Limited                                     |PEPL                                          |
+The Peria Karamalai Tea & Produce Company Limited                      |PERIATEA                                      |
+Persistent Systems Limited                                             |PERSISTENT                                    |
+Petron Engineering Construction Limited                                |PETRONENGG                                    |
+Petronet LNG Limited                                                   |PETRONET                                      |
+Power Finance Corporation Limited                                      |PFC                                           |
+Pfizer Limited                                                         |PFIZER                                        |
+Prime Focus Limited                                                    |PFOCUS                                        |
+PTC India Financial Services Limited                                   |PFS                                           |
+PG Electroplast Limited                                                |PGEL                                          |
+Procter & Gamble Hygiene and Health Care Limited                       |PGHH                                          |
+Phillips Carbon Black Limited                                          |PHILIPCARB                                    |
+The Phoenix Mills Limited                                              |PHOENIXLTD                                    |
+Pidilite Industries Limited                                            |PIDILITIND                                    |
+PI Industries Limited                                                  |PIIND                                         |
+Pioneer Distilleries Limited                                           |PIONDIST                                      |
+Pioneer Embroideries Limited                                           |PIONEEREMB                                    |
+Pipavav Defence and Offshore Engineering Company Limited               |PIPAVAVDOC                                    |
+Piramal Glass Limited                                                  |PIRGLASS                                      |
+Piramal Healthcare Limited                                             |PIRHEALTH                                     |
+Piramal Life Sciences Limited                                          |PIRLIFE                                       |
+Pitti Laminations Limited                                              |PITTILAM                                      |
+Plastiblends India Limited                                             |PLASTIBLEN                                    |
+Plethico Pharmaceuticals Limited                                       |PLETHICO                                      |
+Punjab National Bank                                                   |PNB                                           |
+Punjab National Bank                                                   |PNB                                           |
+PNB Gilts Limited                                                      |PNBGILTS                                      |
+Pritish Nandy Communications Limited                                   |PNC                                           |
+Pochiraju Industries Limited                                           |POCHIRAJU                                     |
+Polar Industries Limited                                               |POLARIND                                      |
+Polaris Software Lab Limited                                           |POLARIS                                       |
+Polaris Software Lab Limited                                           |POLARIS                                       |
+Polyplex Corporation Limited                                           |POLYPLEX                                      |
+Pondy Oxides & Chemicals Limited                                       |PONDYOXIDE                                    |
+Ponni Sugars (Erode) Limited                                           |PONNIERODE                                    |
+Power Grid Corporation of India Limited                                |POWERGRID                                     |
+Precision Pipes And Profiles Company Limited                           |PPAP                                          |
+Pradip Overseas Limited                                                |PRADIP                                        |
+Prajay Engineers Syndicate Limited                                     |PRAENG                                        |
+Praj Industries Limited                                                |PRAJIND                                       |
+Prakash Industries Limited                                             |PRAKASH                                       |
+Prakash Constrowell Limited                                            |PRAKASHCON                                    |
+Prakash Steelage Limited                                               |PRAKASHSTL                                    |
+Pratibha Industries Limited                                            |PRATIBHA                                      |
+Precot Meridian Limited                                                |PRECOT                                        |
+Precision Wires India Limited                                          |PRECWIRE                                      |
+Premier Limited                                                        |PREMIER                                       |
+Prestige Estates Projects Limited                                      |PRESTIGE                                      |
+Pantaloon Retail (India) Limited                                       |PRETAILDVR                                    |
+Pantaloon Retail (India) Limited                                       |PRETAILDVR                                    |
+Pricol Limited                                                         |PRICOL                                        |
+Prime Securities Limited                                               |PRIMESECU                                     |
+Prism Cement Limited                                                   |PRISMCEM                                      |
+Prithvi Information Solutions Limited                                  |PRITHVI                                       |
+Prithvi Softech Limited                                                |PRITHVISOF                                    |
+Provogue (India) Limited                                               |PROVOGUE                                      |
+Punjab & Sind Bank                                                     |PSB                                           |
+PSL Limited                                                            |PSL                                           |
+PTC India Limited                                                      |PTC                                           |
+PTL Enterprises Limited                                                |PTL                                           |
+Punjab Chemicals & Crop Protection Limited                             |PUNJABCHEM                                    |
+Punj Lloyd Limited                                                     |PUNJLLOYD                                     |
+Puravankara Projects Limited                                           |PURVA                                         |
+PVP Ventures Limited                                                   |PVP                                           |
+PVR Limited                                                            |PVR                                           |
+Quintegra Solutions Limited                                            |QUINTEGRA                                     |
+Radaan Mediaworks India Limited                                        |RADAAN                                        |
+Radico Khaitan Limited                                                 |RADICO                                        |
+Rainbow Papers Limited                                                 |RAINBOWPAP                                    |
+Rain Commodities  Limited                                              |RAINCOM                                       |
+Raisaheb Reckhchand Mohota Spinning & Weaving Mills Limited            |RAIREKMOH                                     |
+Rajesh Exports Limited                                                 |RAJESHEXPO                                    |
+Raj Oil Mills Limited                                                  |RAJOIL                                        |
+Rajapalayam Mills Limited                                              |RAJPALAYAM                                    |
+Raj Rayon Industries Limited                                           |RAJRAYON                                      |
+Rajshree Sugars & Chemicals Limited                                    |RAJSREESUG                                    |
+Raj Television Network Limited                                         |RAJTV                                         |
+Rajvir Industries Limited                                              |RAJVIR                                        |
+Rallis India Limited                                                   |RALLIS                                        |
+Rama Newsprint and Papers Limited                                      |RAMANEWS                                      |
+Ramco Industries Limited                                               |RAMCOIND                                      |
+Ramco Systems Limited                                                  |RAMCOSYS                                      |
+Ramky Infrastructure Limited                                           |RAMKY                                         |
+Ramsarup Industries Limited                                            |RAMSARUP                                      |
+Rana Sugars Limited                                                    |RANASUG                                       |
+Ranbaxy Laboratories Limited                                           |RANBAXY                                       |
+Rane Engine Valve Limited                                              |RANEENGINE                                    |
+Rane Holdings Limited                                                  |RANEHOLDIN                                    |
+Ranklin Solutions Limited                                              |RANKLIN                                       |
+Ratnamani Metals & Tubes Limited                                       |RATNAMANI                                     |
+Raymond Limited                                                        |RAYMOND                                       |
+Rane Brake Lining Limited                                              |RBL                                           |
+Reliance Broadcast Network Limited                                     |RBN                                           |
+Rashtriya Chemicals and Fertilizers Limited                            |RCF                                           |
+Reliance Communications Limited                                        |RCOM                                          |
+Rural Electrification Corporation Limited                              |RECLTD                                        |
+Redington (India) Limited                                              |REDINGTON                                     |
+Refex Refrigerants Limited                                             |REFEX                                         |
+Rei Agro Limited                                                       |REIAGROLTD                                    |
+REI Six Ten Retail Limited                                             |REISIXTEN                                     |
+Relaxo Footwears Limited                                               |RELAXO                                        |
+Reliance Capital Limited                                               |RELCAPITAL                                    |
+Reliance Industries Limited                                            |RELIANCE                                      |
+Religare Enterprises Limited                                           |RELIGARE                                      |
+Reliance Infrastructure Limited                                        |RELINFRA                                      |
+Reliance MediaWorks Limited                                            |RELMEDIA                                      |
+Remsons Industries Limited                                             |REMSONSIND                                    |
+Shree Renuka Sugars Limited                                            |RENUKA                                        |
+Repro India Limited                                                    |REPRO                                         |
+Responsive Industries Limited                                          |RESPONIND                                     |
+Resurgere Mines & Minerals India Limited                               |RESURGERE                                     |
+Revathi Equipment Limited                                              |REVATHI                                       |
+Rico Auto Industries Limited                                           |RICOAUTO                                      |
+Reliance Industrial Infrastructure Limited                             |RIIL                                          |
+Renaissance Jewellery Limited                                          |RJL                                           |
+Ravi Kumar Distilleries Limited                                        |RKDL                                          |
+Ramkrishna Forgings Limited                                            |RKFORGE                                       |
+Radha Madhav Corporation Limited                                       |RMCL                                          |
+Rane (Madras) Limited                                                  |RML                                           |
+Rohit Ferro-Tech Limited                                               |ROHITFERRO                                    |
+Royal Orchid Hotels Limited                                            |ROHLTD                                        |
+Rolta India Limited                                                    |ROLTA                                         |
+Roman Tarmat Limited                                                   |ROMAN                                         |
+RPG Life Sciences Limited                                              |RPGLIFE                                       |
+Reliance Power Limited                                                 |RPOWER                                        |
+R.P.P. Infra Projects Limited                                          |RPPINFRA                                      |
+R. S. Software (India) Limited                                         |RSSOFTWARE                                    |
+RSWM Limited                                                           |RSWM                                          |
+R Systems International Limited                                        |RSYSTEMS                                      |
+The Ruby Mills Limited                                                 |RUBYMILLS                                     |
+Ruchi Infrastructure Limited                                           |RUCHINFRA                                     |
+Ruchira Papers Limited                                                 |RUCHIRA                                       |
+Ruchi Soya Industries Limited                                          |RUCHISOYA                                     |
+Rushil Decor Limited                                                   |RUSHIL                                        |
+Sabero Organics Gujarat Limited                                        |SABERORGAN                                    |
+Sadbhav Engineering Limited                                            |SADBHAV                                       |
+Sagar Cements Limited                                                  |SAGCEM                                        |
+Sah Petroleums Limited                                                 |SAHPETRO                                      |
+Steel Authority of India Limited                                       |SAIL                                          |
+Sakthi Sugars Limited                                                  |SAKHTISUG                                     |
+Saksoft Limited                                                        |SAKSOFT                                       |
+Sakuma Exports Limited                                                 |SAKUMA                                        |
+Salona Cotspin Limited                                                 |SALONACOT                                     |
+Salora International Limited                                           |SALORAINTL                                    |
+S.A.L. Steel Limited                                                   |SALSTEEL                                      |
+Sambandam Spinning Mills Limited                                       |SAMBANDAM                                     |
+Sambhaav Media Limited                                                 |SAMBHAAV                                      |
+The Sandesh Limited                                                    |SANDESH                                       |
+Sangam (India) Limited                                                 |SANGAMIND                                     |
+Sanghi Polyesters Limited                                              |SANGHIPOLY                                    |
+Sanghvi Forging and Engineering Limited                                |SANGHVIFOR                                    |
+Sanghvi Movers Limited                                                 |SANGHVIMOV                                    |
+Sanwaria Agro Oils Limited                                             |SANWARIA                                      |
+Sarda Energy & Minerals Limited                                        |SARDAEN                                       |
+Saregama India Limited                                                 |SAREGAMA                                      |
+Sarla Performance Fibers Limited                                       |SARLAPOLY                                     |
+Sarthak Industries Limited                                             |SARTHAKIND                                    |
+Sasken Communication Technologies Limited                              |SASKEN                                        |
+Sathavahana Ispat Limited                                              |SATHAISPAT                                    |
+Satyam Computer Services Limited                                       |SATYAMCOMP                                    |
+Savera Industries Limited                                              |SAVERA                                        |
+SB&T International Limited                                             |SB&TINTL                                      |
+State Bank of Bikaner and Jaipur                                       |SBBJ                                          |
+State Bank of India                                                    |SBIN                                          |
+State Bank of Travancore                                               |SBT                                           |
+Shipping Corporation Of India Limited                                  |SCI                                           |
+Seamec Limited                                                         |SEAMECLTD                                     |
+S.E. Investments Limited                                               |SEINV                                         |
+Selan Exploration Technology Limited                                   |SELAN                                         |
+SEL Manufacturing Company Limited                                      |SELMCL                                        |
+Sentinel Tea and Exports Limited                                       |SENTINEL                                      |
+Servalakshmi Paper Limited                                             |SERVALL                                       |
+Sesa Goa Limited                                                       |SESAGOA                                       |
+Seshasayee Paper and Boards Limited                                    |SESHAPAPER                                    |
+Sezal Glass Limited                                                    |SEZALGLASS                                    |
+Shree Ganesh Forgings Limited                                          |SGFL                                          |
+Shree Ganesh Jewellery House Limited                                   |SGJHL                                         |
+STL Global Limited                                                     |SGL                                           |
+Shah Alloys Limited                                                    |SHAHALLOYS                                    |
+Shakti Pumps (India) Limited                                           |SHAKTIPUMP                                    |
+Shalimar Paints Limited                                                |SHALPAINTS                                    |
+Shanthi Gears Limited                                                  |SHANTIGEAR                                    |
+Sharyans Resources Limited                                             |SHARRESLTD                                    |
+Shasun Pharmaceuticals Limited                                         |SHASUNPHAR                                    |
+Shilpa Medicare Limited                                                |SHILPAMED                                     |
+Shilpi Cable Technologies Limited                                      |SHILPI                                        |
+Shiv-Vani Oil & Gas Exploration Services Limited                       |SHIV-VANI                                     |
+Shivam Autotech Limited                                                |SHIVAMAUTO                                    |
+Shiva Texyarn Limited                                                  |SHIVTEX                                       |
+Shri Lakshmi Cotsyn Limited                                            |SHLAKSHMI                                     |
+Shoppers Stop Limited                                                  |SHOPERSTOP                                    |
+Shree Ashtavinayak Cine Vision Limited                                 |SHREEASHTA                                    |
+Shree Cements Limited                                                  |SHREECEM                                      |
+Shree Rama Multi-Tech Limited                                          |SHREERAMA                                     |
+Shrenuj & Company Limited                                              |SHRENUJ                                       |
+Shreyans Industries Limited                                            |SHREYANIND                                    |
+Shreyas Shipping & Logistics Limited                                   |SHREYAS                                       |
+Shriram City Union Finance Limited                                     |SHRIRAMCIT                                    |
+Shriram EPC Limited                                                    |SHRIRAMEPC                                    |
+Shyam Telecom Limited                                                  |SHYAMTEL                                      |
+Sicagen India Limited                                                  |SICAGEN                                       |
+Sical Logistics Limited                                                |SICAL                                         |
+Siemens Limited                                                        |SIEMENS                                       |
+SIL Investments Limited                                                |SILINV                                        |
+Simbhaoli Sugars Limited                                               |SIMBHSUGAR                                    |
+Simplex Projects Limited                                               |SIMPLEX                                       |
+Simplex Infrastructures Limited                                        |SIMPLEXINF                                    |
+Sintex Industries Limited                                              |SINTEX                                        |
+The Sirpur Paper Mills Limited                                         |SIRPAPER                                      |
+Sita Shree Food Products Limited                                       |SITASHREE                                     |
+Siyaram Silk Mills Limited                                             |SIYSIL                                        |
+SJVN Limited                                                           |SJVN                                          |
+SKF India Limited                                                      |SKFINDIA                                      |
+SKM Egg Products Export (India) Limited                                |SKMEGGPROD                                    |
+SKS Microfinance Limited                                               |SKSMICRO                                      |
+S. Kumars Nationwide Limited                                           |SKUMARSYNF                                    |
+Smartlink Network Systems Limited                                      |SMARTLINK                                     |
+SML Isuzu Limited                                                      |SMLISUZU                                      |
+S Mobility Limited                                                     |SMOBILITY                                     |
+Sujana Metal Products Limited                                          |SMPL                                          |
+SMS Pharmaceuticals Limited                                            |SMSPHARMA                                     |
+Sobha Developers Limited                                               |SOBHA                                         |
+Software Technology Group International Limited                        |SOFTTECHGR                                    |
+Solar Industries India Limited                                         |SOLARINDS                                     |
+Somany Ceramics Limited                                                |SOMANYCERA                                    |
+Soma Textiles & Industries Limited                                     |SOMATEX                                       |
+Sona Koyo Steering Systems Limited                                     |SONASTEER                                     |
+Sonata Software Limited                                                |SONATSOFTW                                    |
+Savita Oil Technologies Limited                                        |SOTL                                          |
+Southern Ispat And Energy Limited                                      |SOUISPAT                                      |
+The South Indian Bank Limited                                          |SOUTHBANK                                     |
+Spanco Limited                                                         |SPANCO                                        |
+Sun Pharma Advanced Research Company Limited                           |SPARC                                         |
+Spentex Industries Limited                                             |SPENTEX                                       |
+Southern Petrochemicals Industries Corporation  Limited                |SPIC                                          |
+SPML Infra Limited                                                     |SPMLINFRA                                     |
+Shekhawati Poly-Yarn Limited                                           |SPYL                                          |
+SREI Infrastructure Finance Limited                                    |SREINFRA                                      |
+SRF Limited                                                            |SRF                                           |
+SRG Infotec (India) Limited                                            |SRGINFOTEC                                    |
+SRHHL Industries Limited                                               |SRHHLINDST                                    |
+Sree Rayalaseema Hi-Strength Hypo Limited                              |SRHHYPOLTD                                    |
+Sri Chamundeswari Sugars Limited                                       |SRICHAMUND                                    |
+SRS Limited                                                            |SRSLTD                                        |
+Shriram Transport Finance Company Limited                              |SRTRANSFIN                                    |
+Steel Strips Wheels Limited                                            |SSWL                                          |
+Strides Arcolab Limited                                                |STAR                                          |
+Star Paper Mills Limited                                               |STARPAPER                                     |
+The State Trading Corporation of India Limited                         |STCINDIA                                      |
+Sterlite Industries ( India ) Limited                                  |STER                                          |
+Sterling Biotech Limited                                               |STERLINBIO                                    |
+Sterling Tools Limited                                                 |STERTOOLS                                     |
+Store One Retail India Limited                                         |STOREONE                                      |
+Sterlite Technologies Limited                                          |STRTECH                                       |
+Subex Limited                                                          |SUBEX                                         |
+Sudar Garments Limited                                                 |SUDAR                                         |
+Sudarshan Chemical Industries Limited                                  |SUDARSCHEM                                    |
+Sujana Tower Limited                                                   |SUJANATOW                                     |
+Sujana Universal Industries Limited                                    |SUJANAUNI                                     |
+Sumeet Industries Limited                                              |SUMEETINDS                                    |
+Summit Securities Limited                                              |SUMMITSEC                                     |
+Sundaram Clayton Limited                                               |SUNCLAYTON                                    |
+Sundaram Multi Pap Limited                                             |SUNDARAM                                      |
+Sundaram Finance Limited                                               |SUNDARMFIN                                    |
+Sundaram Brake Linings Limited                                         |SUNDRMBRAK                                    |
+Sundram Fasteners Limited                                              |SUNDRMFAST                                    |
+Sunflag Iron And Steel Company Limited                                 |SUNFLAG                                       |
+Sunil Hitech Engineers Limited                                         |SUNILHITEC                                    |
+Sun Pharmaceuticals Industries Limited                                 |SUNPHARMA                                     |
+Sunteck Realty Limited                                                 |SUNTECK                                       |
+Sun TV Network Limited                                                 |SUNTV                                         |
+Super Sales India Limited                                              |SUPER                                         |
+Super Spinning Mills Limited                                           |SUPERSPIN                                     |
+Supreme Petrochem Limited                                              |SUPPETRO                                      |
+Suprajit Engineering Limited                                           |SUPRAJIT                                      |
+Supreme Industries Limited                                             |SUPREMEIND                                    |
+Supreme Infrastructure India Limited                                   |SUPREMEINF                                    |
+Su-Raj Diamonds and Jewellery Limited                                  |SURAJDIAMN                                    |
+Surana Corporation Limited                                             |SURANACORP                                    |
+Surana Industries Limited                                              |SURANAIND                                     |
+Surana Telecom and Power Limited                                       |SURANAT&P                                     |
+Surana Ventures Limited                                                |SURANAVEL                                     |
+Suryajyoti Spinning Mills Limited                                      |SURYAJYOTI                                    |
+Suryalakshmi Cotton Mills Limited                                      |SURYALAXMI                                    |
+Surya Pharmaceutical Limited                                           |SURYAPHARM                                    |
+Surya Roshni Limited                                                   |SURYAROSNI                                    |
+Sutlej Textiles and Industries Limited                                 |SUTLEJTEX                                     |
+Suven Life Sciences Limited                                            |SUVEN                                         |
+Suzlon Energy Limited                                                  |SUZLON                                        |
+Swaraj Engines Limited                                                 |SWARAJENG                                     |
+Symphony Limited                                                       |SYMPHONY                                      |
+Syncom Healthcare Limited                                              |SYNCOM                                        |
+Syndicate Bank                                                         |SYNDIBANK                                     |
+Tainwala Chemical and Plastic (I) Limited                              |TAINWALCHM                                    |
+Taj GVK Hotels & Resorts Limited                                       |TAJGVK                                        |
+Take Solutions Limited                                                 |TAKE                                          |
+Taksheel Solutions Limited                                             |TAKSHEEL                                      |
+Talbros Automotive Components Limited                                  |TALBROAUTO                                    |
+Talwalkars Better Value Fitness Limited                                |TALWALKARS                                    |
+Tanfac Industries Limited                                              |TANFACIND                                     |
+Tanla Solutions Limited                                                |TANLA                                         |
+Tantia Constructions Limited                                           |TANTIACONS                                    |
+Tarapur Transformers Limited                                           |TARAPUR                                       |
+Tata Chemicals Limited                                                 |TATACHEM                                      |
+Tata Coffee Limited                                                    |TATACOFFEE                                    |
+Tata Communications Limited                                            |TATACOMM                                      |
+Tata Elxsi Limited                                                     |TATAELXSI                                     |
+Tata Global Beverages Limited                                          |TATAGLOBAL                                    |
+Tata Investment Corporation Limited                                    |TATAINVEST                                    |
+Tata Metaliks Limited                                                  |TATAMETALI                                    |
+Tata Motors Limited                                                    |TATAMOTORS                                    |
+Tata Motors Limited                                                    |TATAMTRDVR                                    |
+Tata Power Company Limited                                             |TATAPOWER                                     |
+Tata Sponge Iron Limited                                               |TATASPONGE                                    |
+Tata Steel Limited                                                     |TATASTEEL                                     |
+Transport Corporation of India Limited                                 |TCI                                           |
+TCI Developers Limited                                                 |TCIDEVELOP                                    |
+TCI Finance Limited                                                    |TCIFINANCE                                    |
+Tata Consultancy Services Limited                                      |TCS                                           |
+TD Power Systems Limited                                               |TDPOWERSYS                                    |
+Tech Mahindra Limited                                                  |TECHM                                         |
+Techno Electric & Engineering Company Limited                          |TECHNO                                        |
+Technofab Engineering Limited                                          |TECHNOFAB                                     |
+Tecpro Systems Limited                                                 |TECPRO                                        |
+Teledata Technology Solutions Limited                                  |TELEDATAIT                                    |
+Teledata Marine Solutions Limited                                      |TELEMARINE                                    |
+Texmaco Limited                                                        |TEXMACOLTD                                    |
+Texmo Pipes and Products Limited                                       |TEXMOPIPES                                    |
+Texmaco Rail & Engineering Limited                                     |TEXRAIL                                       |
+Tourism Finance Corporation of India Limited                           |TFCILTD                                       |
+Transwarranty Finance Limited                                          |TFL                                           |
+Thangamayil Jewellery Limited                                          |THANGAMAYL                                    |
+Themis Medicare Limited                                                |THEMISMED                                     |
+Thermax Limited                                                        |THERMAX                                       |
+Thinksoft Global Services Limited                                      |THINKSOFT                                     |
+Thiru Arooran Sugars Limited                                           |THIRUSUGAR                                    |
+Thomas Cook  (India)  Limited                                          |THOMASCOOK                                    |
+Tilaknagar Industries Limited                                          |TI                                            |
+Tide Water Oil Company (India) Limited                                 |TIDEWATER                                     |
+Technocraft Industries (India) Limited                                 |TIIL                                          |
+Tijaria Polypipes Limited                                              |TIJARIA                                       |
+TIL Limited                                                            |TIL                                           |
+Times Guaranty Limited                                                 |TIMESGTY                                      |
+Time Technoplast Limited                                               |TIMETECHNO                                    |
+Timken India Limited                                                   |TIMKEN                                        |
+The Tinplate Company of India Limited                                  |TINPLATE                                      |
+TIPS Industries Limited                                                |TIPSINDLTD                                    |
+Thirumalai Chemicals Limited                                           |TIRUMALCHM                                    |
+Titan Industries Limited                                               |TITAN                                         |
+Tamilnadu PetroProducts Limited                                        |TNPETRO                                       |
+Tamil Nadu Newsprint & Papers Limited                                  |TNPL                                          |
+Todays Writing Products Limited                                        |TODAYS                                        |
+Tokyo Plast International Limited                                      |TOKYOPLAST                                    |
+Torrent Pharmaceuticals Limited                                        |TORNTPHARM                                    |
+Torrent Power Limited                                                  |TORNTPOWER                                    |
+Tree House Education & Accessories Limited                             |TREEHOUSE                                     |
+Trent Limited                                                          |TRENT                                         |
+TRF Limited                                                            |TRF                                           |
+Tricom India Limited                                                   |TRICOM                                        |
+Trident Limited                                                        |TRIDENT                                       |
+Trigyn Technologies Limited                                            |TRIGYN                                        |
+Transformers And Rectifiers (India) Limited                            |TRIL                                          |
+Triveni Engineering & Industries Limited                               |TRIVENI                                       |
+TTK Healthcare Limited                                                 |TTKHEALTH                                     |
+TTK Prestige Limited                                                   |TTKPRESTIG                                    |
+T T Limited                                                            |TTL                                           |
+Tata Teleservices (Maharashtra) Limited                                |TTML                                          |
+Tube Investments of India Limited                                      |TUBEINVEST                                    |
+Tulip Telecom Limited                                                  |TULIP                                         |
+Tulsi Extrusions Limited                                               |TULSI                                         |
+Tulsyan Nec Limited                                                    |TULSYAN                                       |
+TV18 Broadcast Limited                                                 |TV18BRDCST                                    |
+TVS Electronics Limited                                                |TVSELECT                                      |
+TVS Motor Company Limited                                              |TVSMOTOR                                      |
+TVS Srichakra Limited                                                  |TVSSRICHAK                                    |
+TV Today Network Limited                                               |TVTODAY                                       |
+Twilight Litaka Pharma Limited                                         |TWILITAKA                                     |
+Titagarh Wagons Limited                                                |TWL                                           |
+UB Engineering Limited                                                 |UBENGG                                        |
+United Breweries (Holdings) Limited                                    |UBHOLDINGS                                    |
+United Breweries Limited                                               |UBL                                           |
+Ucal Fuel Systems Limited                                              |UCALFUEL                                      |
+UCO Bank                                                               |UCOBANK                                       |
+UFLEX Limited                                                          |UFLEX                                         |
+The Ugar Sugar Works Limited                                           |UGARSUGAR                                     |
+UltraTech Cement Limited                                               |ULTRACEMCO                                    |
+Usha Martin Education & Solutions Limited                              |UMESLTD                                       |
+Unichem Laboratories Limited                                           |UNICHEMLAB                                    |
+Uniphos Enterprises Limited                                            |UNIENTER                                      |
+Union Bank of India                                                    |UNIONBANK                                     |
+United Phosphorus Limited                                              |UNIPHOS                                       |
+Uniply Industries Limited                                              |UNIPLY                                        |
+Unitech Limited                                                        |UNITECH                                       |
+United Bank of India                                                   |UNITEDBNK                                     |
+The United Nilgiri Tea Estates Company Limited                         |UNITEDTEA                                     |
+Unity Infraprojects Limited                                            |UNITY                                         |
+Universal Cables Limited                                               |UNIVCABLES                                    |
+Upper Ganges Sugar & Industries Limited                                |UPERGANGES                                    |
+Usha Martin Limited                                                    |USHAMART                                      |
+Usher Agro Limited                                                     |USHERAGRO                                     |
+Uttam Galva Steels Limited                                             |UTTAMSTL                                      |
+Uttam Sugar Mills Limited                                              |UTTAMSUGAR                                    |
+UTV Software Communications Limited                                    |UTVSOF                                        |
+Vadilal Industries Limited                                             |VADILALIND                                    |
+Vaibhav Gems Limited                                                   |VAIBHAVGEM                                    |
+Vakrangee Softwares Limited                                            |VAKRANSOFT                                    |
+Valecha Engineering Limited                                            |VALECHAENG                                    |
+Value Industries Limited                                               |VALUEIND                                      |
+Vardhman Acrylics Limited                                              |VARDHACRLC                                    |
+Vardhman Polytex Limited                                               |VARDMNPOLY                                    |
+Varun Industries Limited                                               |VARUN                                         |
+Varun Shipping Company Limited                                         |VARUNSHIP                                     |
+Vascon Engineers Limited                                               |VASCONEQ                                      |
+Vaswani Industries Limited                                             |VASWANI                                       |
+Venky's (India) Limited                                                |VENKEYS                                       |
+Venus Remedies Limited                                                 |VENUSREM                                      |
+Vesuvius India Limited                                                 |VESUVIUS                                      |
+V-Guard Industries Limited                                             |VGUARD                                        |
+Vardhman Holdings Limited                                              |VHL                                           |
+Viceroy Hotels Limited                                                 |VICEROY                                       |
+Videocon Industries Limited                                            |VIDEOIND                                      |
+Vijaya Bank                                                            |VIJAYABANK                                    |
+Vijay Shanthi Builders Limited                                         |VIJSHAN                                       |
+Vikash Metal & Power Limited                                           |VIKASHMET                                     |
+Vimta Labs Limited                                                     |VIMTALABS                                     |
+Vinati Organics Limited                                                |VINATIORGA                                    |
+Vindhya Telelinks Limited                                              |VINDHYATEL                                    |
+Vinyl Chemicals (India) Limited                                        |VINYLINDIA                                    |
+VIP Industries Limited                                                 |VIPIND                                        |
+Vipul Limited                                                          |VIPUL                                         |
+Visaka Industries Limited                                              |VISAKAIND                                     |
+Visa Steel Limited                                                     |VISASTEEL                                     |
+Visesh Infotecnics Limited                                             |VISESHINFO                                    |
+Vishal Retail Limited                                                  |VISHALRET                                     |
+Visu International Limited                                             |VISUINTL                                      |
+Vivimed Labs Limited                                                   |VIVIMEDLAB                                    |
+VLS Finance Limited                                                    |VLSFINANCE                                    |
+Voltamp Transformers Limited                                           |VOLTAMP                                       |
+Voltas Limited                                                         |VOLTAS                                        |
+VST Industries Limited                                                 |VSTIND                                        |
+V.S.T Tillers Tractors Limited                                         |VSTTILLERS                                    |
+Vardhman Textiles Limited                                              |VTL                                           |
+VTX Industries Limited                                                 |VTXIND                                        |
+VA Tech Wabag Limited                                                  |WABAG                                         |
+WABCO India Limited                                                    |WABCOINDIA                                    |
+Walchandnagar Industries Limited                                       |WALCHANNAG                                    |
+Wanbury Limited                                                        |WANBURY                                       |
+Websol Energy Systems Limited                                          |WEBELSOLAR                                    |
+Weizmann Forex Limited                                                 |WEIZFOREX                                     |
+Weizmann Limited                                                       |WEIZMANIND                                    |
+Welspun Corp Limited                                                   |WELCORP                                       |
+Welspun Global Brands Limited                                          |WELGLOB                                       |
+Welspun Investments and Commercials Limited                            |WELINV                                        |
+Welspun Projects Limited                                               |WELPROJ                                       |
+Wendt (India) Limited                                                  |WENDT                                         |
+Wheels India Limited                                                   |WHEELS                                        |
+Whirlpool of India Limited                                             |WHIRLPOOL                                     |
+Williamson Magor & Company Limited                                     |WILLAMAGOR                                    |
+Windsor Machines Limited                                               |WINDMACHIN                                    |
+Winsome Yarns Limited                                                  |WINSOME                                       |
+Wipro Limited                                                          |WIPRO                                         |
+Wockhardt Limited                                                      |WOCKPHARMA                                    |
+W S Industries (I) Limited                                             |WSI                                           |
+West Coast Paper Mills Limited                                         |WSTCSTPAPR                                    |
+Wire and Wireless (India) Limited                                      |WWIL                                          |
+Wyeth Limited                                                          |WYETH                                         |
+XL Energy Limited                                                      |XLENERGY                                      |
+Xpro India Limited                                                     |XPROINDIA                                     |
+Yes Bank Limited                                                       |YESBANK                                       |
+Zee Entertainment Enterprises Limited                                  |ZEEL                                          |
+Zee News Limited                                                       |ZEENEWS                                       |
+Zenith Birla (India) Limited                                           |ZENITHBIR                                     |
+Zenith Computers Limited                                               |ZENITHCOMP                                    |
+Zenith Exports Limited                                                 |ZENITHEXPO                                    |
+Zenith Infotech Limited                                                |ZENITHINFO                                    |
+Zensar Technologies Limited                                            |ZENSARTECH                                    |
+Zicom Electronic Security Systems Limited                              |ZICOM                                         |
+Zodiac Clothing Company Limited                                        |ZODIACLOTH                                    |
+Zodiac JRD- MKJ Limited                                                |ZODJRDMKJ                                     |
+Zuari Industries Limited                                               |ZUARIAGRO                                     |
+Zydus Wellness Limited                                                 |ZYDUSWELL                                     |
+Zylog Systems Limited                                                  |ZYLOG                                         |
+                                                                       |                                              |
+                                                                       |                                              
+                                                                       

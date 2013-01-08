@@ -1,0 +1,2314 @@
+CompanyName                                     |BSE Code  |
+20 Microns Limited                              |533022    |
+21CEN MAN SE                                    |526921    |
+3M India Ltd.                                   |523395    |
+3i Infotech Ltd                                 |532628    |
+AAREY DRUGS                                     |524412    |
+ABC GAS INT                                     |513119    |
+ABC INDIA LIMITED                               |520123    |
+ABC Paper Ltd.                                  |532937    |
+ABG Infralogistics Ltd                          |520155    |
+ABG Shipyard Limited                            |532682    |
+ABHIRAMI FINANCIAL INR10                        |511756    |
+ABL Bio Technologies Ltd(NDA)                   |526955    |
+ABM Knowledgeware Ltd(NDA)                      |531161    |
+ACE INDIA LT                                    |530093    |
+ACE SOFT EXP (BSE INDONEXT)                     |531525    |
+ACI INFOCOM                                     |517356    |
+ACIL                                            |530901    |
+ACRYSIL LTD.                                    |524091    |
+ADARSH PLA P                                    |526711    |
+ADINATH EXIM                                    |532056    |
+ADITYA FORGE                                    |522150    |
+ADITYA ISPAT                                    |513513    |
+ADOR MULTIPR                                    |523120    |
+ADVENT COMPUTER SE INR10 (POST REORG)           |531429    |
+ADVIK LABORT                                    |531686    |
+AGAR IND COR                                    |531921    |
+AGIO PAPER                                      |516020    |
+AHMEDA STEEL(BSE INDONEXT)                      |522273    |
+AI Champdany Industries Ltd                     |532806    |
+AIA Engineering Limited                         |532683    |
+AJCON GLOBAL                                    |511692    |
+AJEL                                            |530713    |
+AK Capital Services Ltd                         |530499    |
+AKANKSH FINV                                    |530135    |
+AKAR TOOLS L                                    |530621    |
+AKSHARCHEM I(BSE INDONEXT)                      |524598    |
+ALCH CORP                                       |531409    |
+ALFAICA(IND)                                    |530973    |
+ALFAVI OVERS(BSE INDONEXT)                      |531156    |
+ALPA LAB                                        |532878    |
+ALPHA HI-TEC(BSE INDONEXT)                      |531247    |
+ALPINE HOU D                                    |526519    |
+AMCO INDIA(BSE INDONEXT)                        |530133    |
+AMD Industries Ltd.                             |532828    |
+AMIT INTERNA(BSE INDONEXT)                      |531300    |
+AMIT SECURIT                                    |531557    |
+AMRADEEP IND                                    |531681    |
+AMRAPALI INDUSTRIE INR10                        |526241    |
+AMRAWOR AGRI                                    |531991    |
+AMULYA LEAS                                     |531761    |
+ANG Auto Ltd.                                   |530721    |
+ANKUSH FINST                                    |531519    |
+ANNA INFRA                                      |530799    |
+ANS LTD                                         |531406    |
+APM Industries Ltd(NDA)                         |523537    |
+APOLLO FINVEST(IN) INR10                        |512437    |
+APW President Systems Ltd(NDA)                  |590033    |
+ARCEE INDUST                                    |520121    |
+AREX IND.                                       |526851    |
+ARMS PAPER                                      |532397    |
+ARO GRANITE*                                    |533082    |
+ARONI COMM                                      |512273    |
+ARORA FIBRES                                    |521174    |
+ARROW TEXTILES LTD INR10 ARROWTEX               |533068    |
+ARTILL BIO-I                                    |512642    |
+ARVIND INTER(BSE INDONEXT)                      |524760    |
+ARYAMA FIN S                                    |530245    |
+ASAHI INFR P                                    |512535    |
+ASCENT EXIM                                     |511750    |
+ASHER CAPITA                                    |512247    |
+ASHIAN AGR I                                    |519174    |
+ASHIS POLYPL                                    |530429    |
+ASHOK ALCO-CHEM LT INR10                        |524594    |
+ASIAHR TECH                                     |532435    |
+ASIAN FILMS PROD INR1                           |532047    |
+ASM Technologies Ltd(NDA)                       |526433    |
+ATCO CORP                                       |532320    |
+ATN INTER                                       |511427    |
+AURO LABORAO                                    |530233    |
+AUROMA COKE                                     |531336    |
+AV COTTEX INR10                                 |531190    |
+AVAILAB FINC                                    |531310    |
+AVANCE TECHN                                    |512149    |
+AVIVA INDS                                      |512109    |
+AVON Organics Ltd                               |531541    |
+AVT Natural Products Ltd                        |519105    |
+AXEL POLYME                                     |513642    |
+AXIS CAPITAL MARKE INR10                        |531278    |
+AXIS-IT&T Ltd                                   |532395    |
+AXTEL INDUSR                                    |523850    |
+Aarti Drugs Ltd.                                |524348    |
+Aarti Industries Ltd.                           |524208    |
+Aarvee Denims & Exports Ltd.                    |514274    |
+Aban Offshore Ltd.                              |523204    |
+Abhinav Capital Services Ltd(NDA)               |532057    |
+Abhishek Corporation Limited                    |532831    |
+Abhishek Industries Limited                     |521064    |
+Accel Frontline Limited                         |532774    |
+Accel Transmatic Systems Ltd                    |517494    |
+Accentia Technologies Ltd                       |531897    |
+Accurate Transformers Ltd(NDA)                  |530513    |
+Acknit Industries Ltd(NDA)                      |530043    |
+Acrow India Ltd(NDA)                            |513149    |
+Action Construction Equipment Limited           |532762    |
+Action Financial Services India Ltd             |511706    |
+Adani Enterprises Ltd.                          |512599    |
+Adani Power Limited                             |533096    |
+Adhunik Metaliks Limited                        |532727    |
+Adinath Bio-Labs Limited                        |590088    |
+Aditya Birla Money Limited                      |532974    |
+Ador Fontech Ltd(NDA)                           |530431    |
+Ador Welding Ltd.                               |517041    |
+Advanced Micronic Devices Limited               |517552    |
+Advani Hotels & Resorts India Ltd.              |523269    |
+Advanta India Limited                           |532840    |
+Aftek Ltd.                                      |530707    |
+Agro Dutch Industries Ltd(NDA)                  |519281    |
+Ahlcon Parenterals India Ltd                    |524448    |
+Ahluwalia Contracts India Ltd                   |532811    |
+Ahmednagar Forgings Ltd.                        |513335    |
+Aimco Pesticides Ltd(NDA)                       |524288    |
+Aishwarya Telecom Ltd                           |532975    |
+Ajanta Pharma Ltd(NDA)                          |532331    |
+Ajanta Soya Ltd(NDA)                            |519216    |
+Ajmera Realty and Infra India Ltd               |513349    |
+Akruti City Limited                             |532799    |
+Aksh Optifibre Limited                          |532351    |
+Albert David Ltd                                |524075    |
+Alchemist Ltd.                                  |526707    |
+Alchemist Realty Ltd                            |532114    |
+Alfa Transformers Ltd(NDA)                      |517546    |
+Alka India Ltd(NDA)                             |530889    |
+Alka Securities Ltd                             |532166    |
+Alkali Metals Limited                           |533029    |
+Allahabad Bank                                  |532480    |
+Allcargo Global Logistics Limited               |532749    |
+Allied Computers Intl. (Asia) Limited           |532919    |
+Allied Digital Services Ltd.                    |532875    |
+Allsec Technologies Limited                     |532633    |
+Almondz Capital & Management Services           |511589    |
+Almondz Global Securities Ltd                   |531400    |
+Alok Industries Limited                         |521070    |
+Alphageo India Ltd.                             |526397    |
+Alps Industries Ltd.                            |530715    |
+Alstom Projects India Limited                   |532309    |
+Alufluoride Ltd                                 |524634    |
+Alumeco India Extrusion Limited                 |513309    |
+Amani Trading & Exports Ltd(NDA)                |512008    |
+Amar Remedies Ltd                               |532664    |
+Amarjothi Spinning Mills Ltd(NDA)               |521097    |
+Ambica Agarbathies & Aroma Indus Lt(NDA)        |532335    |
+Ambika Cotton Mills Ltd(NDA)                    |531978    |
+Amforge Industries Limited                      |513117    |
+Amit Spinning Industries Ltd(NDA)               |521076    |
+Amrit Banaspati Company Ltd                     |531728    |
+Amrutanjan Health Care Ltd.                     |590006    |
+Amtek Auto Limited.                             |520077    |
+Amtek India Ltd.                                |532282    |
+Anant Raj Industries Limited                    |515055    |
+Ancent Software International Ltd(NDA)          |530375    |
+Andhra Bank                                     |532418    |
+Andhra Cements Ltd.                             |532141    |
+Andrew Yule & Co. Ltd.                          |526173    |
+Anik Industries Ltd(NDA)                        |519383    |
+Anil Products Ltd.                              |532910    |
+Anjani Fabrics Ltd                              |521131    |
+Anjani Finance Ltd(NDA)                         |531878    |
+Anjani Portland Cements Ltd                     |518091    |
+Anjani Synthetics Ltd(NDA)                      |531223    |
+Ankit Metal & Power Limited                     |532870    |
+Ankur Drugs and Pharma Ltd.                     |531683    |
+Ansal Buildwell Ltd.                            |523007    |
+Apar Industries Ltd.                            |532259    |
+Apcotex Industries Limited                      |523694    |
+Aplab Ltd(NDA)                                  |517096    |
+Aptech Ltd.                                     |532475    |
+Aravali Securities & Finance Ltd(NDA)           |512344    |
+Archidply Industries Limited.                   |532994    |
+Archies Limited                                 |532212    |
+Arcotech Limited                                |532914    |
+Areva T&D India Limited                         |522275    |
+Aries Agro Ltd                                  |532935    |
+Arihant Capital Markets Ltd(NDA)                |511605    |
+Arihant Foundations & Housing Ltd.              |531381    |
+Arman Financial Services Ltd.                   |531179    |
+Aro Granite Industries Ltd(NDA)                 |513729    |
+Arrow Coated Products Ltd(NDA)                  |516064    |
+Artefact Projects Ltd(NDA)                      |531297    |
+Artson Engineering Ltd                          |522134    |
+Arvind Chemicals Ltd(NDA)                       |531881    |
+Arvind Products Ltd                             |532489    |
+Arvind Remedies Ltd(NDA)                        |531823    |
+Asahi India Glass Limited                       |515030    |
+Asahi Songwon Colors Limited                    |532853    |
+Ashapura Minechem Ltd.                          |527001    |
+Ashco Industries Ltd                            |517565    |
+Ashiana Housing Ltd.                            |523716    |
+Ashiana Ispat Ltd(NDA)                          |513401    |
+Ashima Ltd                                      |514286    |
+Ashirwad Steels & Industries Ltd(NDA)           |526847    |
+Asian CERC Information Technology Ltd.          |530619    |
+Asian Granito India Ltd                         |532888    |
+Asian Oilfield Services Ltd                     |530355    |
+Asian Star Company Ltd.                         |531847    |
+Asian Tea and Exports Ltd(NDA)                  |519532    |
+Asit C Mehta Financial Services Ltd(NDA)        |530723    |
+Astra Microwave Products Limited                |532493    |
+Astral Poly Technik Limited                     |532830    |
+Atlanta Limited                                 |532759    |
+Atlas Copco (India) Limited                     |526991    |
+Atul Auto Ltd(NDA)                              |531795    |
+Aunde Faze Three Autofab Ltd(NDA)               |532459    |
+Aurobindo Pharma Limited                        |524804    |
+Austin Engineering Company Ltd(NDA)             |522005    |
+Austral Coke and Projects Limited               |533016    |
+Autoline Industries Limited                     |532797    |
+Automotive Stampings and Assemblies Ltd         |520119    |
+Avantel Softech Ltd.                            |532406    |
+Avanti Feeds Ltd(NDA)                           |512573    |
+Avon Weighing Systems Limited                   |532995    |
+Axis Bank Ltd.                                  |532215    |
+B N RATHI SE                                    |523019    |
+B NANJI ENTR                                    |526594    |
+B.A.G Films & Media Ltd.                        |532507    |
+B.L. Kashyap and Sons Limited                   |532719    |
+B2B SOFTWARE                                    |531268    |
+BACIL PHARMA                                    |524516    |
+BAFIN ENG PR                                    |532161    |
+BAFNA SPINNI                                    |531733    |
+BAGADIA COLO                                    |530197    |
+BAID LEASING & FIN INR10                        |511724    |
+BALA TECH IND                                   |514199    |
+BALURGHA TEC                                    |520127    |
+BAMBI AGRO I(BSE INDONEXT)                      |519295    |
+BAMPSL SECUR                                    |531591    |
+BANK BEES                                       |590106    |
+BANK OF INDI                                    |632149    |
+BCC FINANCE                                     |531178    |
+BCC Fuba India Ltd(NDA)                         |517246    |
+BDH Industries Ltd(NDA)                         |524828    |
+BECKONS INDS                                    |531937    |
+BEMCO HYDRAU                                    |522650    |
+BENCHMARK ASSET MG BENCHMARK ASSET ORD INR1000  |590096    |
+BENCHMARK ASSET MG GOLD EXCH TRAD-GOLD BEES     |590095    |
+BERVIN INVES                                    |531340    |
+BERYL DRUGS                                     |524606    |
+BETALA GLO S                                    |531530    |
+BF Utilities Limited                            |532430    |
+BGIL FL TEC                                     |511664    |
+BGR Energy Systems Limited                      |532930    |
+BHAGWANDAS METALS INR10                         |530095    |
+BHAGYA WO PL                                    |514442    |
+BHAGYASHREE                                     |511698    |
+BHAND HOS EX                                    |512608    |
+BHARAT BHUSH                                    |511501    |
+BHILWARA SPI                                    |514272    |
+BHILWARA TEX                                    |530879    |
+BHILWRA TEC                                     |533108    |
+BHOLANATH IN                                    |530841    |
+BINNY LTD.                                      |514215    |
+BIO GREEN I                                     |512253    |
+BIO WHGO IND                                    |531250    |
+BIOFIL CH PH                                    |524396    |
+BIR SHL EDU                                     |511607    |
+BKV INDUSTRS                                    |519500    |
+BLA ROS IND                                     |514183    |
+BLB Ltd(NDA)                                    |532290    |
+BLOOM DEKOR(BSE INDONEXT)                       |526225    |
+BLS Infotech Limited(NDA)                       |531175    |
+BLUE CHI IND                                    |531936    |
+BMB MUSIC MG                                    |531420    |
+BNR Udyog Ltd(NDA)                              |530809    |
+BOC India Limited                               |523457    |
+BRAHMA INF                                      |531194    |
+BRAND REAL                                      |531203    |
+BRAWN PHARMA                                    |530207    |
+BRIJLAX LEAS (BSE INDONEXT)                     |532113    |
+BRILLIANT SE                                    |531723    |
+BSEL Infrastructure Realty Limited              |532123    |
+BSL Ltd                                         |514045    |
+BURNPUR CEMENT LTD.                             |532931    |
+Baba Arts Ltd                                   |532380    |
+Bafna Pharmaceuticals Limited                   |532989    |
+Bajaj Auto Limited.                             |532977    |
+Bajaj Finserv Limited                           |532978    |
+Bal Pharma Ltd                                  |524824    |
+Balaji Amines Limited                           |530999    |
+Balaji Telefilms Limited                        |532382    |
+Balasore Alloys Limited                         |513142    |
+Balmer Lawrie & Company Limited                 |523319    |
+Balmer Lawrie Investments Ltd.                  |532485    |
+Bang Overseas Limited                           |532946    |
+Bank of Baroda                                  |532134    |
+Bank of India                                   |532149    |
+Bank of Maharashtra                             |532525    |
+Bannari Amman Spinning Mills Ltd.               |532674    |
+Barak Valley Cements Limited                    |532916    |
+Bartronics India Limited                        |532694    |
+Basant Agro Tech India Ltd(NDA)                 |524687    |
+Batliboi Ltd.                                   |522004    |
+Beeyu Overseas Ltd(NDA)                         |532645    |
+Bell Ceramics Ltd                               |515035    |
+Bengal & Assam Company Limited                  |533095    |
+Bengal Tea & Fabrics Ltd                        |532230    |
+Bhageria Dye Chem Ltd                           |530803    |
+Bhagiradha Chemicals & Industries L(NDA)        |531719    |
+Bhagwati Banquets And Hotels Ltd.               |532845    |
+Bhagyanagar India Ltd.                          |512296    |
+Bharat Fertiliser Inds. Ltd.(NDA)               |531862    |
+Bharat Immunologicals and Biologica(NDA)        |524663    |
+Bharat Rasayan Ltd(NDA)                         |590021    |
+Bharat Seats Ltd(NDA)                           |523229    |
+Bharati Shipyard Limited                        |532609    |
+Bharti Airtel Limited                           |532454    |
+Bhartiya International Ltd(NDA)                 |526666    |
+Bhatinda Chemicals Ltd.                         |524332    |
+Bheema Cements Ltd                              |518017    |
+Bhuwalka Steel Industries Ltd                   |513333    |
+Bihar Tubes Ltd(NDA)                            |590059    |
+Bilcare Limited                                 |526853    |
+Bilpower Ltd                                    |531590    |
+Binani Cement Limited                           |532849    |
+Biocon Limited                                  |532523    |
+Biopac India Corporation Ltd(NDA)               |532330    |
+Birla Capital & Financial Services Ltd          |512332    |
+Birla Cotsyn (India) Limited                    |533006    |
+Birla Power Solutions Limited                   |517001    |
+Birla Precision Technologies Ltd                |522105    |
+Bits Ltd                                        |526709    |
+Blue Bird (India) Limited                       |532781    |
+Blue Coast Hotels & Resorts Ltd                 |531495    |
+Blue Dart Express Limited                       |526612    |
+Blue Star Infotech Ltd.                         |532346    |
+Bodal Chemicals Ltd.                            |524370    |
+Bombay Rayon Fashions Limited                   |532678    |
+Bombay Swadeshi Stores Ltd(NDA)                 |531276    |
+Brahmanand Himghar Limited                      |590081    |
+Brakes Auto India Ltd(NDA)                      |520115    |
+Brandhouse Retails Limited                      |533059    |
+Brescon Corporate Advisors Ltd                  |511628    |
+Bridge Securities Ltd(NDA)                      |530249    |
+Brigade Enterprises Limited                     |532929    |
+Bright Brothers Limited                         |526731    |
+Broadcast Initiatives Limited                   |532816    |
+Brushman (India) Ltd(NDA)                       |590061    |
+C & C CONSTRUCTION INR10                        |532813    |
+C G Impex Ltd(NDA)                              |531932    |
+CALCO VISION                                    |517236    |
+CAMEX LTD                                       |524440    |
+CAPITA TRUST                                    |511505    |
+CAPMAN FINAN                                    |511720    |
+CAT TECHNOL                                     |531682    |
+CAT VISION P                                    |531158    |
+CCAP LTD(BSE INDONEXT)                          |526839    |
+CCL Products (India) Limited                    |519600    |
+CCS INFOTECH                                    |532405    |
+CEEJAY FINAN                                    |530789    |
+CEENI EXPO I                                    |531119    |
+CENLUB INDUS                                    |522251    |
+CEREBRA INT                                     |532413    |
+CG VAK SOF E                                    |531489    |
+CHAN GUIDE I                                    |531337    |
+CHAND PRAB I(BSE INDONEXT)                      |530309    |
+CHANDRIK TRA                                    |512624    |
+CHAR CAP INV                                    |511696    |
+CHARMS INDS                                     |531327    |
+CHARTERLOGIS                                    |531977    |
+CHD Developers Ltd                              |526917    |
+CHI Investments Ltd                             |532969    |
+CHITRA.SPIN.                                    |521244    |
+CHL Limited                                     |532992    |
+CHOIC INTERN                                    |531358    |
+CHOKHANI SEC                                    |511742    |
+CHOKSI IMAG                                     |530427    |
+CHOKSI LABOR                                    |526546    |
+CHROMATI IND                                    |530191    |
+CIL SECUR LT                                    |530829    |
+CINDRE FIN S                                    |531283    |
+CINDRELLA HOTELS L INR10                        |526373    |
+CINERAD COMM                                    |530457    |
+CITIPO FIN S                                    |531235    |
+CLARUS                                          |511672    |
+CLIO INFOTE                                     |530839    |
+CMC Limited                                     |517326    |
+CNI Research Ltd(NDA)                           |512018    |
+COASTAL ROAD                                    |520131    |
+COLINZ LABOR                                    |531210    |
+COMP-U-LEARN TECH INR10                         |532363    |
+COMPUTER SKI                                    |531474    |
+CONSOL. SEC.                                    |530067    |
+CONTIL I LTD                                    |531067    |
+CONTINE CONT                                    |531460    |
+CORAL NEWSPR                                    |530755    |
+COUNTRY COND                                    |531624    |
+CRANEX LTD                                      |522001    |
+CRYSTAL SOFT                                    |526033    |
+CSS Technergy Ltd (NDA)                         |590050    |
+CUBI FIN SER                                    |511710    |
+CUPID TRADE                                     |512361    |
+CYBELE IND                                      |531472    |
+CYBERMAT INF                                    |532271    |
+CYBERSCAPE M                                    |532364    |
+Cadila Healthcare Limited                       |532321    |
+Cairn India Limited                             |532792    |
+California Software Company Ltd.                |532386    |
+Cals Refineries Ltd                             |526652    |
+Cambridge Solutions Limited                     |532616    |
+Cambridge Technology Enterprises Limited        |532801    |
+Camlin Fine Chemicals Ltd                       |532834    |
+Camlin Limited                                  |523207    |
+Camson Bio Technologies Ltd                     |590076    |
+Canara Bank                                     |532483    |
+Caplin Point Laboratories Ltd(NDA)              |524742    |
+Carborundum Universal Limited                   |513375    |
+Carnation Industries Ltd(NDA)                   |530609    |
+Celebrity Fashions Limited                      |532695    |
+Celestial Labs Limited                          |532871    |
+Central Bank Of India                           |532885    |
+Centum Electronics Ltd.                         |517544    |
+Century Plyboards India Ltd                     |532548    |
+Cera Sanitaryware Ltd.                          |532443    |
+Chakkilam Infotech Ltd.                         |590089    |
+Chaman Lal Setia Exports Ltd(NDA)               |530307    |
+Champagne Indage Ltd.                           |522059    |
+Chembond Chemicals Ltd(NDA)                     |530871    |
+Chemcel BioTech Limited                         |533026    |
+Chennai Meenakshi Multispeciality H(NDA)        |523489    |
+Cheslind Textiles Limited                       |521056    |
+Cheviot Company Ltd.                            |526817    |
+Chordia Food Products Ltd(NDA)                  |519475    |
+Ciba India Limited                              |532184    |
+Cinemax India Limited                           |532807    |
+Cinevistaas Limited                             |532324    |
+Circuit Systems (India) Limited                 |532913    |
+City Union Bank Limited                         |532210    |
+Classic Diamonds India Ltd.                     |523200    |
+Cochin Minerals & Rutile Ltd(NDA)               |513353    |
+Comfort Intech Ltd(NDA)                         |531216    |
+Compact Disc (India) Ltd                        |526141    |
+Competent Automobiles Co Ltd(NDA)               |531041    |
+Compuage Infocom Ltd.                           |532456    |
+Compucom Software Ltd(NDA)                      |532339    |
+Compulink Systems Ltd(NDA)                      |532688    |
+Computech International Ltd(NDA)                |531224    |
+Conart Engineers Ltd(NDA)                       |522231    |
+Confidence Petroleum India Ltd                  |526829    |
+Consolidated Construction Consortium Ltd        |532902    |
+Container Corporation of India Limited          |531344    |
+Control Print India Ltd(NDA)                    |522295    |
+Coral India Finance & Housing Ltd(NDA)          |531556    |
+Coral Laboratories Ltd(NDA)                     |524506    |
+Cords Cable Industries Ltd.                     |532941    |
+Core Projects & Technologies Ltd.               |512199    |
+Corporation Bank                                |532179    |
+Cosco India Ltd(NDA)                            |530545    |
+Cosmo Ferrites Limited                          |523100    |
+Country Club India Ltd                          |526550    |
+Coventry Coil-O-Matic Haryana Ltd.              |523415    |
+Cranes Software International Limited           |512093    |
+Crazy Infotech Ltd(NDA)                         |524388    |
+Creative Eye Ltd(NDA)                           |532392    |
+Cressanda Solutions Ltd(NDA)                    |512379    |
+Crest Animation Studios Limited                 |526785    |
+Crew B.O.S. Products Ltd.                       |532542    |
+Cubex Tubings Ltd.                              |526027    |
+Cupid Ltd(NDA)                                  |530843    |
+Cyber Media India Ltd.                          |532640    |
+Cybertech Systems and Software Ltd(NDA)         |532173    |
+D&H Welding Electrodes India Ltd(NDA)           |517514    |
+D-Link (India) Limited                          |532419    |
+DAIKAF CHEMI                                    |530825    |
+DAIRYFIELD                                      |531640    |
+DAMODAR THRE(BSE INDONEXT)                      |521220    |
+DATANET SYST                                    |532373    |
+DAZZEL CONFI                                    |531270    |
+DB(INTR) STBR                                   |530393    |
+DCM Financial Services Limited                  |511611    |
+DCM Shriram Consolidated Limited                |523367    |
+DCM Shriram Industries Limited                  |523369    |
+DECCAN POLYP                                    |531989    |
+DEVINE IMPE                                     |531585    |
+DEVKI LEASIN                                    |530765    |
+DHANALAXMI ROTO SP INR10                        |521216    |
+DHARANI FINA                                    |511451    |
+DHOOT INDUS.                                    |526971    |
+DHP INDIA                                       |531306    |
+DHRUVA CAPIT                                    |531237    |
+DIVYAJYO IND                                    |526285    |
+DJS STOCK SH                                    |511636    |
+DLF Limited                                     |532868    |
+DMC International Ltd(NDA)                      |517973    |
+DOLPH MED SE                                    |526504    |
+DS Kulkarni Developers Ltd.                     |523890    |
+DUJODWA PROD                                    |514418    |
+DUKE OFSHORE                                    |531471    |
+DWS FTS43 IG                                    |532964    |
+DWS FTS43 RD                                    |532963    |
+DYNACONS SYS                                    |532365    |
+Dai Ichi Karkaria Ltd(NDA)                      |526821    |
+Danlaw Technologies India Limited               |532329    |
+Datamatics Technologies Ltd                     |532528    |
+De Nora India Ltd(NDA)                          |590031    |
+Deccan Chronicle Holdings Ltd.                  |532608    |
+Deccan Gold Mines Ltd(NDA)                      |512068    |
+Decolight Ceramics Limited                      |532858    |
+Deep Industries Limited                         |532760    |
+Deepak Spinners Ltd(NDA)                        |514030    |
+Delta Corp Ltd                                  |532848    |
+Dena Bank                                       |532121    |
+Denso India Limited                             |520022    |
+Development Credit Bank Limited                 |532772    |
+Dhampure Specialty Sugars Ltd(NDA)              |531923    |
+Dhanlaxmi Fabrics Ltd                           |521151    |
+Dhanus Technologies Ltd.                        |532903    |
+Dhunseri Tea & Industries Ltd.                  |523736    |
+Diamond Power Infrastructure Ltd.               |522163    |
+Diana Tea Company Ltd                           |530959    |
+Dish TV India Limited                           |532839    |
+Dishman Pharmaceuticals & Chemicals Ltd.        |532526    |
+Divyashakti Graniter Ltd(NDA)                   |526315    |
+Dollex Industries Ltd                           |531367    |
+Dolphin Offshore Enterprises India Ltd.         |522261    |
+Donear Industries Ltd.                          |512519    |
+Dredging Corporation of India Ltd.              |523618    |
+Dujodwala Paper Chemicals Ltd(NDA)              |524276    |
+Duncans Industries Ltd                          |590063    |
+Dutron Polymers Ltd(NDA)                        |517437    |
+Dwarikesh Sugar Industries Ltd.                 |532610    |
+Dynamic Industries Ltd(NDA)                     |524818    |
+Dynemic Products Ltd.                           |532707    |
+EAST C.STEEL                                    |520081    |
+EASTERN TRED                                    |531346    |
+ECE Industries Ltd                              |532491    |
+ECOM INFOTEC                                    |531533    |
+ECOPLAST LTD(BSE INDONEXT)                      |526703    |
+EIH Associated Hotels Ltd.                      |523127    |
+ELDER PROJEC                                    |524788    |
+ELEG FLOR AG                                    |526473    |
+ELTROL LTD                                      |530835    |
+EMA INDIA INR10                                 |522027    |
+EMMESSA BIOT                                    |524768    |
+EMTEX INDUST                                    |521099    |
+ENNORE COKE                                     |512369    |
+ENSA STEEL I                                    |512135    |
+ENTERPR.INTE                                    |526574    |
+EPC Industries Ltd.                             |523754    |
+EPIC ENZYMES (BSE INDONEXT)                     |524374    |
+EPSOM PRO                                       |531155    |
+ETC Network Ltd.                                |532958    |
+EURO LEDER F                                    |526468    |
+EURO MULTI                                      |533109    |
+EVERLON SYNT                                    |514358    |
+EXELON INFRA                                    |530337    |
+EZ-COMM TRAD                                    |531621    |
+Eastern Gases Ltd.                              |590080    |
+Eastern Silk Industries Ltd.                    |590022    |
+Easun Reyrolle Ltd.                             |532751    |
+Ecoboard Industries Limited                     |523732    |
+Edelweiss Capital Limited                       |532922    |
+Edserv Softsystems Ltd                          |533055    |
+Educomp Solutions Limited                       |532696    |
+Eimco Elecon Ltd.                               |523708    |
+El Forge Ltd(NDA)                               |531144    |
+Elango Industries Limited(NDA)                  |513452    |
+Eldeco Housing & Inds Ltd(NDA)                  |523329    |
+Elder Health Care Ltd(NDA)                      |524830    |
+Elder Pharmaceuticals Limited                   |532322    |
+Electrotherm (India) Ltd                        |526608    |
+Elegant Marbles & Granite Industrie(NDA)        |526705    |
+Elgi Equipments Limited                         |522074    |
+Elgitread India Limited                         |590023    |
+Ellenbarrie Industrial Gases Limited            |590087    |
+Elnet Technologies Ltd(NDA)                     |517477    |
+Emami Limited                                   |531162    |
+Emkay Share and Stock Brokers Limited           |532737    |
+Emmsons International Ltd(NDA)                  |532038    |
+Empee Distilleries Limited                      |532920    |
+Encore Software Ltd(NDA)                        |531750    |
+Energy Development Company Ltd.                 |532219    |
+Engineers India Limited                         |532178    |
+English Indian Clays Limited                    |526560    |
+Enkei Castalloy Ltd.                            |531147    |
+Enrich Industries Ltd(NDA)                      |531127    |
+Enso Secutrack Limited(NDA)                     |532984    |
+Entegra Ltd(NDA)                                |532287    |
+Entertainment Network (India) Limited           |532700    |
+Epic Energy Ltd(NDA)                            |530407    |
+Era E-Zone (India) Ltd                          |531615    |
+Era Infra Engineering Limited                   |530323    |
+Escorts Finance Ltd                             |511716    |
+Eskay K n IT (India) Ltd.                       |514118    |
+Ess Dee Aluminium Limited                       |532787    |
+Euro Ceramics Limited                           |532823    |
+Eurotex Industries and Exports Ltd(NDA)         |521014    |
+Eveready Industries India Limited               |531508    |
+Everest Kanto Cylinder Ltd.                     |532684    |
+Everonn Systems India Limited                   |532876    |
+Evinix Accessories Limited                      |532818    |
+Excel Crop Care Limited                         |532511    |
+Excel Infoways Limited                          |533090    |
+Explicit Finance Ltd(NDA)                       |530571    |
+FAST TRAC EN                                    |532084    |
+FCS Software Solutions Limited                  |532666    |
+FDC Limited                                     |531599    |
+FICON LEASE                                     |531902    |
+FIEM Industries Limited                         |532768    |
+FILMCIT MEDI                                    |531486    |
+FINANC EYE I                                    |530863    |
+FINAVENT                                        |512219    |
+FIRSTOBJ                                        |532379    |
+FLUIDOMAT LT                                    |522017    |
+FOUNDRY FUEL                                    |513579    |
+FRONT BUSS                                      |521167    |
+FRONT INF TE                                    |531225    |
+FRONTIER SPR                                    |522195    |
+FRONTLINE CORPORAT INR10                        |532042    |
+FUTURISTIC S                                    |523113    |
+Facor Alloys Ltd(NDA)                           |532656    |
+Facor Steels Limited                            |532657    |
+Fact Enterprise Ltd(NDA)                        |511668    |
+Fairdeal Filaments Ltd(NDA)                     |514474    |
+Fairfield Atlas Ltd.                            |520145    |
+Fame India Ltd.                                 |532631    |
+Farmax India Limited                            |590094    |
+Faze Three Ltd(NDA)                             |530079    |
+Fem Care Pharma Ltd.                            |524608    |
+Fenoplast Ltd(NDA)                              |526689    |
+Fertilisers & Chemicals Travancore Ltd          |590024    |
+Filatex Fashions Ltd                            |532022    |
+Filatex India Limited                           |526227    |
+Financial Technologies (India) Limited          |526881    |
+Fine Line Circuits Ltd(NDA)                     |517264    |
+First Winner Industries Ltd.                    |532996    |
+Firstsource Solutions Limited                   |532809    |
+Flawless Diamond India Ltd.                     |523576    |
+Flex Foods Ltd(NDA)                             |523672    |
+Fortis Healthcare Limited                       |532843    |
+Fortis Malar Hospitals Limited                  |523696    |
+Fortis Malar Hospitals Limited                  |523696    |
+Fortune Financial Services India Ltd            |530023    |
+Four Soft Ltd.                                  |532521    |
+Fresenius Kabi Oncology Ltd                     |532545    |
+Freshtrop Fruits Ltd(NDA)                       |530077    |
+Future Capital Holdings Limited                 |532938    |
+G.S. AUTO                                       |513059    |
+GAGAN GASE L                                    |524624    |
+GAIL (India) Limited                            |532155    |
+GAMMA INFOWE                                    |517391    |
+GANDHIM.APPL                                    |517421    |
+GANDHIN HOTE                                    |530237    |
+GANESH POLYT                                    |514167    |
+GANGOTRI I&S                                    |530945    |
+GAYATRI SUGR                                    |532183    |
+GEI Industrial Systems Ltd.                     |530743    |
+GEM SPINNERS                                    |521133    |
+GEMSTONE INV                                    |531137    |
+GI Engineering Solutions Ltd                    |533048    |
+GIC Housing Finance Ltd.                        |511676    |
+GINNI FILA                                      |590025    |
+GIVO Ltd(NDA)                                   |531613    |
+GLANCE FINAN                                    |531199    |
+GMR Ferro Alloys & Industries Ltd               |532990    |
+GMR Infrastructure Limited                      |532754    |
+GOGIA CAP                                       |531600    |
+GOLDEN CARPE                                    |531928    |
+GOLDEW SECUR                                    |530579    |
+GOLECHHA GLOBAL INR10                           |531360    |
+GOMTI FINLEA                                    |530701    |
+GOOD LUCK ST                                    |530655    |
+GOPAL IRON                                      |531913    |
+GOTHI PLASCO                                    |531111    |
+GOWRA LEASIN                                    |530709    |
+GR Cables Ltd(NDA)                              |517564    |
+GRABAL ALOK                                     |532909    |
+GRATEX INDS.                                    |526751    |
+GRAVITY IND(BSE INDONEXT)                       |532015    |
+GRM OVERSEAS                                    |531449    |
+GSB FINANCE LTD IRN10                           |511543    |
+GSL Nova Petrochemicals Limited                 |530605    |
+GSL SECURITE                                    |530469    |
+GTECH INFOTR                                    |532139    |
+GTL Infrastructure Limited                      |532775    |
+GTN Textiles Ltd(NDA)                           |532744    |
+GUJ CRAFT IN                                    |526965    |
+GUJ.POLY-AVX                                    |517288    |
+GUJ.TOOLROOM                                    |513337    |
+GUJARAT INVE                                    |531341    |
+GUJARAT STATE FINA INR10                        |532160    |
+GUJRAT TERCE                                    |524314    |
+GULSHAN CHEM                                    |532425    |
+GV Films Limited                                |523277    |
+GVK Power and Infrastructure Ltd.               |532708    |
+Gallantt Metal Limited                          |532726    |
+Gammon Infrastructure Projects Limited          |532959    |
+Gandhi Special Tubes Ltd(NDA)                   |513108    |
+Ganesh Housing Corporation Ltd                  |526367    |
+Gangotri Textiles Ltd(NDA)                      |521176    |
+Garg Furnace Ltd(NDA)                           |530615    |
+Garnet Construction Ltd(NDA)                    |526727    |
+Garnet International Ltd(NDA)                   |512493    |
+Gateway Distriparks Ltd.                        |532622    |
+Gati Limited                                    |532345    |
+Gayatri Projects Limited                        |532767    |
+Gayatri Starchkem Ltd.                          |524564    |
+Geefcee Finance Ltd                             |530389    |
+Geekay Finance & Leasing Co. Ltd                |531863    |
+Gemini Communications Ltd.                      |532318    |
+Gennex Laboratories Ltd(NDA)                    |531739    |
+Genus Commu-Trade Ltd(NDA)                      |531939    |
+Genus Power Infrastructures Ltd.                |530343    |
+Geojit BNP Paribas Financial Services Ld        |532285    |
+Geometric Ltd.                                  |532312    |
+Gillanders Arbuthnot & Company Ltd              |532716    |
+Gini Silk Mills Ltd                             |531744    |
+Gitanjali Gems Limited                          |532715    |
+Glenmark Pharmaceuticals Limited                |532296    |
+Glittek Granites Limited                        |513528    |
+Global Capital Markets Ltd(NDA)                 |530263    |
+Global Vectra Helicorp Limited                  |532773    |
+Globsyn Infotech Ltd                            |511503    |
+Globus Corpooration Limited                     |531904    |
+Globus Spirits Limited                          |533104    |
+Glodyne Technoserve Limited                     |532672    |
+Glory Polyfilms Limited                         |532857    |
+Gloster Jute Mills Limited                      |590085    |
+Godavari Drugs Ltd(NDA)                         |530317    |
+Godawari Power and Ispat Limited                |532734    |
+Godrej Consumer Products Limited                |532424    |
+Gokak Textiles Ltd                              |532957    |
+Gokaldas Exports Ltd.                           |532630    |
+Gokul Refoils & Solvent Limited.                |532980    |
+Goldiam International Ltd.                      |526729    |
+Goldstone Infratech Ltd(NDA)                    |532439    |
+Goldstone Technologies Ltd.                     |531439    |
+Golkunda Diamonds and Jewellery Ltd(NDA)        |523676    |
+Gopala Polyplast Ltd                            |526717    |
+Granules India Ltd.                             |532482    |
+Great Offshore Ltd.                             |532786    |
+Greenply Industries Ltd.                        |526797    |
+Gremach Infrastructure Equip & Proj Ltd.        |532836    |
+Gss America Infotech Ltd.                       |532951    |
+Gujarat Ambuja Exports Limited                  |524226    |
+Gujarat Apollo Industries Ltd(NDA)              |522217    |
+Gujarat Borosil Ltd(NDA)                        |523768    |
+Gujarat Cotex Ltd(NDA)                          |514386    |
+Gujarat Foils Ltd                               |531410    |
+Gujarat Gas Company Limited                     |523477    |
+Gujarat Industries Power Company Limited        |517300    |
+Gujarat Intrux Ltd(NDA)                         |517372    |
+Gujarat Mineral Development Corporation         |532181    |
+Gujarat NRE Coke Ltd.                           |512579    |
+Gujarat Sidhee Cement Ltd                       |518029    |
+Gujarat State Petronet Limited                  |532702    |
+Gulshan Polyols Ltd                             |532457    |
+Gupta Synthetics Ltd(NDA)                       |514116    |
+Gwalior Chemical Industries Limited             |532764    |
+H.S.India Ltd(NDA)                              |532145    |
+HANJER FIBRE                                    |514308    |
+HAR.LEATHER                                     |524080    |
+HARIA EXPO L (BSE INDONEXT)                     |512604    |
+HARLEY ST PH                                    |524082    |
+HARRING INDU                                    |531134    |
+HARYA CAPFIN                                    |532855    |
+HAZ MUL PRO (BSE INDONEXT)                      |532467    |
+HB Estate Developers Ltd                        |532334    |
+HB Portfolio Ltd.                               |532333    |
+HB Stockholdings Ltd                            |532216    |
+HBL Power Systems Ltd.                          |517271    |
+HCL Technologies Limited                        |532281    |
+HIMALAYA GRA(BSE INDONEXT)                      |513723    |
+HIND.FLUROCA                                    |524013    |
+HINDUST ADHE                                    |514428    |
+HINDUSTN BIO                                    |532041    |
+HIPOLIN LTD(BSE INDONEXT)                       |530853    |
+HISAR METAL INDUST INR10                        |590018    |
+HISAR SPIN.                                     |521068    |
+HITKIT GLOB                                     |532359    |
+HITTCO TOOLS                                    |531661    |
+HK Finechem Ltd(NDA)                            |530117    |
+HOV Services Limited                            |532761    |
+HSBC InvestDirect (India) Limited               |532653    |
+HT Media Limited                                |532662    |
+HTMT Global Solutions Ltd                       |532859    |
+HYDERBD FLEX                                    |522219    |
+HYTONE TEXST                                    |514258    |
+Haldyn Glass Gujarat Ltd                        |515147    |
+Halonix Ltd.                                    |517296    |
+Hanung Toys and Textiles Limited                |532770    |
+Harita Seating Systems Ltd(NDA)                 |590043    |
+Hariyana Ship Breakers Ltd(NDA)                 |526931    |
+Hasti Finance Ltd(NDA)                          |531387    |
+Hatsun Agro Products Ltd.                       |531531    |
+Helios & Matheson Information Tech Ltd.         |532347    |
+Hella India Lighting Ltd                        |520026    |
+Henkel India Ltd.                               |532671    |
+Heritage Foods (India) Limited                  |519552    |
+Hester Biosciences Ltd                          |524669    |
+Hexaware Technologies Limited                   |532129    |
+Hi-Tech Gears Ltd                               |522073    |
+Hikal Limited                                   |524735    |
+Hilton Metal Forging Limitied                   |532847    |
+Himalya International Ltd.                      |526899    |
+Himatsingka Seide Limited                       |514043    |
+Hind Aluminium Industries Ltd.                  |531979    |
+Hind Industries Ltd(NDA)                        |526307    |
+Hindustan Copper Ltd.                           |513599    |
+Hindustan Tin Works Limited                     |530315    |
+Hindusthan National Glass & Industries          |515145    |
+Hitachi Home & Life Solutions India Ltd.        |523398    |
+Hitech Plast Limited                            |526217    |
+Honda Siel Power Products Limited               |522064    |
+Honeywell Automation India Ltd.                 |517174    |
+House of Pearl Fashions Limited                 |532808    |
+Housing Development & Infrastructure            |532873    |
+Howard Hotels Ltd(NDA)                          |526761    |
+Hydro S&S Filled Fibers Ltd(NDA)                |524019    |
+I Power Solutions India Ltd.(NDA)               |512405    |
+IBN18 Broadcast Limited                         |532800    |
+ICICI Bank Limited                              |532174    |
+ICRA Limited                                    |532835    |
+ICSA India Ltd.                                 |531524    |
+IEC EDU                                         |531840    |
+IFGL Refractories Ltd.                          |532133    |
+IFL PROMOTERS LTD. INR10                        |511682    |
+IKAB SECU IN                                    |514238    |
+IKF FINANC L                                    |530719    |
+IKF Technologies Limited                        |532414    |
+IMP Powers Ltd(NDA)                             |517571    |
+INANI SECURI                                    |531672    |
+INCA FINLEAS                                    |531025    |
+INCAP LIMITE                                    |517370    |
+INCON ENGINE                                    |531594    |
+IND Bank Housing Ltd                            |523465    |
+IND Swift Ltd.                                  |524652    |
+INDERGIRI FN                                    |531505    |
+INDIA HOME                                      |530979    |
+INDIAB POWER                                    |533122    |
+INDIAN EXTRACTIONS INR10                        |524614    |
+INDO AMINES(BSE INDONEXT)                       |524648    |
+INDO ASI FIN                                    |530747    |
+INDO BONITO                                     |531084    |
+INDO GREEN P                                    |531968    |
+INDOASIAN P                                     |531674    |
+INDOCITY INF(BSE INDONEXT)                      |532100    |
+INDRAYAN BIO                                    |526445    |
+INDUCTO STEL                                    |532001    |
+INDUS IND BK                                    |532187    |
+INDUS NETWRK                                    |532381    |
+INFO DRIVE S                                    |530703    |
+INFRA INDUST                                    |530777    |
+ING Vysya Bank Limited                          |531807    |
+INOX Leisure Limited                            |532706    |
+INTEC CAP                                       |526871    |
+INTEDIGITAL                                     |523770    |
+INTEG HITECH                                    |532303    |
+INTEGRA CAPI                                    |531314    |
+INTER ST OIL                                    |530259    |
+INTERF TEC P                                    |531289    |
+INTERLINK PE                                    |526512    |
+INTERSTATE                                      |526859    |
+INVICTA MED                                     |523844    |
+INWINEX PH                                      |531398    |
+IOL Chemicals and Pharmaceuticals Ltd.          |524164    |
+IOL Netcom Ltd                                  |512185    |
+IP Rings Limited                                |523638    |
+IPCA Laboratories Limited                       |524494    |
+IRB Infrastructure Developers Ltd.              |532947    |
+ISHIT DRUG I                                    |524400    |
+ISHWAR BHUV.                                    |530065    |
+ISMT Ltd.                                       |532479    |
+ISPAT PR SH                                     |700109    |
+IT People (India) Ltd.                          |532342    |
+ITI Limited                                     |523610    |
+ITL INDUSTRI(BSE INDONEXT)                      |522183    |
+IVR Prime Urban Developers Limited              |532881    |
+IVRCL Infrastructures & Projects Limited        |530773    |
+Idea Cellular Limited                           |532822    |
+Igarashi Motors India Ltd.                      |517380    |
+Impex Ferro Tech Ltd                            |532614    |
+In House Productions Ltd(NDA)                   |526610    |
+Inani Marbles & Inds Ltd(NDA)                   |531129    |
+Ind Swift Laboratories Limited                  |532305    |
+Indage Restaurants and Leisure Ltd              |532264    |
+Indbank Merchant Banking Services L(NDA)        |511473    |
+India Gelatine & Chemicals Ltd.                 |531253    |
+India Infoline Limited                          |532636    |
+India Motor Parts Limited                       |590065    |
+India Nippon Electricals Ltd                    |532240    |
+India Steel Works Limited                       |513361    |
+Indiabulls Financial Services Limited           |532544    |
+Indiabulls Real Estate Ltd.                     |532832    |
+Indiabulls Securities Ltd.                      |532960    |
+Indian Acrylics Ltd                             |514165    |
+Indian Bank                                     |532814    |
+Indian Metals & Ferro Alloys Ltd                |533047    |
+Indian Oil Corporation Limited                  |530965    |
+Indian Overseas Bank                            |532388    |
+Indian Toners & Developers Ltd(NDA)             |523586    |
+Indo Asian Fusegear Ltd.                        |532658    |
+Indo Borax and Chemicals Ltd(NDA)               |524342    |
+Indo Count Industries Ltd(NDA)                  |521016    |
+Indo Pacific Software & Entertainmnt Ltd        |531565    |
+Indo Tech Transformers Limited                  |532717    |
+Indoco Remedies Ltd                             |532612    |
+Indowind Energy Limited                         |532894    |
+Indraprastha Gas Limited                        |532514    |
+Indraprastha Medical Corporation Limited        |532150    |
+Indsil Hydro Power and Manganese Ltd            |522165    |
+Indus Fila Limited                              |532821    |
+Info Edge (India) Limited                       |532777    |
+InfoTech Enterprises Limited                    |532175    |
+Infotrek Syscom Ltd(NDA)                        |530643    |
+Infrastructure Development Finance Co.          |532659    |
+Innocorp Ltd(NDA)                               |531929    |
+Innovative Foods Ltd(NDA)                       |519210    |
+Insecticides India Ltd.                         |532851    |
+Insutech India Ltd                              |531447    |
+Integra Hindustan Controls Ltd(NDA)             |517250    |
+Intellvisions Software Ltd.                     |531777    |
+Intense Technologies Ltd.                       |532326    |
+Interface Financial Services Ltd                |530519    |
+Interworld Digital Ltd                          |532072    |
+Intra Infotech Ltd(NDA)                         |531959    |
+J B M Auto Ltd(NDA)                             |532605    |
+J J FINANCE                                     |523062    |
+J. Kumar Infraprojects Ltd.                     |532940    |
+J.K. Cement Limited                             |532644    |
+JAGAN LAMPS                                     |530711    |
+JAI MATA GLA                                    |523467    |
+JAIBALA IND                                     |532976    |
+JAIHIND SYNT                                    |514312    |
+JALPAC INDIA                                    |523230    |
+JANICE TEXTI                                    |531988    |
+JATIA FINANC                                    |531616    |
+JAYANT MELC.                                    |512129    |
+JBF Industries Ltd.                             |514034    |
+JD ORGOCHEM                                     |524592    |
+JHAVERI CRED                                    |531550    |
+JHS Svendgaard Laboratories Limited             |532771    |
+JIK Industries Limited                          |511618    |
+JINDAL CAP.                                     |530405    |
+JINDAL ONLIN                                    |531960    |
+JJ Exporters Ltd                                |530049    |
+JK Agri Genetics Ltd(NDA)                       |532518    |
+JK Paper Ltd.                                   |532162    |
+JK Sugar Ltd                                    |532519    |
+JK Tyre & Industries Ltd.                       |530007    |
+JM Financial Limited                            |523405    |
+JMC Projects (India) Limited                    |522263    |
+JMDEPACK REA                                    |524378    |
+JMG CORP LTD                                    |523712    |
+JMT Auto Limited                                |513691    |
+JOINDRE CAPITAL SE INR10                        |531861    |
+JOONKTOLLEE                                     |590079    |
+JPTSECURITII                                    |530985    |
+JRC Industries Ltd(NDA)                         |530027    |
+JRG Securities Limited                          |532745    |
+JSL Limited                                     |532508    |
+JUNIOR BEES                                     |590104    |
+JVL Agro Industries Limited                     |519248    |
+JYOTI OVERSE                                    |523876    |
+Jagjanani Textiles Limited                      |532825    |
+Jagran Prakashan Limited                        |532705    |
+Jagson Airlines Ltd(NDA)                        |520139    |
+Jai Corp Limited                                |512237    |
+Jaihind Projects Limited                        |531339    |
+Jain Studios Ltd                                |532033    |
+Jainco Projects Ltd(NDA)                        |526865    |
+Jaiprakash Associates Limited                   |532532    |
+Jaiprakash Power Ventures Limited               |532627    |
+Jaiprakash Power Ventures Limited               |532627    |
+Jaisal Securities Ltd(NDA)                      |530885    |
+Jammu & Kashmir Bank Limited                    |532209    |
+Jamna Auto Industries Ltd                       |520051    |
+Jay Bharat Maruti Ltd                           |520066    |
+Jay Ushin Ltd                                   |513252    |
+Jayant Agro-Organics Ltd.                       |524330    |
+Jayaswal Neco Industries Limited                |522285    |
+Jaybharat Textiles And Real Estate Ltd.         |512233    |
+Jenburkt Pharmaceuticals Ltd(NDA)               |524731    |
+Jenson & Nicholson India Ltd                    |523592    |
+Jet Airways (India) Limited                     |532617    |
+Jetking Infotrain Ltd.(NDA)                     |517063    |
+Jeypore Sugar Company Ltd                       |590054    |
+Jindal Cotex Limited                            |533103    |
+Jindal Photo Limited                            |532624    |
+Jindal South West Holdings Ltd.                 |532642    |
+Jindal Steel & Power Limited                    |532286    |
+Jindal Worldwide Ltd.                           |531543    |
+Jubilant Organosys Ltd.                         |530019    |
+Jumbo Bag Ltd(NDA)                              |516078    |
+Jupiter Bioscience Ltd                          |524826    |
+Jyoti Cosmetics (Exim) Ltd(NDA)                 |531115    |
+Jyoti Resins and Adhesives Ltd                  |514448    |
+Jyoti Structures Limited                        |513250    |
+K Sera Sera Productions Ltd.                    |532081    |
+K.P.R. Mill Ltd                                 |532889    |
+K.S. Oils Limited                               |526209    |
+KACHCHH MIN                                     |531778    |
+KADAMB CONST                                    |531784    |
+KADVANI SECU                                    |530479    |
+KAILASH FICO                                    |530955    |
+KAISER PRESS                                    |531780    |
+KALPTARU (BSE INDONEXT)                         |590036    |
+KAMADGI SYNT(BSE INDONEXT)                      |514322    |
+KANCHA INTER                                    |530165    |
+KARAN WOOSIN                                    |526115    |
+KARMA ISP                                       |512585    |
+KAY POW PAP                                     |530255    |
+KBS CAP MANA                                    |530357    |
+KCP Sugar and Industries Corp. Ltd.             |590067    |
+KDDL Ltd                                        |532054    |
+KDL Biotech Ltd                                 |532291    |
+KEC International Ltd.                          |532714    |
+KEI Industries Limited                          |517569    |
+KEN FINANCIA                                    |530547    |
+KERNEX MICRO                                    |532686    |
+KEW Industries Limited                          |532758    |
+KG PETROCHEM                                    |531609    |
+KGN Industries Ltd.                             |531612    |
+KHATOR FIBRE                                    |521127    |
+KHYA MULT EN                                    |531692    |
+KIC Metaliks Ltd                                |513693    |
+KILBURN OFFI                                    |523218    |
+KILPEST INDI                                    |532067    |
+KIRAN PRIN P                                    |531413    |
+KIRTI FINVES                                    |532092    |
+KJMC FINA SE                                    |530235    |
+KJMC GLOBAL                                     |532304    |
+KLG CAPI SER                                    |530771    |
+KLG Systel Ltd.                                 |531269    |
+KM Sugar Mills Ltd.                             |532673    |
+KMF BUILDERS                                    |531578    |
+KNR Constructions Limited                       |532942    |
+KOA TOOL IN                                     |517471    |
+KOFF BR PICT                                    |531602    |
+KOHINOOR BRO                                    |531366    |
+KONARK SYNTH                                    |514128    |
+KONKAN TYRES                                    |526379    |
+KOSIAN INDUS                                    |511760    |
+KOTAK PSU BK                                    |590107    |
+KOTAK SENSEX                                    |532985    |
+KOTAKGOLDETF                                    |590097    |
+KPIT Cummins Infosystems Limited                |532400    |
+KRBL Ltd.                                       |530813    |
+KSE Ltd                                         |519421    |
+KSK Energy Ventures Limited                     |532997    |
+KSL and Industries Ltd.                         |530149    |
+KUNSTSTOF IN                                    |523594    |
+KUVAM INTL                                      |531731    |
+KZLEASING                                       |511728    |
+Kaashyap Technologies Ltd                       |532283    |
+Kabra Extrusion Technik Limited                 |524109    |
+Kale Consultants Ltd                            |532268    |
+Kaleidoscope Films Ltd.                         |523810    |
+Kalindee Rail Nirman (Engineers) Ltd.           |522259    |
+Kallam Spinning Mills Ltd(NDA)                  |530201    |
+Kalpana Industries Ltd                          |526409    |
+Kalpataru Power Transmission Limited            |522287    |
+Kalyani Forge Ltd                               |513509    |
+Kamat Hotels India Ltd.                         |526668    |
+Kamdhenu Ispat Limited                          |532741    |
+Kanco Enterprises Ltd                           |590084    |
+Kandagiri Spinning Mills Ltd(NDA)               |521242    |
+Kanishk Steel Industries Ltd.                   |513456    |
+Kar Mobiles Limited                             |590053    |
+Karnataka Bank Limited                          |532652    |
+Karur KCP Packkagings Ltd                       |531363    |
+Karuturi Global Limited                         |531687    |
+Kaushalya Infrastructure Development Cor        |532925    |
+Kaveri Seed Company Limited                     |532899    |
+Kavveri Telecom Products Ltd.                   |590041    |
+Kemrock Industries & Exports Ltd.               |526015    |
+Kerala Ayurveda Limited                         |530163    |
+Kewal Kiran Clothing Limited                    |532732    |
+Keynote Corporate Services Ltd                  |512597    |
+Khaitan (India) Limited                         |590068    |
+Khandwala Securities Ltd.                       |531892    |
+Kilburn Chemicals Ltd                           |524699    |
+Kilburn Engineering Ltd(NDA)                    |522101    |
+Kilitch Drugs India Ltd(NDA)                    |524500    |
+Kingfisher Airlines Ltd                         |532747    |
+Kiri Dyes and Chemicals Ltd.                    |532967    |
+Kirloskar Electric Company Ltd                  |590052    |
+Kisan Mouldings Ltd(NDA)                        |530145    |
+Kitex Garments Limited                          |521248    |
+Kohinoor Foods Ltd                              |512559    |
+Kolte-Patil Developers Limited.                 |532924    |
+Kopran Limited                                  |524280    |
+Kothari Products Ltd.                           |530299    |
+Koutons Retail India Ltd.                       |532901    |
+Kovai Medical Center & Hos Ltd(NDA)             |523323    |
+Krebs Biochemicals & Industries Ltd(NDA)        |524518    |
+Kreon Finnancial Services Ltd                   |530139    |
+Krishna Lifestyle Technologies Ltd              |514221    |
+Kriti Agro and Plastics Ind Ltd(NDA)            |526423    |
+Krone Communications Ltd(NDA)                   |523411    |
+Krypton Industries Ltd(NDA)                     |523550    |
+Kushal Software Ltd.                            |590090    |
+Kwality Dairy (India) Ltd                       |531882    |
+L N POLYESTE                                    |530745    |
+L.T. Overseas Limited                           |532783    |
+LADDERU FINA                                    |530577    |
+LAMBODHARA T                                    |590075    |
+LANCO Industries Ltd                            |513605    |
+LEAD FINANC                                     |531288    |
+LEE NEE SOFT                                    |517415    |
+LESHA ENER                                      |513536    |
+LGB Forge Limited                               |533007    |
+LIBORD INFO                                     |511593    |
+LINAK MICROE                                    |517463    |
+LINEAR POLYM                                    |524103    |
+LINK PHARMA                                     |524748    |
+LIPPI SYSTEMS LTD INR10                         |526604    |
+LOKESH MACH                                     |532740    |
+LONGVI TEA C                                    |526568    |
+LS IND                                          |514446    |
+LUMINAI TECH                                    |526045    |
+La Opala RG Limited                             |526947    |
+Lactose India Ltd                               |524202    |
+Laffans Petrochemicals Ltd(NDA)                 |524522    |
+Lahoti Overseas Ltd(NDA)                        |531842    |
+Lakshmi Energy & Foods Ltd.                     |519570    |
+Lakshmi Vilas Bank Ltd.                         |590069    |
+Lanco Global Systems Ltd.(NDA)                  |532368    |
+Lanco Infratech Limited                         |532778    |
+Landmarc Leisure Corporation Ltd                |532275    |
+Landmark Property Development Co Ltd            |533012    |
+Lawreshwar Polymers Ltd                         |532829    |
+Liberty Phosphate Limited                       |530273    |
+Liberty Shoes Ltd.                              |526596    |
+Linc Pen & Plastics Ltd(NDA)                    |531241    |
+Lincoln Pharmaceuticals Ltd(NDA)                |531633    |
+Linkhouse Industries Ltd.                       |512349    |
+Lloyd Electric & Engineering Limited            |517518    |
+Lloyds Metals & Engineers Limited               |512455    |
+Logix Microsystems Ltd.                         |532341    |
+Lohia Securities Ltd.                           |590082    |
+Lotus Chocolates Co Ltd(NDA)                    |523475    |
+Lotus Eye Care Hospital Limited                 |532998    |
+Loyal Textiles Mills Ltd(NDA)                   |514036    |
+Ludlow Jute & Specialities Ltd                  |526179    |
+Lumax Auto Technologies Limited                 |532796    |
+Lumax Automotive Systems Limited                |532537    |
+Lumax Industries Limited                        |517206    |
+M B PARIK FI                                    |526935    |
+M K Exim (India) Ltd(NDA)                       |590060    |
+M Womeninfoline.Com Ltd(NDA)                    |531396    |
+MADHUSUD IND                                    |515059    |
+MAGNUM VENTURES LT INR10                        |530347    |
+MAHAAN FOODS                                    |519612    |
+MAHAN INDUST                                    |531515    |
+MAHASAGAR TR                                    |526795    |
+MAITHAN ALL                                     |590078    |
+MANGAL VEN                                      |514492    |
+MANGALYA SOFT TECH INR10                        |530243    |
+MANJEERA                                        |533078    |
+MANRAJ HOUSI                                    |530537    |
+MANSI FIN CH                                    |511758    |
+MARDI SAMY C                                    |513544    |
+MARG PRO IN                                     |513648    |
+MARKE CREATO                                    |526891    |
+MARTIN BURN                                     |523566    |
+MARUTI INFRASTRUCT INR10                        |531540    |
+MARUTI SECUT                                    |531319    |
+MARUTI UDYOG                                    |632500    |
+MATHER & PLATT FIR INR10                        |532470    |
+MATHEW EASOW                                    |511688    |
+MAXIMAA SYSE                                    |526538    |
+MAYUR FLOOR                                     |531221    |
+MCS Ltd                                         |523221    |
+MEGHMANI                                        |532865    |
+METAL COAT I                                    |531810    |
+METALMAN IND                                    |513131    |
+MEWAR POLYTE(BSE INDONEXT)                      |531236    |
+MH MILLS & I                                    |514242    |
+MIC Electronics Limited                         |532850    |
+MICRO FORGE                                     |522298    |
+MIDA PHARMAS                                    |530257    |
+MIDEAS POR M                                    |526251    |
+MILLEN CYBER                                    |531942    |
+MINAL ENGINE                                    |522235    |
+MINI DIAMOND                                    |523373    |
+MM Forgings Limited                             |522241    |
+MMTC Ltd.                                       |513377    |
+MOBILE TELEC                                    |532127    |
+MOLD-TEK Technologies Limited                   |526263    |
+MOLDTK PLA                                      |533080    |
+MONEY MAT F                                     |531595    |
+MONNET INDUS                                    |532078    |
+MORARKA FINA                                    |511549    |
+MORGAN CRU                                      |523160    |
+MOUNT TRAD                                      |532724    |
+MOVING PICTU-PMS                                |590011    |
+MPS Limited                                     |532440    |
+MSK Projects (India) Ltd.                       |532553    |
+MSP Steel & Power Ltd                           |532650    |
+MTZ Polyfilms Ltd.                              |512424    |
+MUKAND CRPS                                     |700087    |
+MUKESH BABU                                     |530341    |
+MUKESH ST(P)                                    |513265    |
+MUKESH STRIP                                    |517374    |
+MUNOTH FINANCIAL S INR10                        |531821    |
+MUTHOOT CAP                                     |511766    |
+MVL Ltd                                         |532991    |
+Maars Software International Ltd                |531528    |
+Machino Plastics Limited                        |523248    |
+Madhav Marble & Granites Ltd.                   |515093    |
+Madhucon Projects Ltd.                          |531497    |
+Madhya Desh Papers Ltd                          |531436    |
+Magma Fincorp Limited                           |524000    |
+Magna Electro Castings Ltd(NDA)                 |517449    |
+Magnum Ventures Ltd.                            |532896    |
+Mahalaxmi Rubtech Ltd(NDA)                      |514450    |
+Mahalaxmi Seamless Ltd(NDA)                     |513460    |
+Maharaja Shree Umaid Mills Ltd.                 |530059    |
+Maharashtra Polybutenes Limited                 |524232    |
+Mahindra & Mahindra Fin. Services Ltd.          |532720    |
+Mahindra Composites Ltd(NDA)                    |524138    |
+Mahindra Forgings Limited                       |532756    |
+Mahindra Holidays & Resorts India Ltd.          |533088    |
+Mahindra Lifespace Developers Ltd.              |532313    |
+Malu Paper Mills Ltd.                           |532728    |
+Man Aluminium Limited                           |532906    |
+Man Industries (India) Limited                  |513269    |
+Manaksia Limited                                |532932    |
+Manappuram General Finance & Leasing Ltd        |531213    |
+Mangalam Drugs and Organics Limited             |532637    |
+Mangalam Timber Products Ltd(NDA)               |516007    |
+Mangalore Chemicals & Fertilizers Ltd.          |530011    |
+Manjushree Extrusions Limited.                  |532950    |
+Maral Overseas Limited                          |521018    |
+Marg Ltd.                                       |530543    |
+Marico Limited                                  |531642    |
+Marksans Pharma Limited                         |524404    |
+Marmagoa Steels Ltd(NDA)                        |513355    |
+Maruti Suzuki India Ltd                         |532500    |
+Mascon Global Ltd                               |531131    |
+Mastek Limited                                  |523704    |
+Master Trust Limited                            |511768    |
+Matra Realty Ltd.(NDA)                          |512167    |
+Mavens Biotech Ltd                              |590083    |
+Mawana Sugars Ltd                               |523371    |
+Maxwell Industries Ltd.                         |532613    |
+Maytas Infra Ltd.                               |532907    |
+Mayur Leather Products Ltd                      |531680    |
+Mayur Uniquoters Limited                        |522249    |
+Mazda Ltd(NDA)                                  |523792    |
+McDowell Holdings Ltd                           |532852    |
+McLeod Russel India Limited                     |532654    |
+McNally Bharat Engineering Company Ltd.         |532629    |
+Medi Caps Ltd(NDA)                              |523144    |
+Media Matrix Worldwide Ltd(NDA)                 |512267    |
+Media Video Limited                             |530435    |
+Medicamen Biotech Ltd(NDA)                      |531146    |
+Mefcom Capital Markets Ltd(NDA)                 |531176    |
+Mega Corporation Ltd(NDA)                       |531417    |
+Megasoft Ltd.                                   |532408    |
+Melstar Information Technologies Ltd            |532307    |
+Menon Bearings Ltd(NDA)                         |523828    |
+Menon Pistons Limited                           |531727    |
+Mercator Lines Limited                          |526235    |
+Metrochem Industries Ltd(NDA)                   |524683    |
+Micro Inks Ltd                                  |523886    |
+Micro Technologies (India) Limited              |532494    |
+Mid-Day Multimedia Limited                      |532416    |
+Millennium Beer Industries Ltd                  |521147    |
+Milton Plastics Ltd(NDA)                        |526143    |
+Minaxi Textiles Ltd(NDA)                        |531456    |
+MindTree Ltd                                    |532819    |
+Minda Industries Ltd.                           |532539    |
+Mindteck (India) Ltd                            |517344    |
+Mirza International Ltd.                        |526642    |
+Modern Dairies Ltd(NDA)                         |519287    |
+Modern Steels Ltd(NDA)                          |513303    |
+Mohit Industries Ltd(NDA)                       |531453    |
+Mohit Paper Mills Ltd(NDA)                      |530169    |
+Monnet Ispat & Energy Ltd.                      |513446    |
+Monnet Sugar Ltd(NDA)                           |532723    |
+Monsanto India Limited                          |524084    |
+Morarjee Textiles Ltd.                          |532621    |
+Morgan Industries Ltd(NDA)                      |523564    |
+Morgan Ventures Ltd(NDA)                        |526237    |
+Moschip Semiconductor Technology Ltd            |532407    |
+Moser Baer India Limited                        |517140    |
+Motherson Sumi Systems Limited                  |517334    |
+Motilal Oswal Financial Services Limited        |532892    |
+Mount Everest Mineral Water Ltd.                |531096    |
+Mphasis Ltd.                                    |526299    |
+Mro-Tek Limited                                 |532376    |
+Mudra Lifestyle Limited                         |532820    |
+Mukand Engineers Limited                        |532097    |
+Mukat Pipes Ltd                                 |523832    |
+Mukta Arts Limited                              |532357    |
+Mukunda Industrial Finance Limited              |530329    |
+Multi Arc India Ltd(NDA)                        |513685    |
+Multibase India Ltd                             |526169    |
+Mundra Port And Special Eco Zone Ltd.           |532921    |
+Munjal Auto Industries Limited                  |520059    |
+Munjal Showa Limited                            |520043    |
+Murli Industries Ltd.                           |519323    |
+Murudeshwar Ceramics Ltd.                       |515037    |
+My Fair Lady Ltd(NDA)                           |526622    |
+N D METAL IN                                    |512024    |
+N G Industries Ltd                              |530897    |
+N K INDUSTR                                     |519494    |
+NAGAR AGRITE                                    |531832    |
+NAHAR INVESTMENTS AND HOLDING LIMITED           |523391    |
+NALIN LEA FI                                    |531212    |
+NAT PLAS IN                                     |526616    |
+NATRAJ FIN                                      |512047    |
+NATURA HUE C                                    |531834    |
+NCC FINANC L                                    |531452    |
+NCJ INTERNAT                                    |511714    |
+NDA SECURITI                                    |511535    |
+NEELKANTH RO                                    |531049    |
+NEELKANTH TE                                    |530697    |
+NEOGEM INDIA                                    |526195    |
+NETVI INF TC                                    |530811    |
+NEW BOMBAY P                                    |521062    |
+NEXXOFT INFO                                    |532045    |
+NGL FINE CHM                                    |524774    |
+NHPC Limited                                    |533098    |
+NICCO PARK R(BSE INDONEXT)                      |526721    |
+NIDHI GRANIT                                    |512103    |
+NIFTY BEES                                      |590103    |
+NIHAR INFO                                      |531083    |
+NIIT Technologies Ltd.                          |532541    |
+NIKKI GLOB F                                    |531272    |
+NIMBUS FOOD                                     |531598    |
+NITCO Limited                                   |532722    |
+NIYAT INDUST                                    |511523    |
+NMDC Limited                                    |526371    |
+NOIDA MEDI C                                    |523670    |
+NOUVEAU MULTIMEDIA INR10                        |531465    |
+NPR FINANCE                                     |530127    |
+NR Agarwal Industries Limited                   |516082    |
+NR INTERNA                                      |532623    |
+NRB Bearings Limited                            |530367    |
+NTPC Limited                                    |532555    |
+NUTRAPLUS PR                                    |524764    |
+Nagarjuna Agrichem Ltd                          |524709    |
+Nagpur Power & Inds Ltd(NDA)                    |532362    |
+Nagreeka Capital and Infrastructure(NDA)        |532895    |
+Nagreeka Exports Limited                        |521109    |
+Nahar Capital & Financial Services Ltd.         |532952    |
+Nahar Industrial Enterprises Limited            |519136    |
+Nakoda Textiles Industries Ltd(NDA)             |521030    |
+Nalwa Sons Investments Limited                  |532256    |
+Nandan Exim Limited                             |532641    |
+Narendra Properties Ltd(NDA)                    |531416    |
+Narmada Gelatines Ltd                           |526739    |
+Natco Pharma Ltd.                               |524816    |
+National Aluminium Company Limited              |532234    |
+National Fertilizers Limited                    |523630    |
+National Plastic Technologies Ltd               |531287    |
+National Steel and Agro Industries Ltd.         |513179    |
+Natraj Proteins Ltd(NDA)                        |530119    |
+Natural Capsules Ltd(NDA)                       |524654    |
+Nava Bharat Ventures Limited                    |513023    |
+Navin Fluorine International Limited            |532504    |
+Navkar Builders Limited                         |531494    |
+Nectar Lifesciences Ltd.                        |532649    |
+Neha International Ltd.                         |519560    |
+Nelcast Limited                                 |532864    |
+Neo Corp International Ltd(NDA)                 |523820    |
+Net 4 India Ltd                                 |532912    |
+Nettlinx Ltd                                    |511658    |
+Netvision Web Technologies Ltd(NDA)             |532010    |
+Network 18 Media & Investments Ltd              |532798    |
+Network Ltd (India) Ltd.                        |523558    |
+Networth Stock Broking Ltd.                     |511551    |
+Neuland Laboratories Ltd.                       |524558    |
+New Delhi Television Limited                    |532529    |
+Neyveli Lignite Corporation Limited             |513683    |
+Nicco Corporation Ltd.                          |590028    |
+Nicco-Uco Alliance Credit Ltd(NDA)              |523209    |
+Nikhil Adhesives Ltd                            |526159    |
+Nila Housing and Infrastructures Ltd            |530377    |
+Nile Limited                                    |530129    |
+Nilkamal Ltd.                                   |523385    |
+Niraj Cement Structurals Ltd.                   |532986    |
+Nirav Commercials Ltd                           |512425    |
+Nissan Copper Ltd.                              |532789    |
+Nitin Fire Protection Industries Limited        |532854    |
+Nitin Spinners Limited                          |532698    |
+Noida Toll Bridge Company Limited               |532481    |
+Northgate Technologies Ltd.                     |590057    |
+NovaGold Petro Resources Ltd(NDA)               |531791    |
+Nu Tek India Limited                            |533015    |
+Nu-Tech Corporate Services Ltd                  |526313    |
+Nucleus Software Exports Ltd.                   |531209    |
+Numeric Power Systems Ltd.                      |532051    |
+OASIS SECURI                                    |512489    |
+OCL Iron and Steel Limited                      |533008    |
+ODYSSEY CORP                                    |531996    |
+ODYSSEY TEC (BSE INDONEXT)                      |530175    |
+OK Play India Ltd                               |526415    |
+OMEGA INTE T                                    |511644    |
+OMKAR OVERSE                                    |531496    |
+ORG Informatics Limited                         |517195    |
+ORIENTAL VEN                                    |531859    |
+ORIND EXPORT                                    |512616    |
+ORTINLABS                                       |590074    |
+OSCAR GLOBAL                                    |530173    |
+OSWAL YARNS                                     |514460    |
+OXFOR INDUST                                    |514414    |
+Octav Investments Limited                       |533010    |
+Oil India Limited                               |533106    |
+Om Metals Infraprojects Ltd.                    |531092    |
+Omax Autos Limited                              |520021    |
+Omaxe Limited                                   |532880    |
+Omnitech Infosolutions Limited                  |532882    |
+Omnitex Industries (I) Ltd(NDA)                 |514324    |
+OnMobile Global Limited                         |532944    |
+Ontrack Systems Ltd(NDA)                        |532607    |
+Onward Technologies Limited                     |517536    |
+Opto Circuits India Ltd.                        |532391    |
+Oracle Financial Services Software Ltd.         |532466    |
+Orbit Corporation Limited                       |532837    |
+Orbit Exports Limited.                          |512626    |
+Orchid Chemicals & Pharmaceuticals Ltd          |524372    |
+Oregon Commercials Ltd                          |512097    |
+Organic Coatings Ltd(NDA)                       |531157    |
+Oricon Enterprises Ltd(NDA)                     |513121    |
+Orient Ceramics & Industries Ltd                |530365    |
+Oriental Trimex Limited                         |532817    |
+PACIFIC INDU                                    |523483    |
+PADAM COTT Y(BSE INDONEXT)                      |531395    |
+PAE Ltd                                         |517230    |
+PAN INDIA C                                     |511525    |
+PANCH ORGAN                                     |531726    |
+PANKAJ POLYM                                    |531280    |
+PANTALBNDVR                                     |570002    |
+PARAGON FINANCE LT INR10                        |531255    |
+PARKER AGROC(BSE INDONEXT)                      |524628    |
+PARSHART INV                                    |511702    |
+PASARI SPIN                                     |521080    |
+PBA Infrastructure Ltd.                         |532676    |
+PBM Polytex Ltd(NDA)                            |514087    |
+PCS Technology Ltd(NDA)                         |517119    |
+PEE CEE COSM                                    |524136    |
+PENN IND PS                                     |700107    |
+PERFECT PACK                                    |526435    |
+PFL INFOTECH                                    |531769    |
+PG Foils Ltd(NDA)                               |526747    |
+PHARMAID PHA                                    |524572    |
+PHOTOQUIP IN                                    |526588    |
+PHYTO CHEM I                                    |524808    |
+PI INDUS.LTD                                    |523642    |
+PIPAVAVSHIP                                     |533107    |
+PITHAMPUR ST                                    |513611    |
+PNB Gilts Ltd.                                  |532366    |
+POLO HOTELS                                     |526687    |
+POLY POL (I)                                    |531454    |
+POLYCON INTE                                    |531397    |
+POLYMECHPLAS                                    |526043    |
+POLYPRO FIBR                                    |531467    |
+PONDY OXIDES                                    |532626    |
+PRABHAV IND                                     |531855    |
+PRAJ Industries Limited                         |522205    |
+PRANAVA SP M                                    |531172    |
+PRATIK PANEL                                    |526490    |
+PRECI CONTNR                                    |523874    |
+PREM CAP MAR                                    |511660    |
+PREMCO GLOBA(BSE INDONEXT)                      |530331    |
+PRESSURE SEN SYS INR10                          |526773    |
+PRIMA PLASTC                                    |530589    |
+PRIME PROTEI                                    |519299    |
+PRITHVI INFO                                    |532675    |
+PRIYA LIMITD(BSE INDONEXT)                      |524580    |
+PROCA ELE IN                                    |526009    |
+PROMAC PLAST                                    |526494    |
+PROVOGUEIND*                                    |533099    |
+PSL Limited                                     |526801    |
+PSUBNK BEES                                     |590108    |
+PTC India Ltd.                                  |532524    |
+PUDMJEE IND                                     |516092    |
+PUNET RESINS                                    |526492    |
+PUNJAB NATBK                                    |632461    |
+PVP Ventures Limited                            |517556    |
+PVR Limited                                     |532689    |
+Pacific Cotspin Ltd                             |531118    |
+Padmalaya Telefilms Limited                     |532350    |
+Page Industries Limited                         |532827    |
+Panacea Biotec Limited                          |531349    |
+Panama Petrochem Ltd.                           |524820    |
+Panasonic Home Appliances India Com             |523307    |
+Panchmahal Steel Ltd.                           |513511    |
+Panoramic Universal Ltd(NDA)                    |531816    |
+Pantaloon Retail (India) Limited                |523574    |
+Paramount Communications Ltd.                   |530555    |
+Paras Petrofils Ltd.                            |521246    |
+Parekh Aluminex Ltd                             |532606    |
+Parenteral Drugs (India) Ltd.                   |524689    |
+Parle Software Ltd                              |532911    |
+Parsoli Corporation Ltd.                        |530071    |
+Parsvnath Developers Limited                    |532780    |
+Passari Cellulose Limited                       |530923    |
+Patel Engineering Limited                       |531120    |
+Patel Integrated Logistics Ltd                  |526381    |
+Patels Airtemp (India) Ltd.                     |517417    |
+Patni Computer Systems Ltd                      |532517    |
+Patspin India Ltd                               |514326    |
+Paushak Ltd(NDA)                                |532742    |
+Pearl Engineering Polymers Ltd.                 |526562    |
+Pearl Polymers Ltd(NDA)                         |523260    |
+Pennar Aluminium Company Ltd(NDA)               |513405    |
+Pennar Industries Ltd                           |513228    |
+Petron Engineering Construction Ltd.            |530381    |
+Petronet LNG Ltd.                               |532522    |
+Phoenix International Ltd                       |526481    |
+Piccadily Agro Inds Limited                     |530305    |
+Pioneer Agro Extracts Ltd(NDA)                  |519439    |
+Pioneer Distilleries Limited                    |531879    |
+Pioneer Embroideries Limited                    |514300    |
+Piramal Glass Ltd                               |532949    |
+Piramal Life Sciences Limited                   |532979    |
+Pitti Laminations Limited                       |513519    |
+Plastiblend India Ltd.                          |523648    |
+Platinum Corporation Ltd                        |532117    |
+Plethico Pharmaceuticals Limited                |532739    |
+Pochiraju Industries Limited                    |532803    |
+Poddar Pigments Ltd(NDA)                        |524570    |
+Pokarna Ltd                                     |532486    |
+Polar Pharma India Ltd                          |523333    |
+Polaris Software Lab Limited                    |532254    |
+Poly Medicure Ltd.                              |531768    |
+Polyplex Corporation Limited                    |524051    |
+Polyspin Exports Ltd.                           |590055    |
+Ponni Sugars (Erode) Limited                    |532460    |
+Poona Dal & Oil Industries Ltd(NDA)             |519359    |
+Popular Estate Management Ltd                   |531870    |
+Porwal Auto Components Ltd                      |532933    |
+Power Finance Corporation Limited               |532810    |
+Power Grid Corporation of India Limited         |532898    |
+Powersoft Global Solutions Ltd(NDA)             |532736    |
+Pradeep Metals Ltd                              |513532    |
+Prajay Engineers Syndicate Ltd.                 |531746    |
+Pratibha Industries Limited                     |532718    |
+Pratiksha Chemicals Ltd(NDA)                    |531257    |
+Precision Electronics Ltd                       |517258    |
+Precision Wires India Ltd.                      |523539    |
+Premier Energy and Infrastructure Ltd           |533100    |
+Premier Explosives Limited                      |526247    |
+Prerna Infrabuild Ltd(NDA)                      |531802    |
+Pricol Limited                                  |526109    |
+Prime Focus Limited                             |532748    |
+Prime Property Development Corp. Ltd.           |530695    |
+Prime Textiles Ltd                              |521149    |
+Prithvi Softech Ltd(NDA)                        |531688    |
+Pritish Nandy Communications Ltd(NDA)           |532387    |
+Proto Developers & Technologies Ltd(NDA)        |530069    |
+Provogue (India) Limited                        |532647    |
+Prraneta Industries Ltd(NDA)                    |531611    |
+Punj Lloyd Limited                              |532693    |
+Punjab National Bank                            |532461    |
+Puravankara Projects Limited                    |532891    |
+Pyramid Saimira Theatre Limited                 |532791    |
+QUANTUM DIGI                                    |530281    |
+QUANTUM GOLD                                    |590099    |
+Quintegra Solutions Ltd                         |532866    |
+R M Mohite Textiles Ltd.                        |532140    |
+R Systems International Limited                 |532735    |
+R T S Power Corpn Ltd                           |531215    |
+R.A.S.EXTRU                                     |523780    |
+RAGHUN INTER                                    |526813    |
+RAGHUN TOB C                                    |531552    |
+RAGHUV SYNTH                                    |514316    |
+RAJ AGRO MLS                                    |530291    |
+RAJ PACKAG I                                    |530111    |
+RAJAS TUBE M                                    |530253    |
+RAJDARSHA IN                                    |526662    |
+RAMA PHOS LT                                    |524037    |
+RAMA VISIO L                                    |523289    |
+RAMMAICA(INDIA) INR10                           |515127    |
+RAMSONS PROJ                                    |530925    |
+RANDER CORPO                                    |531228    |
+RANE BRAKE                                      |532987    |
+RANE ENGVL                                      |532988    |
+RASHEL AGROT                                    |532055    |
+RASI ELECTRO                                    |531233    |
+RDB Industries Ltd.                             |526723    |
+RECLTD                                          |532955    |
+REFNO RES CH                                    |530815    |
+REGENCY INV.                                    |511585    |
+REI Agro Limited                                |532106    |
+REI Six Ten Retail Ltd                          |533065    |
+REL BANK ETF                                    |590105    |
+RELIANCEGOLD                                    |590100    |
+RELIC TECHNOLOGIES INR10                        |511712    |
+REXNOR ELE C                                    |531888    |
+RICH CAP FIN                                    |530271    |
+RICHIRIC AGR                                    |519230    |
+RIDS SECURIT                                    |531716    |
+RISHAB FIN                                      |531218    |
+RISHABHDEV                                      |533083    |
+RISHIROOP RB                                    |523658    |
+RITES INTERN                                    |519097    |
+RLF LIMITED                                     |512618    |
+ROCK HARD PE                                    |524194    |
+ROOPA INDUST                                    |530991    |
+ROSE ZINC LT                                    |530631    |
+ROSELAB IND                                     |526753    |
+ROSELABS FIN                                    |531324    |
+ROTAM COMM.                                     |512359    |
+RPG Cables Ltd.                                 |517056    |
+RPG LIFESCI                                     |532983    |
+RR Financial Consultants Limited                |511626    |
+RS Software India Limited                       |517447    |
+RT Exports Ltd                                  |512565    |
+RUBBER PRODU                                    |526496    |
+RUBRA MEDICA                                    |531099    |
+RUNGT IRRIGA                                    |530449    |
+RUTTONSHA IN                                    |517035    |
+Radaan Mediaworks India Ltd(NDA)                |590070    |
+Radha Madhav Corporation Limited                |532692    |
+Radhe Developers India Ltd(NDA)                 |531273    |
+Radico Khaitan Limited                          |532497    |
+Raghav Industries Ltd.                          |526465    |
+Rai Saheb Rekhchand Mohota Spinning & We        |530047    |
+Rainbow Denim Ltd                               |532441    |
+Rainbow Foundations Limited                     |531694    |
+Rainbow Paper Ltd(NDA)                          |523523    |
+Raj Oil Mills Limited                           |533093    |
+Raj Rayon Limited                               |530699    |
+Raj Television Network Limited                  |532826    |
+Rajapalayam Mills Ltd.                          |532503    |
+Rajaratan Global Wire Ltd                       |517522    |
+Rajendra Mechanical Industries Ltd(NDA)         |513043    |
+Rajesh Exports Ltd.                             |531500    |
+Rajeswari Foundations Ltd(NDA)                  |526823    |
+Rajkumar Forge limited                          |513369    |
+Rajoo Engineers Ltd(NDA)                        |522257    |
+Rajvir Industries Ltd(NDA)                      |532665    |
+Ram Informatics Ltd(NDA)                        |530951    |
+Ram Kaashyap Investment Ltd                     |511652    |
+Ram Ratna Wires Limited                         |522281    |
+Ramco Industries Ltd.                           |532369    |
+Ramco Systems Limited                           |532370    |
+Ramkrishna Forgings Limited                     |532527    |
+Ramsarup Industries Ltd.                        |532690    |
+Rane (Madras) Limited                           |532661    |
+Ranklin Solutions Limited                       |590077    |
+Rap Media Ltd.                                  |531583    |
+Rasandik Engineering Industries Ind(NDA)        |522207    |
+Rashtriya Chemicals & Fertilizers Ltd           |524230    |
+Rasoya Proteins Ltd                             |531522    |
+Rathi Bars Limited                              |532918    |
+Rathi Graphics Technologies Ltd(NDA)            |524610    |
+Ratnabali Capital Markets Ltd(NDA)              |531391    |
+Ratnamani Metals and Tubes Limited              |520111    |
+Raunaq Automotive Components Ltd(NDA)           |520073    |
+Real Strips Ltd                                 |513558    |
+Redington India Ltd                             |532805    |
+Refex Refrigerants Ltd                          |532884    |
+Regal Entertainment & Consult.Ltd(NDA)          |531033    |
+Regency Ceramics Ltd(NDA)                       |515018    |
+Relaxo Footwears Limited                        |530517    |
+Reliable Ventures Ltd                           |532124    |
+Reliance Communications Ltd.                    |532712    |
+Reliance Industrial Infrastructure Ltd.         |523445    |
+Reliance MediaWorks Limited                     |532399    |
+Reliance Natural Resources Limited              |532709    |
+Reliance Power Limited                          |532939    |
+Religare Enterprises Limited                    |532915    |
+Religare Technova Ltd.                          |526927    |
+Remsons Industries Ltd                          |530919    |
+Renaissance Jewellery Limited                   |532923    |
+Repro India Limited                             |532687    |
+Resonance Specialties Ltd(NDA)                  |524218    |
+Restile Ceramics Ltd(NDA)                       |515085    |
+Resurgere Mines & Minerals India Limited        |533017    |
+Riba Textiles Ltd(NDA)                          |531952    |
+Richa Industries Ltd                            |532766    |
+Rico Auto Industries Limited                    |520008    |
+Ricoh India Ltd.                                |517496    |
+Riddhi Siddhi Gluco Biols Ltd.                  |524480    |
+Rishabh Digha Steel & Allied Produc(NDA)        |531539    |
+Rishi Laser Ltd(NDA)                            |526861    |
+Rishi Packers Ltd(NDA)                          |523021    |
+Ritesh Properties and Industries Lt(NDA)        |526407    |
+Rohit Ferro-Tech Limited                        |532731    |
+Roman Tarmat Limited                            |532869    |
+Roto Pumps Limited                              |517500    |
+Royal Cushion Vinyl Products Ltd.(NDA)          |526193    |
+Royal Orchid Hotels Limited                     |532699    |
+Royale Manor Hotels and Industries              |526640    |
+Ruchi Strips & Alloys Ltd                       |513295    |
+Ruchira Papers Limited                          |532785    |
+S K S Logistics Limited                         |526508    |
+S Kumars Nationwide Limited                     |514304    |
+S Kumars Online Ltd                             |532316    |
+S P CAPITAL                                     |530289    |
+S P L Ltd.                                      |531548    |
+S R INDUSTRI                                    |513515    |
+S.S.ORGANICS                                    |524636    |
+S.V.ELECTRIC                                    |517534    |
+SAAG RR INFR                                    |531374    |
+SABOO SOD CH                                    |530461    |
+SAFARI INDUS                                    |523025    |
+SAHYA INDU                                      |532841    |
+SAI CAPITAL                                     |531931    |
+SAI INDUSTRI                                    |530905    |
+SAINIK FINAN                                    |530265    |
+SAL Steel Ltd.                                  |532604    |
+SAMRAT PHARM(BSE INDONEXT)                      |530125    |
+SAMYAK INT                                      |530025    |
+SANCO TRANS                                     |523116    |
+SAND PLAST                                      |533079    |
+SANDU PHARMA                                    |524703    |
+SANGAL PAPER                                    |516096    |
+SANJIVA PARA                                    |531569    |
+SANKHYA INFO                                    |532972    |
+SANTARAM SPI                                    |531323    |
+SANTOS FINEF                                    |530035    |
+SAPAN CHEM                                      |531781    |
+SARANG CHEMI                                    |532031    |
+SARDA PAPERS                                    |516032    |
+SARK Systems India Limited                      |533056    |
+SARTHAK GLOB                                    |530993    |
+SARTHAK INDS                                    |531930    |
+SARUP TANNER(BSE INDONEXT)                      |514412    |
+SAVANI FINAN                                    |511577    |
+SAVEN TECHNO                                    |532404    |
+SAVERA IND                                      |512634    |
+SB And T International Ltd(NDA)                 |513583    |
+SBEC Sugar Ltd(NDA)                             |532102    |
+SBI GOLD ETS                                    |590098    |
+SCANP GEOM                                      |526544    |
+SCIL Ventures Ltd.(NDA)                         |530269    |
+SE INVESTM                                      |532900    |
+SEASONS FURN                                    |521182    |
+SEASONS TEXT(BSE INDONEXT)                      |514264    |
+SECUN HEALTH                                    |524540    |
+SEL CRPS                                        |700108    |
+SEL Manufacturing Company Limited               |532886    |
+SELLAIDS PUBLICATI INR10 (DEMAT)                |526071    |
+SGN TELECOMS                                    |531812    |
+SH STEEL WI R                                   |513488    |
+SHAH FOODS L                                    |519031    |
+SHAKTI PRESS                                    |526841    |
+SHALIMAR PRO                                    |512499    |
+SHALIMAR WIR                                    |532455    |
+SHAMKE MULTI                                    |514152    |
+SHAMKEN COTS                                    |514209    |
+SHARIA BEES                                     |590109    |
+SHARON BIO                                      |532908    |
+SHEETAL BIO                                     |531800    |
+SHIMOG TECHN                                    |513418    |
+SHIVA FERTIL                                    |530433    |
+SHIVAGRICO                                      |522237    |
+SHR GANE SPI                                    |531693    |
+SHR RAJES PA                                    |516086    |
+SHREE AJIT PULP INR10                           |590058    |
+SHREE PACETR(BSE INDONEXT)                      |527005    |
+SHREENATH                                       |512105    |
+SHRI KRISH                                      |531080    |
+SHRIRAM ASSET MGT INR10                         |531359    |
+SHUKRA JEW                                      |523790    |
+SHUKUN CONSTRUCTIO INR10                        |531715    |
+SHYAM STAR                                      |526365    |
+SHYAMA INFOSYS LTD INR10 (DEMAT)                |531219    |
+SICAL Logistics Ltd.                            |520086    |
+SIDDHA VEN                                      |530439    |
+SIDHARTH TUB                                    |523728    |
+SIL Investments Limited                         |521194    |
+SILVER SMITH INDIA INR10                        |531626    |
+SIMRAN FARMS                                    |519566    |
+SIP INDUS LT                                    |523164    |
+SIR SHADI LA                                    |532879    |
+SITA ENTERPRISES L INR10                        |512589    |
+SKM Egg Products Export (India) Ltd             |532143    |
+SKYPAK SERVICE SPL INR10                        |523846    |
+SM ENERGY TE                                    |522042    |
+SMS Pharmaceuticals Ltd.                        |532815    |
+SNS Textiles Ltd                                |514240    |
+SOFT INF SOL                                    |530651    |
+SOLID STONE                                     |513699    |
+SOLITAIR MAC                                    |522152    |
+SOM DAT FI C                                    |511571    |
+SONAL ADHESI                                    |526901    |
+SOUTH ASIA E                                    |526477    |
+SOUTHERN ISP(BSE INDONEXT)                      |531645    |
+SOVEREIGN DI                                    |523826    |
+SPARC SYSTEM                                    |531370    |
+SPEL Semiconductor Limited                      |517166    |
+SPENTA INTER                                    |526161    |
+SPICE ISL AP(BSE INDONEXT)                      |526827    |
+SPICE-SENSEX PRUDENTIAL ICICI                   |555555    |
+SPL Industries Ltd(NDA)                         |532651    |
+SPLASH MEDIA                                    |512048    |
+SPS INTERNAT                                    |530177    |
+SQL Star International Limited                  |532249    |
+SREE RAYALA                                     |532842    |
+SREI Infrastructure Finance Limited             |523756    |
+SRF Polymers Limited                            |532468    |
+SRHHL IND                                       |524410    |
+SRI NACH COT(BSE INDONEXT)                      |521234    |
+SRI RAMK.MIL(BSE INDONEXT)                      |521178    |
+SRM ENERGY                                      |523222    |
+SRRAYL ALKPS                                    |700102    |
+SS Forgings and Engineering Ltd(NDA)            |522296    |
+SSPDL LTD                                       |530821    |
+STANPACKS IN                                    |530931    |
+STERLING STR                                    |513575    |
+STI India Ltd(NDA)                              |513151    |
+STL Global Ltd.                                 |532730    |
+STOCKNET INT                                    |512640    |
+SUBUTI FINAN                                    |531841    |
+SUDITI IND.                                     |521113    |
+SUGAL DAM                                       |511654    |
+SUMEDH FISCA                                    |530419    |
+SUNDAY EXPOR                                    |530425    |
+SUNGOLD CAPI                                    |531433    |
+SUNIL AG FOO(BSE INDONEXT)                      |530953    |
+SUNRAJ DIAMOND EXP INR10                        |523425    |
+SUPER BAKE I                                    |530735    |
+SUPER CROP SAFE LT INR10 (DEMAT)                |530883    |
+SURYAN FIN L                                    |530867    |
+SVAM SOFTWAR                                    |523722    |
+SVC Resources Limited                           |512449    |
+SVC Superchem Ltd(NDA)                          |524488    |
+SWASTIK INV                                     |530585    |
+SYLPH TECH                                      |511447    |
+SYMPHONY CONF SYS INR10                         |517385    |
+SYSCHEM INDI                                    |531173    |
+SYSTEM COR S                                    |526506    |
+Saamya Biotech (India) Limited                  |532905    |
+Saarc Net Ltd(NDA)                              |531901    |
+Sabero Organics Gujarat Limited                 |524446    |
+Sacheta Metals Ltd(NDA)                         |531869    |
+Sadbhav Engineering Limited                     |532710    |
+Sah Petroleums Ltd(NDA)                         |532543    |
+Sahara Housingfina Corporation Ltd(NDA)         |511533    |
+Saint-Gobain Sekurit India Limited              |515043    |
+Saksoft Ltd.                                    |590051    |
+Sakuma Exports Limited                          |532713    |
+Salona Cotspin Ltd(NDA)                         |590056    |
+Salzer Electronics Ltd(NDA)                     |517059    |
+Sam Industries Ltd                              |532005    |
+Sambandan Spinning Mills Ltd(NDA)               |521240    |
+Sambhaav Media Ltd(NDA)                         |511630    |
+Samkrg Pistons And Rings Ltd                    |520075    |
+Samtex Fashions Ltd(NDA)                        |521206    |
+Sangam (India) Ltd.                             |514234    |
+Sanghi Industries Ltd.                          |526521    |
+Sanghvi Movers Limited                          |530073    |
+Sanguine Media Limited                          |531898    |
+Sanraa Media Limited                            |531312    |
+Sanwaria Agro Oils Limited                      |519260    |
+Sarda Plywood Industries Ltd(NDA)               |516003    |
+Saregama India Limited                          |532163    |
+Sarla Performance Fibers Ltd.                   |526885    |
+Sasken Communication Technologies Ltd.          |532663    |
+Sathavahana Ispat Ltd.                          |526093    |
+Savita Chemicals Ltd.                           |524667    |
+Sayaji Hotels Ltd(NDA)                          |523710    |
+Seamec Ltd.                                     |526807    |
+Seax Global Ventures Ltd(NDA)                   |526843    |
+Sejal Architectural Glass Limited               |532993    |
+Selan Exploration Technology Ltd.               |530075    |
+Sequent Scientific Limited                      |512529    |
+Seshachal Technologies Ltd(NDA)                 |531794    |
+Shah Alloys Ltd.                                |513436    |
+Shakti Met-Dor Ltd(NDA)                         |526510    |
+Shakti Pumps (India) Ltd                        |531431    |
+Shalibhadra Finance Ltd(NDA)                    |511754    |
+Shamrock Industrial Co.Ltd(NDA)                 |531240    |
+Shanthi Gears Ltd.                              |522034    |
+Shantivijay Jewels Ltd(NDA)                     |530989    |
+Shardul Securities Limited                      |512393    |
+Sharp India Ltd(NDA)                            |523449    |
+Shasun Chemicals & Drugs Limited                |524552    |
+Shervani Industrial Syndicate Ltd(NDA)          |526117    |
+Shetron Limited                                 |526137    |
+Shilchar Technologies Ltd(NDA)                  |531201    |
+Shilp Gravures Ltd(NDA)                         |513709    |
+Shilpa Medicare Ltd                             |530549    |
+Shirpur Gold Refinery Ltd(NDA)                  |512289    |
+Shiv Vani Oil & Gas Expl Services Ltd.          |522175    |
+Shiva Cement Ltd                                |532323    |
+Shivalik Bimetal Controls Ltd(NDA)              |513097    |
+Shivam Autotech Ltd(NDA)                        |532776    |
+Shoppers Stop Limited                           |532638    |
+Shree Ashtavinayak Cine Vision Limited          |532793    |
+Shree Ganesh Forgings Ltd(NDA)                  |532643    |
+Shree Global Tradefin Ltd                       |512463    |
+Shree Hari Chem Exports Ltd(NDA)                |524336    |
+Shree Precoated Steels Ltd                      |533110    |
+Shree Rama Multi-Tech Ltd(NDA)                  |532310    |
+Shree Renuka Sugars Limited                     |532670    |
+Shrenuj & Company Ltd.                          |523236    |
+Shreyans Industries Limited                     |516016    |
+Shreyas Intermediates Limited                   |526335    |
+Shreyas Shipping & Logistics Ltd                |520151    |
+Shri Bajranj Alloys Ltd(NDA)                    |526981    |
+Shri Keshav Cements & Infra Limited             |530977    |
+Shri Lakshmi Cotsyn Limited                     |526049    |
+Shriram City Union Finance Limited              |532498    |
+Shriram EPC Limited                             |532945    |
+Shyam Telecom Limited                           |517411    |
+Sicagen India Limited                           |533014    |
+Sika Interplant Systems Ltd(NDA)                |523606    |
+Silicon Valley Infotech Ltd(NDA)                |531738    |
+Silktext Ltd(NDA)                               |526835    |
+Silverline Animation Technologies Ltd.          |532999    |
+Simplex Casting Ltd                             |513472    |
+Simplex Infrastructure Limited                  |523838    |
+Simplex Mills Company Limited                   |533018    |
+Simplex Papers Ltd                              |533019    |
+Simplex Projects Ltd                            |532877    |
+Sinclairs Hotels Limited                        |523023    |
+Sita Shree Food Products Ltd.                   |532961    |
+Skp Securities Ltd(NDA)                         |531169    |
+Sky Industries Ltd(NDA)                         |526479    |
+Smruthi Organics Ltd(NDA)                       |590046    |
+Sobha Developers Ltd.                           |532784    |
+Softpro Systems Ltd(NDA)                        |532332    |
+Softsol India Ltd(NDA)                          |532344    |
+Software Technology Group Internati(NDA)        |532293    |
+Solar Explosives Limited                        |532725    |
+Solectron EMS India Limited                     |532956    |
+Solvay Pharma India Ltd.                        |532447    |
+Soma Textiles & Industries Ltd(NDA)             |521034    |
+Somi Conveyor Beltings Limited                  |533001    |
+Sona Koyo Steering Systems Limited              |520057    |
+Sonata Software Limited                         |532221    |
+South Asian Petrochem Ltd.                      |532452    |
+South India Paper Mills Limited                 |516108    |
+South Indian Bank Limited                       |532218    |
+Southern Online Bio Technologies Limited        |532669    |
+Southern Petrochemical Industries Corp          |590030    |
+Sowbhagya Media Ltd(NDA)                        |532025    |
+Span Diagnostics Ltd                            |524727    |
+Sparsh BPO Services Ltd                         |532833    |
+Spectacle Industries Limited                    |512413    |
+Spectra Industries Ltd(NDA)                     |513687    |
+Spentex Industries Ltd.                         |521082    |
+Spice Communications Ltd.                       |532863    |
+Spice Mobiles Ltd                               |517214    |
+Sree Sakthi Paper Mills Limited                 |532701    |
+Sri Adhikari Brothers Television Network        |530943    |
+Sri Ganapathy Mills Co Ltd(NDA)                 |521236    |
+Sri Lakshmi Saraswathi Textiles(Arni)Ltd        |521161    |
+Srinivasa Hatcheries Ltd                        |526893    |
+Standard Industries Limited                     |530017    |
+Star Paper Mills Limited                        |516022    |
+State Bank Of Travancore                        |532191    |
+State Bank of Mysore                            |532200    |
+State Trading Corporation of India Ltd.         |512531    |
+Steel Exchange India Ltd                        |590037    |
+Steel Strips Infrastructures Limited            |513173    |
+Steel Strips Wheels Ltd.                        |513262    |
+Steelcast Ltd(NDA)                              |513517    |
+Stelco Strips Ltd(NDA)                          |513530    |
+Sterling Biotech Limited                        |512299    |
+Sterling Green Woods Ltd                        |526500    |
+Sterling Holiday Resorts India Ltd.             |523363    |
+Sterling Tools Ltd                              |530759    |
+Sterlite Technologies Limited                   |532374    |
+Stone India Ltd.                                |522085    |
+Store One Retail India Limited                  |532679    |
+Stresscrete India Ltd                           |531444    |
+Strides Arcolab Limited                         |532531    |
+Sturdy Industries Ltd                           |530611    |
+Suashish Diamonds Ltd.                          |526733    |
+Suave Hotels Ltd                                |531373    |
+Subex Ltd.                                      |532348    |
+Subhkam Capital Ltd.                            |531866    |
+Subros Limited                                  |517168    |
+Sujana Metal Products Limited                   |513414    |
+Sujana Towers Limited.                          |532887    |
+Sujana Universal Industries Ltd(NDA)            |517224    |
+Sukhjit Starch & Chemicals Ltd(NDA)             |524542    |
+Sulzer India Ltd                                |522087    |
+Sumeet Industries Ltd                           |514211    |
+Sumeru Industries Ltd(NDA)                      |530445    |
+Sun Pharma Advanced Research Company            |532872    |
+Sun Pharmaceutical Industries Limited           |524715    |
+Sun TV Network Ltd.                             |532733    |
+Sundaram Brake Linings Ltd                      |590072    |
+Sundaram Finance Limited                        |590071    |
+Sundaram Multi Pap Ltd(NDA)                     |590047    |
+Sundaram-Clayton Limited                        |520056    |
+Sunil Hitech Engineers Limited                  |532711    |
+Sunitee Chemicals Ltd(NDA)                      |531945    |
+Sunshield Chemicals Ltd                         |530845    |
+Sunteck Realty Ltd.                             |512179    |
+Super Sales India Ltd(NDA)                      |512527    |
+Super Spinning Mills Ltd                        |521180    |
+Super Tannery Ltd(NDA)                          |523842    |
+Superhouse Ltd(NDA)                             |523283    |
+Supertex Industries Ltd(NDA)                    |526133    |
+Suprajit Engineering Ltd.                       |532509    |
+Supreme Holdings Ltd(NDA)                       |530677    |
+Supreme Infrastructure India Limited            |532904    |
+Supreme Tex Mart Ltd(NDA)                       |531934    |
+Suraj Stainless Ltd                             |531638    |
+Surana Corporation Ltd(NDA)                     |531102    |
+Surana Industries Ltd                           |513597    |
+Surana Telecom & Power Ltd                      |517530    |
+Surat Textile Mills Ltd                         |530185    |
+Surya Jyoti Spinning Mills Ltd(NDA)             |521022    |
+Surya Pharmaceutical Ltd                        |532516    |
+Suryaamba Spinning Mills Limited                |533101    |
+Suryachakra Power Corporation Limited           |532874    |
+Suryalakshmi Cotton Mills Limited               |521200    |
+Suryalata Spinning Mills Ltd.                   |514138    |
+Suryavanshi Spinning Mills Ltd                  |514140    |
+Sutlej Textiles & Industries Ltd(NDA)           |532782    |
+Suven Life Sciences Ltd.                        |530239    |
+Suzlon Energy Limited                           |532667    |
+Swasti Vinayaka Gems Corporation (NDA)          |512257    |
+Swiss Glascoat Equipments Ltd                   |522215    |
+Switching Technology Gunther Ltd(NDA)           |517201    |
+Sybly Industries Ltd(NDA)                       |531499    |
+Syncom Formulations India Ltd(NDA)              |524470    |
+Syndicate Bank Ltd.                             |532276    |
+T&I GLOBAL L                                    |522294    |
+T. Spiritual World Ltd                          |532444    |
+T25BHIPD                                        |533128    |
+TAKE Solutions Limited                          |532890    |
+TARAI FOOD L                                    |519285    |
+TATA SM1AD                                      |533084    |
+TATA SM1AG                                      |533085    |
+TATA SM1BG                                      |533087    |
+TATIA GLOB                                      |521228    |
+TCFC Finance Ltd                                |532284    |
+TCI Industries Ltd.                             |532262    |
+TCM LIMITED                                     |524156    |
+TEEST AGRO I                                    |524204    |
+TELECANOR                                       |530595    |
+TERAI TEA CO                                    |530533    |
+TEXPLAST IND                                    |530635    |
+TFMP25ASDR                                      |533119    |
+THAMBBI MODERN SPI INR10                        |514484    |
+THINKSOFT                                       |533121    |
+TIMEXWAT CRP                                    |700110    |
+TIRUPATI IND                                    |531547    |
+TIRUPATI SAR                                    |531814    |
+TIRUPATI STA                                    |524582    |
+TITAN BIOTEC(BSE INDONEXT)                      |524717    |
+TITAN SECURI                                    |530045    |
+TOKYO FINANC                                    |531644    |
+TOYAM ELECTR(BSE INDONEXT)                      |517407    |
+TPL Plastech Limited                            |526582    |
+TRAN FRE CON                                    |513063    |
+TRANS ASIAC                                     |530783    |
+TRANSCON RES                                    |531318    |
+TRANSCORP IN                                    |532410    |
+TRANSPEK FIN                                    |531254    |
+TRC FINAN SE                                    |511730    |
+TRIBHVAN HSG                                    |531703    |
+TRIJAL INDUS                                    |531658    |
+TRISH ELEC I                                    |531279    |
+TT Ltd(NDA)                                     |514142    |
+TTK Prestige Limited                            |517506    |
+TV Today Network Ltd.                           |532515    |
+TVS Electronics Ltd (Merged)                    |532513    |
+TVS Motor Company Limited                       |532343    |
+Tai Industries Ltd                              |519483    |
+Taj GVK Hotels & Resorts Limited                |532390    |
+Tamil Nadu Newsprint & Papers Limited           |531426    |
+Tamilnadu Jay Bharath Mills Ltd                 |521038    |
+Tamilnadu Telecommunications Ltd(NDA)           |523419    |
+Taneja Aerospace & Aviation Ltd.                |522229    |
+Tanla Solutions Limited                         |532790    |
+Tantia Constructions Limited                    |532738    |
+Tata Coffee Ltd.                                |532301    |
+Tata Consultancy Services Limited               |532540    |
+Tata Metaliks Limited                           |513434    |
+Tata Sponge Iron Ltd                            |513010    |
+Tata Teleservices (Maharashtra) Limited         |532371    |
+Tech Mahindra Limited                           |532755    |
+Techno Forge Ltd                                |522142    |
+Technocraft Industries (India) Limited          |532804    |
+Techtran Polylenses Ltd                         |523455    |
+Teledata Informatics Ltd .(India)               |532358    |
+Teledata Technology Solutions Limited           |533089    |
+Telephoto Entertainments Ltd(NDA)               |532355    |
+Television Eighteen India Limited               |532299    |
+Temptation Foods Ltd.                           |519228    |
+Tera Software Ltd.                              |590020    |
+Thakkars Developers Ltd(NDA)                    |526654    |
+The Andhra Sugars Limited                       |590062    |
+The Dhanalakshmi Bank Limited                   |532180    |
+The KCP Ltd                                     |590066    |
+The Sandesh Ltd.                                |526725    |
+The Saraswati Industrial Syndicate Ltd          |533033    |
+The Shipping Corporation of India Ltd.          |523598    |
+Themis Medicare Ltd                             |530199    |
+Tide Water Oil India Ltd                        |590005    |
+Time Technoplast Limited                        |532856    |
+Times Guaranty Ltd(NDA)                         |511559    |
+Timken India Limited                            |522113    |
+Tips Industries Limited                         |532375    |
+Tirupati Foam Ltd                               |590035    |
+Titagarh Wagons Ltd                             |532966    |
+Tonira Pharma Ltd(NDA)                          |530155    |
+Torrent Gujarat Biotech Ltd                     |523856    |
+Torrent Power Limited                           |532779    |
+Tourism Finance Corporation of India Ltd        |526650    |
+Transformers & Rectifiers (India) Ltd.          |532928    |
+Transgene Biotek Ltd                            |526139    |
+Transport Corporation of India Limited          |532349    |
+Transwarranty Finance Limited                   |532812    |
+Trend Electronics Ltd(NDA)                      |517228    |
+Tricom India Ltd.                               |531675    |
+Trigyn Technologies Ltd                         |517562    |
+Trimurthi Drugs & Pharmaceuticals Ltd           |590093    |
+Trinethra Infra Ventures Limited                |590091    |
+Triton Corp Ltd.                                |523387    |
+Triveni Engineering & Industries Ltd.           |532356    |
+Tulip Star Hotels Ltd(NDA)                      |531088    |
+Tulip Telecom Limited                           |532691    |
+Tulsi Extrusions Limited                        |532948    |
+Tulsyan NEC Ltd(NDA)                            |513629    |
+Tutis Technologies Ltd(NDA)                     |532311    |
+Twenty First Century Printers Ltd(NDA)          |523301    |
+Twin Star Software Export Ltd                   |531917    |
+Tyche Industries Ltd(NDA)                       |532384    |
+Tyroon Tea Ltd(NDA)                             |526945    |
+U G HOTELS R                                    |526463    |
+UCO Bank Limited                                |532505    |
+UMS TECHNO                                      |530937    |
+UNIMIN IND L                                    |530321    |
+UNIROYAL IN                                     |521226    |
+UNIROYAL MAR                                    |526113    |
+UNITED DRI T                                    |522014    |
+UNITED TEXTI                                    |521188    |
+UNITEX DES                                      |532442    |
+UNIVER STARC(BSE INDONEXT)                      |524408    |
+UNIVERSAL A                                     |532378    |
+UNJHA FORMUL                                    |531762    |
+UPSURGE INVS                                    |531390    |
+URJA GLOBAL                                     |526987    |
+USHAKIRA FIN                                    |511507    |
+UT Ltd(NDA)                                     |526879    |
+UTI GOLD ETF                                    |590101    |
+UTISUNDERETF                                    |590102    |
+UTV Software Communications Ltd                 |532619    |
+UV DER HORST                                    |522091    |
+Ugar Sugar Works Limited                        |530363    |
+UltraTech Cement Ltd.                           |532538    |
+Unimers India Limited                           |524264    |
+Union Bank of India                             |532477    |
+Uniply Industries Ltd(NDA)                      |532646    |
+United Breweries Limited                        |532478    |
+United Credit Limited                           |531091    |
+United Phosphorus Limited                       |512070    |
+United Spirits Limited                          |532432    |
+Unity Infraprojects Limited                     |532746    |
+Universal Office Automation Ltd(NDA)            |523519    |
+Uniworth Ltd(NDA)                               |514144    |
+Upper Ganges Sugar & Industries Ltd.            |530505    |
+Usha Martin Education & Solutions Ltd           |532398    |
+Usha Martin Education & Solutions Ltd           |532398    |
+Usha Martin Limited                             |517146    |
+Ushdev International Ltd.                       |511736    |
+Usher Agro Limited                              |532765    |
+Uttam Galva Steels Ltd.                         |513216    |
+Uttam Sugar Mills Limited                       |532729    |
+V B C Industries Ltd.                           |524310    |
+V R WOODART                                     |523888    |
+V-Guard Industries Ltd.                         |532953    |
+VADILAL ENTE                                    |519152    |
+VAGHANI                                         |531676    |
+VALLEY INDIANA LEI INR10                        |531962    |
+VAMSHI RUBBE                                    |530369    |
+VANTA COR SE                                    |530109    |
+VARDHMAN LABORATOR INR10                        |524796    |
+VAX HOUS FIN                                    |531650    |
+VBC Ferro Alloys Limited                        |513005    |
+VCCL LTD                                        |522015    |
+VCK CAPI M S                                    |511493    |
+VEDANT HOTEL                                    |531198    |
+VENKAT PHARM                                    |532093    |
+VENUS UNIVERSAL INR2.5                          |530769    |
+VERITAS                                         |512229    |
+VICTORY PAPE                                    |531234    |
+VIJAY SOLVEX                                    |531069    |
+VIKAS GLO                                       |530961    |
+VINTAGE CARD                                    |532360    |
+VINTAGE SECU                                    |531051    |
+VINYOFLEX LT                                    |530401    |
+VIRAT INDUST                                    |530521    |
+VISHNU CHEM                                     |516072    |
+VISION CORPO                                    |531668    |
+VIVID IND                                       |524576    |
+VJIL Consulting Limited                         |517429    |
+VMF SOFT TEC                                    |519602    |
+VOGUE TEXTILES LTD INR10                        |530583    |
+VST Tillers Tractors Limited                    |531266    |
+VTM LTD                                         |532893    |
+VXL Instruments Ltd(NDA)                        |517399    |
+Vadilal Industries Ltd(NDA)                     |519156    |
+Vaibhav Gems Ltd.                               |532156    |
+Vakrangee Softwares Ltd.                        |511431    |
+Valecha Engineering Limited                     |532389    |
+Valiant Communications Ltd.                     |526775    |
+Vallabh Steels Ltd                              |513397    |
+Valson Industries Ltd                           |530459    |
+Valuemart Info Technologies Ltd(NDA)            |532338    |
+Vama Industries Ltd.(NDA)                       |512175    |
+Vanasthali Textiles Industries(NDA)             |521046    |
+Vardhman Industries Ltd(NDA)                    |513534    |
+Vardhman Polytex Ltd.                           |514175    |
+Varun Industries Limited                        |532917    |
+Vas Infrastructure Ltd(NDA)                     |531574    |
+Veejay Lakshmi Engineering Works Ltd            |522267    |
+Velan Hotels Ltd                                |526755    |
+Venlon Enterprises Limited                      |524038    |
+Ventura Textiles Ltd                            |516098    |
+Venus Remedies Ltd.                             |526953    |
+Venus Ventures Ltd(NDA)                         |531874    |
+Vertex Securities Ltd                           |531950    |
+Vertex Spinning Ltd.                            |531544    |
+Vesuvius India Limited                          |520113    |
+Viceroy Hotels Ltd.                             |523796    |
+Vidhi Dyestuffs Manufacturing Ltd(NDA)          |531717    |
+Vijay Shanthi Builders Ltd                      |523724    |
+Vijay Textiles Ltd(NDA)                         |530151    |
+Vijaya Bank                                     |532401    |
+Vijayeswari Textiles Limited                    |532824    |
+Vikas Granaries Limited                         |531518    |
+Vikas WSP Limited                               |519307    |
+Vikash Metal & Power Ltd.                       |532677    |
+Vikram Thermo (India) Ltd(NDA)                  |530477    |
+Vimal Oil & Foods Ltd                           |519373    |
+Vimta Labs Ltd                                  |524394    |
+Vinati Organics Ltd(NDA)                        |524200    |
+Vinay Cements Ltd(NDA)                          |518051    |
+Vindhya Telelink Ltd                            |517015    |
+Vinyl Chemicals (India) Ltd                     |524129    |
+Vippy Spinpro Ltd(NDA)                          |514302    |
+Vipul Dye Chem Ltd                              |530627    |
+Vipul Ltd.                                      |511726    |
+Virat Crane Industries Ltd(NDA)                 |519457    |
+Virinchi Technologies Ltd(NDA)                  |532372    |
+Visa Steel Limited                              |532721    |
+Visesh Infotecnis Ltd                           |532411    |
+Vishal Exports Overseas Ltd(NDA)                |532618    |
+Vishal Information Technologies Ltd.            |533011    |
+Vishal Retail Limited                           |532867    |
+Visisth Mercantile Ltd(NDA)                     |512279    |
+Vista Pharmaceuticals Ltd(NDA)                  |524711    |
+Visu International Ltd(NDA)                     |590038    |
+Vivimed Labs Ltd                                |532660    |
+Voith Paper Fabrics India Ltd(NDA)              |522122    |
+Voltamp Transformers Limited                    |532757    |
+Vulcan Engineers Ltd                            |522080    |
+Vybra Automet Ltd(NDA)                          |520003    |
+WABCO TVS INDIA Ltd                             |533023    |
+WARNER MULTM                                    |511690    |
+WELL PACK PA                                    |531249    |
+WHITE DIAM I                                    |513713    |
+WIM Plast Ltd                                   |526586    |
+WINRO COMMR.                                    |512022    |
+WOOLITE MERC                                    |512217    |
+WORLDW LE EX                                    |526525    |
+Wallfort Financial Services Ltd.(NDA)           |532053    |
+Wanbury Limited                                 |524212    |
+Waterbase Ltd(NDA)                              |523660    |
+Wearology Ltd                                   |523628    |
+Websol Energy Systems Limited                   |517498    |
+Weizmann Ltd (NDA)                              |523011    |
+Welcure Drugs & Pharmaceuticals Ltd             |524661    |
+Wellworth Overseas Ltd(NDA)                     |531752    |
+Welspun India Limited                           |514162    |
+Welspun-Gujarat Stahl Rohren Limited            |532144    |
+Western India Shipyard Limited                  |531217    |
+Wheels India Ltd                                |590073    |
+Williamson Financial Services Ltd               |519214    |
+Williamson Magar and Co Ltd                     |519224    |
+Windsor Machines Ltd(NDA)                       |522029    |
+Winsome Breweries Ltd(NDA)                      |526471    |
+Winsome Textile Industries Ltd                  |514470    |
+Winsome Yarns Ltd                               |514348    |
+Wintac Ltd                                      |524758    |
+Wire and Wireless India Limited                 |532795    |
+Wisec Global Ltd                                |511642    |
+Wockhardt Limited                               |532300    |
+XL Telecom & Energy Ltd.                        |532788    |
+XO INFOTEC L                                    |532116    |
+Xpro India Limited                              |590013    |
+YARN SYNDICT                                    |514378    |
+YASH MANA SA                                    |511601    |
+YOGI SUNGWON                                    |522209    |
+Yash Papers Limited                             |516030    |
+Yashraj Containeurs Ltd                         |530063    |
+Yes Bank Limited                                |532648    |
+Yuken India Ltd(NDA)                            |522108    |
+ZENIT HEALTC                                    |530665    |
+ZENITH FIBRS(BSE INDONEXT)                      |514266    |
+ZENU INFOTECH LTD INR10                         |531364    |
+ZUARI FOREX                                     |530283    |
+Zee News Limited                                |532794    |
+Zen Technologies Limited                        |590032    |
+Zenith Birla (India) Limited                    |531845    |
+Zenith Computers Ltd.                           |517164    |
+Zenith Exports Ltd(NDA)                         |512553    |
+Zenith Infotech Ltd.                            |532298    |
+Zenotech Laboratories Limited                   |532039    |
+Zicom Electronic Security Systems Ltd.          |531404    |
+Zigma Software Ltd(NDA)                         |532177    |
+Zodiac Clothing Company Ltd.                    |521163    |
+Zodiac JRD MKJ Ltd(NDA)                         |512587    |
+Zyden Gentec Ltd(NDA)                           |530091    |
+Zydus Wellness Limited(NDA)                     |531335    |
+Zylog Systems Ltd.                              |532883    |
+aurionPro Solutions Limited                     |532668    |
+eClerx Services Limited                         |532927    |

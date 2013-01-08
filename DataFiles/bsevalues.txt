@@ -1,0 +1,66 @@
+Index0ValueBsePlus#$#ALLAHABAD BK
+Index1ValueALLAHABAD BANK
+Index2Value532480
+Index3ValueA 
+Index4Value10.00
+Index5ValueALLBANK
+Index6ValueBSE200
+Index7ValueBanks
+Index8ValueN#SECTION# 
+Index9ValueMktInd13
+Index10Value0.00
+Index11Value161.05
+Index12Value
+Index13Value
+Index14Value161.05
+Index15Value12.00
+Index16Value8.05
+Index17Value2
+Index18Value85
+Index19Value149.05#SECTION#163.50 / 147.95
+Index20Value149.05 / 149.05
+Index21Value158.26
+Index22Value(Cr.)
+Index23Value19.31
+Index24Value(Lakh)
+Index25Value12.20 / 2.28
+Index26Value0.00 / 0.00
+Index27Value7,669 / 3,451#SECTION#--
+Index28Value--
+Index29Value161.05
+Index30Value982
+Index31Value--
+Index32Value--
+Index33Value--
+Index34Value--
+Index35Value--
+Index36Value--
+Index37Value--
+Index38Value--
+Index39Value--
+Index40Value--
+Index41Value--
+Index42Value--
+Index43Value--
+Index44Value--
+Index45Value--
+Index46Value--
+Index47Value6,835
+Index48Value3,441#SECTION#163.50
+Index49Value142.00
+Index50Value163.50
+Index51Value139.05
+Index52Value270.90
+Index53Value139.05
+Index54Value11 Nov 10
+Index55Value25 Oct 11
+Index56Value15.94
+Index57Value9.34
+Index58Value12 May 2011
+Index59Value
+Index60Value11/2/2011 3:57:52 PM
+Index61Value1
+Index62Value0#SECTION#532480
+Index63Value1
+Index64Value
+Index65Value
